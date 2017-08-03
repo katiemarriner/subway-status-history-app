@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Franklin Avenue</station_name>
+		<line>C,S</line>
+		<art1_artist-first>Eric</art1_artist-first>
+		<art1_artist-last>Pryor</art1_artist-last>
+		<art1_title>Life and Continued Growth</art1_title>
+		<art1_date>1999</art1_date>
+		<art1_material>Faceted glass on platform wall</art1_material>
+		<art1_description>In {Life and Continued Growth}, Eric Pryor's 29 faceted glass windows use both traditional African and contemporary African American images.  Antelope horns signify movement and are a symbol for material prosperity.  Butterflies signify the life cycle, from gestation to birth to the change into adulthood.  The importance of music and rhythm are shown through African drums, a saxophone, and trumpets, rendered in vivid red, gold, and purple in contrast to the receding shades of green, blue and turquoise.  "The Franklin Avenue-Fulton Street area's rich African American heritage is being reborn," says Pryor. "Change and opportunity are arriving and the shuttle line both encourages and reflects how the community's new optimism.  {Life and Continued Growth} emerges from a spirit that is rooted in traditional African-American culture and the new energy that is making it soar again."</art1_description>
+		<art1_image1-b>Pryor1b.jpg</art1_image1-b>
+		<art1_image1-m>Pryor1m.jpg</art1_image1-m>
+		<art1_image1-s>Pryor1s.jpg</art1_image1-s>
+		<art1_image2-b>Pryor2b.jpg</art1_image2-b>
+		<art1_image2-m>Pryor2m.jpg</art1_image2-m>
+		<art1_image2-s>Pryor2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Park Place</station_name>
+		<line>S</line>
+		<art1_artist-first>Isha</art1_artist-first>
+		<art1_artist-last>Shabaka</art1_artist-last>
+		<art1_title>Units of the Free</art1_title>
+		<art1_date>1999</art1_date>
+		<art1_material>Wrought iron railings throughout station</art1_material>
+		<art1_description>Railings are a functional requirement in the transit environment, but under Isha Shabaka's guiding hand, they are also powerfully expressive.  Shabaka designed the railings to highlight the role of the station as an important neighborhood place.  The thin and elegant diagonals of the rail create a see-through effect that helps open up the subway to the community.  A large-scale image of an African mask is boldly designed in open metalwork.  Its nose is a starkly geometric triangle, that symbolizes power and movement in some traditional cultures.  Other shapes in the mask are the changeable curving lines, that allow the form to appear to be variously awake or asleep, vigilant or distracted,  "commuters," Shakaba says.  "Sometimes they may be aware and thinking when waiting for the train, or just relaxing for a moment.  I'm showing both states."</art1_description>
+		<art1_image1-b>Shabaka1b.jpg</art1_image1-b>
+		<art1_image1-m>Shabaka1m.jpg</art1_image1-m>
+		<art1_image1-s>Shabaka1s.jpg</art1_image1-s>
+		<art1_image2-b>Shabaka2b.jpg</art1_image2-b>
+		<art1_image2-m>Shabaka2m.jpg</art1_image2-m>
+		<art1_image2-s>Shabaka2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Botantic Garden /Franklin Avenue</station_name>
+		<line>S,2,3,4,5</line>
+		<art1_artist-first>Millie</art1_artist-first>
+		<art1_artist-last>Burns</art1_artist-last>
+		<art1_title>IL7/Square</art1_title>
+		<art1_date>1999</art1_date>
+		<art1_material>Wrought iron railings at station exterior</art1_material>
+		<art1_description>At the Botanic Garden station, community representatives, the station architectural team, and artist Millie Burns created a sensitive visual transition from street to mini-park surrounding the entrance and finally into the transit facility itself.  This is achieved by fences and railing designs.  The tall and wavy metal constructions echo both the trees and stately apartment buildings lining Eastern Parkway and harmonize with the modern lines of the station house.  Most importantly, they lead the way into the station and provide aesthetic uplift for transit users.  "The communities that border Eastern Parkway and the Botanic Garden are blessed with a rich natural bounty," Burns says.  "We are surrounded by trees, shrubs, plants, and vines.  The fences and railing designs are drawn from what I see in this neighborhood.  {IL7/Square} is about growth, a reaching toward the sun."</art1_description>
+		<art1_image1-b>Burns1b.jpg</art1_image1-b>
+		<art1_image1-m>Burns1m.jpg</art1_image1-m>
+		<art1_image1-s>Burns1s.jpg</art1_image1-s>
+		<art1_image2-b>Burns2b.jpg</art1_image2-b>
+		<art1_image2-m>Burns2m.jpg</art1_image2-m>
+		<art1_image2-s>Burns2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Prospect Park</station_name>
+		<line>B,Q,S</line>
+		<art1_artist-first>Susan</art1_artist-first>
+		<art1_artist-last>Tunick</art1_artist-last>
+		<art1_title>Brighton Clay Re-Leaf Nos. 1-4</art1_title>
+		<art1_date>1994</art1_date>
+		<art1_material>Ceramic mosaic on mezzanine</art1_material>
+		<art1_description>For both the Prospect Park and Parkside Avenue stations, Susan Tunick created intricate, multicolored ceramic mosaic murals and borders.  These 1919 stations, with station booths and turnstiles located in above-ground "headhouses," feature wall tiles and decorative borders influenced by the Arts and Crafts movement.  Tunick's art celebrates the vintage ceramic ornamentation of the station and is inspired by her fascination with terra cotta and her childhood memories of nearby Prospect Park and the Brooklyn Botanic Garden.  Tunick says her works for the sites, collectively titled {Brighton Clay Re-Leaf, Nos.1-4}, balance her respect for the stations' "ceramic history," her recollection of the colors and shapes of the foliage in the park and garden, and her desire to add eye-catching modern design, which is achieved in her use of bold color, pattern, and texture in the tiles.</art1_description>
+		<art1_image1-b>Tunick1b.jpg</art1_image1-b>
+		<art1_image1-m>Tunick1m.jpg</art1_image1-m>
+		<art1_image1-s>Tunick1s.jpg</art1_image1-s>
+		<art1_image2-b>Tunick2b.jpg</art1_image2-b>
+		<art1_image2-m>Tunick2m.jpg</art1_image2-m>
+		<art1_image2-s>Tunick2s.jpg</art1_image2-s>
+	</station>
+
+</permart>

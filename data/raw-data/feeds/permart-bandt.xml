@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>BT</abbr>
+		<agency>Bridges and Tunnels</agency>
+		<station_name>Brooklyn Battery Tunnel</station_name>
+		<art1_artist-first>R. M.</art1_artist-first>
+		<art1_artist-last>Fischer</art1_artist-last>
+		<art1_title>Brooklyn-Battery Tunnel Clock</art1_title>
+		<art1_date>1992</art1_date>
+		<art1_material>Stainless steel and aluminum sculpture on fa&ccedil;ade of Manhattan Plaza ventilation building</art1_material>
+		<art1_description>The Art Deco forms of this monumental artwork respond to the architecture of the tunnel ventilation building on which it is installed, announcing the time with a glowing welcome.  In the artist's words, the clock's "traditional form and function offer a sense of anticipation, and its sculptural presence instills a sense of wonder by day and at night."  The 86-foot sculpture was commissioned to mark the tunnel's fortieth Anniversary.  While it serves to tell travelers the time and to provide necessary illumination, the piece, more importantly, is a work of art.  "Tunnels are also processional gateways and my work celebrates the passage from one New York City borough to another," Fischer says.  The imagery in the work is a response to the architecture of the tunnel's nearby ventilation building and its era, automobile imagery, and engineering design.</art1_description>
+		<art1_image1-b>Fischer1-b.jpg</art1_image1-b>
+		<art1_image1-m>Fischer1-m.jpg</art1_image1-m>
+		<art1_image1-s>Fischer1-s.jpg</art1_image1-s>
+		<art1_image2-b>Fischer2-b.jpg</art1_image2-b>
+		<art1_image2-m>Fischer2-m.jpg</art1_image2-m>
+		<art1_image2-s>Fischer2-s.jpg</art1_image2-s>
+	</station>
+
+</permart>

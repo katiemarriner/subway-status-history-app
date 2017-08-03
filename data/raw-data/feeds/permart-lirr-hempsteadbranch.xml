@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Atlantic Terminal</station_name>
+		<line>Babylon Branch</line>
+		<art1_artist-first>Allan and Ellen</art1_artist-first>
+		<art1_artist-last>Wexler</art1_artist-last>
+		<art1_title>Overlook</art1_title>
+		<art1_date>2009</art1_date>
+		<art1_material>Granite</art1_material>
+		<art1_description>The new MTA Long Island Rail Road (LIRR) Atlantic Terminal in Brooklyn features an artist/architect collaboration in a soaring, light-filled atrium. The project architects, di Domenico + Partners collaborated with the artists, Allan Wexler and Ellen Wexler, to create a special place of arrival in the entry pavilion which reaches from the street level down to the ticket office, waiting room and LIRR and NYC Transit subways. *The Wexlers created a two-story sculptural balcony and wall that visually evokes the adventure of travel. Titled {Overlook}, its rocky granite form cantilevers above the main concourse at the Terminal, referencing scenic overlooks often found in national parks, where travelers are encouraged to pause and take in the larger scene. The bands of granite also refer to nature found underground in layers of rock. Allan Wexler commented, "We sought to create the experience of viewing an urban public space as if it were a nature setting, using granite tiles mathematically pixilated to create nooks and crannies found in rock walls." Ellen Wexler said, "We wanted to create a space where one can stop and take in the dynamic energy, which is as exciting as stopping to take in the Grand Canyon or other major vista". *{Overlook} is framed by a pair of sweeping staircases and a glass and stainless steel balcony/railing that flows with the architecture of the space, which promises to be a Brooklyn landmark, akin to Grand Central Terminal's famous clock. *Allan Wexler and Ellen Wexler have created public art works nationwide, often using familiar forms imbued with new meanings and functions, fostering a new way of looking at or using the specific site. The materials used often are construction materials, as in the case of {Overlook}.</art1_description>
+		<art1_image1-b>wexler1b.jpg</art1_image1-b>
+		<art1_image1-m>wexler1m.jpg</art1_image1-m>
+		<art1_image1-s>wexler1s.jpg</art1_image1-s>
+		<art1_image2-b>wexler2b.jpg</art1_image2-b>
+		<art1_image2-m>wexler2m.jpg</art1_image2-m>
+		<art1_image2-s>wexler2s.jpg</art1_image2-s>
+		<art1_image3-b>wexler3b.jpg</art1_image3-b>
+		<art1_image3-m>wexler3m.jpg</art1_image3-m>
+		<art1_image3-s>wexler3s.jpg</art1_image3-s>
+		<art1_image4-b>wexler4b.jpg</art1_image4-b>
+		<art1_image4-m>wexler4m.jpg</art1_image4-m>
+		<art1_image4-s>wexler4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Hempstead</station_name>
+		<line>Hempstead Branch</line>
+		<art1_artist-first>Ron</art1_artist-first>
+		<art1_artist-last>Baron</art1_artist-last>
+		<art1_title>Lost and Found: An Excavation Project</art1_title>
+		<art1_date>2005</art1_date>
+		<art1_material>Cast bronze sculpture and seating in plaza</art1_material>
+		<art1_description>From afar the tower of luggage is puzzling; draw closer and you see that the luggage is cast in bronze and colored in a natural patina.  The multi-faceted installation includes special cast bronze seating and memorabilia that speaks to the community's heritage and memories.  Among the Long Island-related items are an edition of {Newsday} featuring the Islanders winning the Stanley Cup, an NBA basketball (Julius Erving was from nearby Roosevelt), a Jets football reflecting the team practices at Hofstra University, and yearbooks from Hempstead High School highlighting community events, such as Martin Luther King's address to students of the high school in 1968.  Ron Baron refers to himself as a "cultural archaeologist;" and he culls everyday objects from streets and sidewalks, thrift shops, and garage sales.  He then forms his monuments, "geological" constructs of his finds, which transform the objects into something completely new.</art1_description>
+		<art1_image1-b>Baron1b.jpg</art1_image1-b>
+		<art1_image1-m>Baron1m.jpg</art1_image1-m>
+		<art1_image1-s>Baron1s.jpg</art1_image1-s>
+		<art1_image2-b>Baron2b.jpg</art1_image2-b>
+		<art1_image2-m>Baron2m.jpg</art1_image2-m>
+		<art1_image2-s>Baron2s.jpg</art1_image2-s>
+		<art1_image3-b>Baron3b.jpg</art1_image3-b>
+		<art1_image3-m>Baron3m.jpg</art1_image3-m>
+		<art1_image3-s>Baron3s.jpg</art1_image3-s>
+	</station>
+
+</permart>

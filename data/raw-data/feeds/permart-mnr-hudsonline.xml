@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+	    	<station_name>Yankees-E. 153rd Street</station_name>
+		<line>Hudson Line</line>
+		<art1_artist-first>Ellen</art1_artist-first>
+		<art1_artist-last>Harvey</art1_artist-last>
+	    	<art1_title>The Home of the Stars</art1_title>
+		<art1_date>2009</art1_date>
+		<art1_material>Glass mosaic on pedestrian overpass walls</art1_material>
+		<art1_description>{The Home of the Stars}, created by artist Ellen Harvey, is a large-scaled series of mosaic panels that grace the walls of the pedestrian overpass of Metro-North Railroad's new Yankees-E. 153rd Street Station at in the Bronx.*This site-specific artwork, based on a series of photographs and watercolors capturing the south-facing Bronx sky from 6:30 to 9 p.m., portrays a typically spectacular Bronx sky in April as it progresses through 11 panels from a radiant cloud-filled sky to a starlit night. The photographs were translated into glass mosaic to capture the atmospheric progression and the iridescent quality of the evening sky.*The 1,228-square-foot mosaic brings a romantic moment into an urban setting while welcoming riders to the community. Speaking about her inspiration for the new artwork, Harvey said, "Everyone knows Yankee Stadium as 'the Home of the Stars' but in the busy streets of the Bronx, where the city lights drown out the sky, it's easy to forget the real stars. In this mosaic, as people walk by, the sun sets and the stars come out to welcome them."*The City of New York provided financial support to the project.</art1_description>
+		<art1_image1-b>harvey-yankees1b.jpg</art1_image1-b>
+		<art1_image1-m>harvey-yankees1m.jpg</art1_image1-m>
+		<art1_image1-s>harvey-yankees1s.jpg</art1_image1-s>
+		<art1_image2-b>harvey-yankees2b.jpg</art1_image2-b>
+		<art1_image2-m>harvey-yankees2m.jpg</art1_image2-m>
+		<art1_image2-s>harvey-yankees2s.jpg</art1_image2-s>
+		<art1_image3-b>harvey-yankees3b.jpg</art1_image3-b>
+		<art1_image3-m>harvey-yankees3m.jpg</art1_image3-m>
+		<art1_image3-s>harvey-yankees3s.jpg</art1_image3-s>
+		<art1_image4-b>harvey-yankees4b.jpg</art1_image4-b>
+		<art1_image4-m>harvey-yankees4m.jpg</art1_image4-m>
+		<art1_image4-s>harvey-yankees4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Riverdale</station_name>
+		<line>Hudson Line</line>
+		<art1_artist-first>Dennis</art1_artist-first>
+		<art1_artist-last>Oppenheim</art1_artist-last>
+		<art1_title>Rising and Setting</art1_title>
+		<art1_date>2006</art1_date>
+		<art1_material>Perforated painted steel sculpture on station grounds</art1_material>
+		<art1_description>For Metro-North's Riverdale railroad station in the Bronx, Dennis Oppenheim created a low-relief, brightly painted metal sculpture in the shape of four houses.  They seem to be ascending and descending in the way the sun rises and sets, and thus the title, {Rising and Setting}.  The sculpture, installed outdoors, is painted in shades of yellow, orange and blue.  The artist explaines, "This work evokes the daily cycle of commuters, those who leave in the morning and return at night.  Instead of the sun rising and setting, the neighborhood itself is shown engaging in a similar movement from the bright, early morning to the dark, late evening."</art1_description>
+		<art1_image1-b>Oppenheim1b.jpg</art1_image1-b>
+		<art1_image1-m>Oppenheim1m.jpg</art1_image1-m>
+		<art1_image1-s>Oppenheim1s.jpg</art1_image1-s>
+		<art1_image2-b>Oppenheim2b.jpg</art1_image2-b>
+		<art1_image2-m>Oppenheim2m.jpg</art1_image2-m>
+		<art1_image2-s>Oppenheim2s.jpg</art1_image2-s>
+		<art1_image3-b>Oppenheim3b.jpg</art1_image3-b>
+		<art1_image3-m>Oppenheim3m.jpg</art1_image3-m>
+		<art1_image3-s>Oppenheim3s.jpg</art1_image3-s>
+		<art1_image4-b>Oppenheim4b.jpg</art1_image4-b>
+		<art1_image4-m>Oppenheim4m.jpg</art1_image4-m>
+		<art1_image4-s>Oppenheim4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Yonkers</station_name>
+		<line>Hudson Line</line>
+		<art1_artist-first>Barbara</art1_artist-first>
+		<art1_artist-last>Segal</art1_artist-last>
+		<art1_title>Muhheakantuck (The River that Flows Two Ways)</art1_title>
+		<art1_date>2005</art1_date>
+		<art1_material>Aluminum reliefs on train overpass</art1_material>
+		<art1_description>Barbara Segal's artwork is composed of two gigantic metal artworks.  {Muhheakantuck} is an Indian word for the Hudson River.  The cast aluminum sculptures are located on the sides of the bridge the trains use and can be viewed both by commuters at the station and by those passing by on the streets below.  The artist, a Yonkers resident, consulted both art-historical and scientific sources to evoke the river's past.  Segal was taken by the fact that the river in this area can actually flow upstream as well as down, depending on tidal conditions.  She explained to the {Westchester Times}: "The work is an abstract representation of the river...The sun and moon will constantly change the lighting on the sculpture, and the shadows will change with the sunrise and sunset."  The sculpture is installed, the artist notes, at a spot where the river's original shoreline was situated before landfill and development of the riverfront.</art1_description>
+		<art1_image1-b>Segal1b.jpg</art1_image1-b>
+		<art1_image1-m>Segal1m.jpg</art1_image1-m>
+		<art1_image1-s>Segal1s.jpg</art1_image1-s>
+		<art1_image2-b>Segal2b.jpg</art1_image2-b>
+		<art1_image2-m>Segal2m.jpg</art1_image2-m>
+		<art1_image2-s>Segal2s.jpg</art1_image2-s>
+		<art1_image3-b>Segal3b.jpg</art1_image3-b>
+		<art1_image3-m>Segal3m.jpg</art1_image3-m>
+		<art1_image3-s>Segal3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Dobbs Ferry</station_name>
+		<line>Hudson Line</line>
+		<art1_artist-first>Nancy</art1_artist-first>
+		<art1_artist-last>Blum</art1_artist-last>
+		<art1_title>Floating Auriculas</art1_title>
+		<art1_date>2007</art1_date>
+		<art1_material>Glass mosaic on platform wall</art1_material>
+		<art1_description>Inspired by an heirloom plant that it is difficult to cultivate, {Floating Auriculas} by artist Nancy Blum provides a bold splash of color along the retaining wall at the Dobbs Ferry Station, enhancing the station&iexcl;&brvbar;s natural beauty with a palette of colors derived from the red brick of the old station building.  The work uses the repeating quality of the flowers to provide viewers with an energetic imprint they can hold in their imagination as they travel. Fabricated by Miotto Mosaics in glass and marble tiles, the mural consists of seven flower heads, each about eight feet in diameter.</art1_description>
+		<art1_image1-b>blum1b.jpg</art1_image1-b>
+		<art1_image1-m>blum1m.jpg</art1_image1-m>
+		<art1_image1-s>blum1s.jpg</art1_image1-s>
+		<art1_image2-b>blum2b.jpg</art1_image2-b>
+		<art1_image2-m>blum2m.jpg</art1_image2-m>
+		<art1_image2-s>blum2s.jpg</art1_image2-s>
+		<art1_image3-b>blum3b.jpg</art1_image3-b>
+		<art1_image3-m>blum3m.jpg</art1_image3-m>
+		<art1_image3-s>blum3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Philipse Manor</station_name>
+		<line>Hudson Line</line>
+		<art1_artist-first>Joseph</art1_artist-first>
+		<art1_artist-last>Cavalieri</art1_artist-last>
+		<art1_title>North, South and Home</art1_title>
+		<art1_date>2009</art1_date>
+		<art1_material>Faceted glass in windows of the station overpass</art1_material>
+		<art1_description>Joseph Cavalieri's {North, South and Home} creates a colorful glow in the overpass of Metro-North Railroad's Philipse Manor Station on the Hudson Line. *The artwork, with a decorative border reminiscent of Dutch tile design (with an abstract train running over the symbolic hills of Westchester along the bottom) features tree branches and stylized geraniums reaching across six faceted-glass panels to represent travel and a connected community. At the base of the tree trunk is an outlined shape of nearby Philipsburg Manor, built in 1693 by Frederick Philipse. *Running through the branches is a haiku that reads: "A gentle Hudson - Whistle begins my journey - North and south and home." *Cavalieri creatively combined blue branches with a gradient orange-yellow background to create colorful contrasts that project a beautiful glow that will be visible from a distance and at night.</art1_description>
+		<art1_image1-b>cavalieri1b.jpg</art1_image1-b>
+		<art1_image1-m>cavalieri1m.jpg</art1_image1-m>
+		<art1_image1-s>cavalieri1s.jpg</art1_image1-s>
+		<art1_image2-b>cavalieri2b.jpg</art1_image2-b>
+		<art1_image2-m>cavalieri2m.jpg</art1_image2-m>
+		<art1_image2-s>cavalieri2s.jpg</art1_image2-s>
+		<art1_image3-b>cavalieri3b.jpg</art1_image3-b>
+		<art1_image3-m>cavalieri3m.jpg</art1_image3-m>
+		<art1_image3-s>cavalieri3s.jpg</art1_image3-s>
+		<art1_image4-b>cavalieri4b.jpg</art1_image4-b>
+		<art1_image4-m>cavalieri4m.jpg</art1_image4-m>
+		<art1_image4-s>cavalieri4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Cortlandt</station_name>
+		<line>Hudson Line</line>
+		<art1_artist-first>Robert</art1_artist-first>
+		<art1_artist-last>Taplin</art1_artist-last>
+		<art1_title>Three Statues (A Short History of the Lower Hudson Valley)</art1_title>
+		<art1_date>1996</art1_date>
+		<art1_material>Bronze sculpture on exterior grounds (traffic island) of station house</art1_material>
+		<art1_description>Outside the Cortlandt Station, Robert Taplin's {Three Statues (A Short History of the Lower Hudson Valley)} might be taken for apparitions from the area's storied past.  The bronze sculptures are of a Native American rendered in earth tones; is a prosperous Dutch landowner of the seventeenth or eighteenth century in gray, and is a laborer, perhaps from the nineteenth century in dull reddish hues.  Taplin says, "Each figure presents a moment in the history of this place."  Collectively, they symbolize the sweeping changes the surrounding area has experienced over the past three centuries.  The artist designed {Three Statues}, each seven feet tall, to be cast in bronze and then patinated to give the effect of varied surfaces and colors.  They stand on a knoll, atop a platform, gazing at a representation of the Hudson River in front of them.</art1_description>
+		<art1_image1-b>Taplin1b.jpg</art1_image1-b>
+		<art1_image1-m>Taplin1m.jpg</art1_image1-m>
+		<art1_image1-s>Taplin1s.jpg</art1_image1-s>
+		<art1_image2-b>Taplin2b.jpg</art1_image2-b>
+		<art1_image2-m>Taplin2m.jpg</art1_image2-m>
+		<art1_image2-s>Taplin2s.jpg</art1_image2-s>
+	</station>
+
+</permart>

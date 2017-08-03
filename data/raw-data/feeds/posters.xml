@@ -1,0 +1,859 @@
+<?xml version="1.0"?>
+<aft_posters>
+
+	<columns>
+		<header>year</header>
+		<header>artist_first</header>
+		<header>artist_last</header>
+		<header>title</header>
+		<header>medium</header>
+		<header>description</header>
+		<header>image-b</header>
+		<header>image-m</header>
+		<header>image-s</header>
+		<header>buyable</header>
+	</columns>
+
+	<poster>
+		<year>2009</year>
+		<artist_first>Garin</artist_first>
+		<artist_last>Baker</artist_last>
+		<title>Working on the Railroad</title>
+		<medium></medium>
+		<description>MTA's ongoing rehabilitation of the transit network through ambitious construction projects is the subject of Garin Baker's unique glimpse into the subway tunnels. Celebrating the "sandhogs," contractors, and transit workers, Baker highlights the commitment and hard work necessary to build the foundation for the future of the city.</description>
+		<image-b>2009baker-b.jpg</image-b>
+		<image-m>2009baker-m.jpg</image-m>
+		<image-s>2009baker-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>28503</itemnum>
+	</poster>
+
+	<poster>
+		<year>2009</year>
+		<artist_first>Julia</artist_first>
+		<artist_last>Rothman</artist_last>
+		<title>Adventure</title>
+		<medium></medium>
+		<description>Artist Julia Rothman invites you to take a ride through the city by bus or train to discover the people and places of our incredible city.  Along the way, celebrate MTA Arts for Transit's role in art and design by visiting some of the more than 200 permanent public art projects commissioned in the last 25 years.</description>
+		<image-b>2009rothman-b.jpg</image-b>
+		<image-m>2009rothman-m.jpg</image-m>
+		<image-s>2009rothman-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>28502</itemnum>
+	</poster>
+
+	<poster>
+		<year>2009</year>
+		<artist_first>Carlo</artist_first>
+		<artist_last>Stanga</artist_last>
+		<title>Underground Gallery</title>
+		<medium></medium>
+		<description>Carlo Stanga's whimsical, rollicking image celebrates the multiple layers of the NYC and turns a transit hub into an underground art gallery hung with a selection of Arts for Transit posters.  The work honor MTA Arts for Transit's role in art and design for the MTA region over the past 25 years.</description>
+		<image-b>2009stanga-b.jpg</image-b>
+		<image-m>2009stanga-m.jpg</image-m>
+		<image-s>2009stanga-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>28504</itemnum>
+	</poster>
+
+	<poster>
+		<year>2008</year>
+		<artist_first>David B.</artist_first>
+		<artist_last>McMacken</artist_last>
+		<title>Honoring RFK</title>
+		<medium></medium>
+		<description>The renaming and rededication of the Robert F. Kennedy Bridge (formerly the Triborough Bridge) celebrates the life and achievements of the former United States Senator from New York State. The painting of the bridge by David B. McMacken captures its grace and strength, a fitting tribute to a great American leader.
+</description>
+		<image-b>2008mcmacken-b.jpg</image-b>
+		<image-m>2008mcmacken-m.jpg</image-m>
+		<image-s>2008mcmacken-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>27206</itemnum>
+	</poster>
+
+	<poster>
+		<year>2008</year>
+		<artist_first>Yan</artist_first>
+		<artist_last>Nascimbene</artist_last>
+		<title>Celebrating 175 Years</title>
+		<medium></medium>
+		<description>The Long Island Rail Road was founded in 1834 and grew to become the nation's largest commuter railroad. Artist Yan Nascimbene captures a historic steam engine #39, pulling into the Greenport Station. The village of Greenport, located at the eastern tip of Long Island, has long been a destination for commerce and leisure.
+</description>
+		<image-b>2008nascimbene-b.jpg</image-b>
+		<image-m>2008nascimbene-m.jpg</image-m>
+		<image-s>2008nascimbene-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>27207</itemnum>
+	</poster>
+
+	<poster>
+		<year>2008</year>
+		<artist_first>Carlo</artist_first>
+		<artist_last>Stanga</artist_last>
+		<title>Embrace</title>
+		<medium></medium>
+		<description>Capturing the energy and motion of New York City, artist Carlo Stanga portrays Manhattan's landmark buildings encircled by MTA subway and buses that carry over 8 million commuters each day in our 24-hour city.</description>
+		<image-b>2008stanga-b.jpg</image-b>
+		<image-m>2008stanga-m.jpg</image-m>
+		<image-s>2008stanga-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>27208</itemnum>
+	</poster>
+
+	<poster>
+		<year>2007</year>
+		<artist_first></artist_first>
+		<artist_last>Bascove</artist_last>
+		<title>Endurance</title>
+		<medium>Oil pastel on D'Arches watercolor paper</medium>
+		<description>The Robert F. Kennedy Bridge links Queens, the Bronx, and Manhattan. Bascove's painting uses vibrant colors in sinuous curves to capture the dynamic power in the bridge's massive structure.</description>
+		<image-b>2007bascove-b.jpg</image-b>
+		<image-m>2007bascove-m.jpg</image-m>
+		<image-s>2007bascove-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>25388</itemnum>
+	</poster>
+
+	<poster>
+		<year>2007</year>
+		<artist_first>William</artist_first>
+		<artist_last>Low</artist_last>
+		<title>Greeting the Dawn</title>
+		<medium></medium>
+		<description>The 7 train rounds the hairpin corner into the Queensboro Plaza as morning sunshine graces the majestic East River skyline. William Low, who spent many years commuting on the 7 train, captures a bright moment at his favorite station.</description>
+		<image-b>2007low-b.jpg</image-b>
+		<image-m>2007low-m.jpg</image-m>
+		<image-s>2007low-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>25387</itemnum>
+	</poster>
+
+	<poster>
+		<year>2007</year>
+		<artist_first>Oren</artist_first>
+		<artist_last>Sherman</artist_last>
+		<title>Nocturne</title>
+		<medium></medium>
+		<description>Celebrating Metro-North's 25th anniversary, artist Oren Sherman creates a moment of magical stillness under the Henry Hudson Bridge as a locomotive neas the Spuyten Duyvil Station.</description>
+		<image-b>2007sherman-b.jpg</image-b>
+		<image-m>2007sherman-m.jpg</image-m>
+		<image-s>2007sherman-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2006</year>
+		<artist_first>Peter</artist_first>
+		<artist_last>Cusack</artist_last>
+		<title>Hook Shot</title>
+		<medium>painting</medium>
+		<description>In the warmth of the golden sun, two New Yorkers, a father, someone's son, play one-on-one. And overhead, the elevated train rattles by. Their ball, suspended in a moment, between hope and swish.</description>
+		<image-b>2006hookshot-b.jpg</image-b>
+		<image-m>2006hookshot-m.jpg</image-m>
+		<image-s>2006hookshot-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>22423</itemnum>
+	</poster>
+
+	<poster>
+		<year>2006</year>
+		<artist_first>Sylvie</artist_first>
+		<artist_last>Daigneault</artist_last>
+		<title>Birds Eye</title>
+		<medium></medium>
+		<description>Beneath the moon, above the skyscrapers, a bird's view of a serene city. Sylvie Daigneault imagines an unusual New York moment, when nothing is moving but the subway, and the city's hustle and bustle is temporarily suspended.</description>
+		<image-b>2006bird-b.jpg</image-b>
+		<image-m>2006bird-m.jpg</image-m>
+		<image-s>2006bird-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>22424</itemnum>
+	</poster>
+
+	<poster>
+		<year>2006</year>
+		<artist_first>Leonard</artist_first>
+		<artist_last>Quiles</artist_last>
+		<title>Let Your Imagination Travel</title>
+		<medium></medium>
+		<description>Millions ride the subways everyday. Many rest and let their minds wander, listening to music, daydreaming. Leonardo Quiles sketches a joyful fantasy of his own to illustrate the fun and adventure of traveling in the imagination while getting to a real destination.</description>
+		<image-b>2006animals-b.jpg</image-b>
+		<image-m>2006animals-m.jpg</image-m>
+		<image-s>2006animals-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>22422</itemnum>
+	</poster>
+
+	<poster>
+		<year>2005</year>
+		<artist_first>Nick</artist_first>
+		<artist_last>Gaetano</artist_last>
+		<title>All Clear for Take-Off!</title>
+		<medium>Acrylic painting</medium>
+		<description>Familiar subway system icons are woven together in Nick Gaetano's acrylic painting to create a fantasy of a sleek steel train flying through the stations of the subway map, a colorful evocation of the speedy practicality of the MTA's public transportation underground.</description>
+		<image-b>2005allclear-b.jpg</image-b>
+		<image-m>2005allclear-m.jpg</image-m>
+		<image-s>2005allclear-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>20157</itemnum>
+	</poster>
+
+	<poster>
+		<year>2005</year>
+		<artist_first>Michael</artist_first>
+		<artist_last>Oatman</artist_last>
+		<title>Bus Centennial</title>
+		<medium>Archival photographs from New York Transit Museum, Photomontage</medium>
+		<description>Selecting images from the New York Transit Museum archives that invite us to step into the history of surface public transportation, Michael Oatman created "Busman's Holiday" to celebrate a hundred years of motorized bus service in New York City.</description>
+		<image-b>2005buscentl-b.jpg</image-b>
+		<image-m>2005buscentl-m.jpg</image-m>
+		<image-s>2005buscentl-b.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>20159</itemnum>
+	</poster>
+
+	<poster>
+		<year>2005</year>
+		<artist_first>Dave</artist_first>
+		<artist_last>Calver</artist_last>
+		<title>Welcome to New York!</title>
+		<medium>Colored pencil drawing</medium>
+		<description>In his drawing "Commuters," Dave Calver captures the energy and elegance of New York City, where everybody has a Very Important Date. Unlike Alice's encounter with the White Rabbit, when New Yorkers head underground, their journey isn't make-believe, as they hurtle through tunnels to get to work and play.</description>
+		<image-b>2005welcome-b.jpg</image-b>
+		<image-m>2005welcome-m.jpg</image-m>
+		<image-s>2005welcome-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>20158</itemnum>
+	</poster>
+
+	<poster>
+		<year>2004</year>
+		<artist_first>Kathy</artist_first>
+		<artist_last>Jakobsen</artist_last>
+		<title>Subway Centennial</title>
+		<medium>Painting</medium>
+		<description>In artist Kathy Jakobsen's celebration of a hundred years of progress in motion, the bustling life of the subways is a teeming mosaic where past meets present and a few of the system's 4.5 million daily riders pursue a happy diversity of business and pleasure.</description>
+		<image-b>2004centennial-b.jpg</image-b>
+		<image-m>2004centennial-m.jpg</image-m>
+		<image-s>2004centennial-s.jpg</image-s>
+		<buyable>Y</buyable>
+		<itemnum>16431</itemnum>
+	</poster>
+
+	<poster>
+		<year>2003</year>
+		<artist_first></artist_first>
+		<artist_last>Bascove</artist_last>
+		<title>Crossing</title>
+		<medium>Pastel</medium>
+		<description>Artist Bascove's shimmering pastels highlight the bold art deco sweep of the Bronx-Whitestone Bridge, one of seven bridges in the MTA network that take over a million riders a day into the worlds of business and pleasure, and back home again.</description>
+		<image-b>2003crossing-b.jpg</image-b>
+		<image-m>2003crossing-m.jpg</image-m>
+		<image-s>2003crossing-s.jpg</image-s>
+		<buyable>Y</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2003</year>
+		<artist_first>Julio</artist_first>
+		<artist_last>Valdez</artist_last>
+		<title>Pulse</title>
+		<medium>Mixed-media</medium>
+		<description>A mind-bending impression of the MTA's system of bridges, subways, and trains. Intricately linked as the human nervous system, they take you anywhere your imagination leads. Artist Julio Valdez renders his wonder in a bright vision of interconnectedness.</description>
+		<image-b>2003pulse-b.jpg</image-b>
+		<image-m>2003pulse-m.jpg</image-m>
+		<image-s>2003pulse-s.jpg</image-s>
+		<buyable>Y</buyable>
+		<itemnum>11459</itemnum>
+	</poster>
+
+	<poster>
+		<year>2002</year>
+		<artist_first>Ra&uacute;l</artist_first>
+		<artist_last>Col&oacute;n</artist_last>
+		<title>Our Cup of Tea</title>
+		<medium>Mixed-media</medium>
+		<description>For a feast a grand as New York's skyline, you can't beat this culinary capital's restaurants, nor the public transportation that takes you there. Ra&uacute;l Col&oacute;n serves up a ribute in a big, flavorful cup.</description>
+		<image-b>2002cuptea-b.jpg</image-b>
+		<image-m>2002cuptea-m.jpg</image-m>
+		<image-s>2002cuptea-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2002</year>
+		<artist_first>Frank Leslie</artist_first>
+		<artist_last>Hampton</artist_last>
+		<title>Redbird</title>
+		<medium>Mixed-media on canvas</medium>
+		<description>A New York panorama is framed in a classic Redbird window in Frank Leslie Hampton's lyrical painting. See the sights of New York with MTA's subways, buses, trains, bridges, and tunnels.</description>
+		<image-b>2002redbird-b.jpg</image-b>
+		<image-m>2002redbird-m.jpg</image-m>
+		<image-s>2002redbird-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2002</year>
+		<artist_first>Mark</artist_first>
+		<artist_last>Todd</artist_last>
+		<title>24 / 7</title>
+		<medium>Mixed-media on paper</medium>
+		<description>Energetic lines, graceful sweeps of color, and familiar shapes bring to life Mark Todd's vision of New York City's 24-hour pulse. The MTA is always the shortest way between you and your destination.</description>
+		<image-b>2002-247-b.jpg</image-b>
+		<image-m>2002-247-m.jpg</image-m>
+		<image-s>2002-247-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>10979</itemnum>
+	</poster>
+
+	<poster>
+		<year>2002</year>
+		<artist_first>Ra&uacute;l</artist_first>
+		<artist_last>Col&oacute;n</artist_last>
+		<title>Highfliers</title>
+		<medium>Mixed-media on paper</medium>
+		<description>Arts for Transit salutes the New York Transit Museum on its 25th anniversary with Artist Ra&uacute;l Col&oacute;n's lighthearted image of transit at play. Visit the museum for the story of a world-class transit system working to fuel a hundred years of metropolitan growth.</description>
+		<image-b>2002highfliers-b.jpg</image-b>
+		<image-m>2002highfliers-m.jpg</image-m>
+		<image-s>2002highfliers-s.jpg</image-s>
+		<buyable>Y</buyable>
+		<itemnum>10977</itemnum>
+	</poster>
+
+	<poster>
+		<year>2001</year>
+		<artist_first>Meryl</artist_first>
+		<artist_last>Meisler</artist_last>
+		<title>Sub-Merged</title>
+		<medium>Digital photo collage</medium>
+		<description>The new high-tech R-142 subway car enters a watery realm in Meryl Meisler's surreal computer-enhanced photo fantasy. MTA serves a population of 13.6 million, not including sea turtles, moray eels, and other denizens of the deep.</description>
+		<image-b>2001Submerged-b.jpg</image-b>
+		<image-m>2001Submerged-m.jpg</image-m>
+		<image-s>2001Submerged-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2001</year>
+		<artist_first>Leo</artist_first>
+		<artist_last>Kundas</artist_last>
+		<title>Grand Voyages</title>
+		<medium>Digital Illustration</medium>
+		<description>The dynamic vision of artist Leo Kundas evokes the thrill of travel and the design sophistication of the twentieth century. MTA Bridges and Tunnels connects the boroughs of New York City, itself an artistic and engineering marvel.</description>
+		<image-b>2001GrandVoya-b.jpg</image-b>
+		<image-m>2001GrandVoya-m.jpg</image-m>
+		<image-s>2001GrandVoya-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2001</year>
+		<artist_first>Ra&uacute;l</artist_first>
+		<artist_last>Col&oacute;n</artist_last>
+		<title>Empire Express</title>
+		<medium>Mixed-media on Paper</medium>
+		<description>Raul Colon's mixed-media fantasy celebrates two New York City Icons: The Empire State Building's art deco pinnacle ringed by subways. MTA's network keeps New York City at the top of the world of commerce.</description>
+		<image-b>2001EmpireEx-b.jpg</image-b>
+		<image-m>2001EmpireEx-m.jpg</image-m>
+		<image-s>2001EmpireEx-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2000</year>
+		<artist_first>Jose</artist_first>
+		<artist_last>Ortega</artist_last>
+		<title>New York Dreams</title>
+		<medium>Oil on Canvas</medium>
+		<description>MTA bridges, tunnels, trains, buses, and subways connect futuristic skyscrapers, famous landmarks, and bucolic parks in Jose Ortega's ode to the days and nights of New York City.</description>
+		<image-b>2000nyDreams-b.jpg</image-b>
+		<image-m>2000nyDreams-m.jpg</image-m>
+		<image-s>2000nyDreams-s.jpg</image-s>
+		<buyable>None</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2000</year>
+		<artist_first>Yumi</artist_first>
+		<artist_last>Heo</artist_last>
+		<title>Whirligig</title>
+		<medium>Collage</medium>
+		<description>A spiraling subway is at the heart of an interconnected world of transit possibilities in Yumi Heo's enchanting vision of New York City as an urban amusement park.</description>
+		<image-b>2000Whirligig-b.jpg</image-b>
+		<image-m>2000Whirligig-m.jpg</image-m>
+		<image-s>2000Whirligig-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>2000</year>
+		<artist_first>Daniel</artist_first>
+		<artist_last>Kirk</artist_last>
+		<title>Twilight Train</title>
+		<medium>Oil on Canvas</medium>
+		<description>In Donald Kirk's oil painting, a map of the MTA commuter rail network, set as stars in a night sky, glows behind an image that has transfixed grownups and children alike for a century -- a powerful locomotive.</description>
+		<image-b>2000Twilight-b.jpg</image-b>
+		<image-m>2000Twilight-m.jpg</image-m>
+		<image-s>2000Twilight-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1999</year>
+		<artist_first>Assunta</artist_first>
+		<artist_last>Sera</artist_last>
+		<title>Grand Central Terminal</title>
+		<medium>Oil on Canvas</medium>
+		<description>In Assunta Sera's oil painting Grand Central, the restored New York City landmark's majestic stone walls, celestial ceiling, and fabled clock are bathed in glowing light, while busy travelers move through the concourse like partners in the Terminal's perpetual dance.</description>
+		<image-b>1999grandcentral-b.jpg</image-b>
+		<image-m>1999grandcentral-m.jpg</image-m>
+		<image-s>1999grandcentral-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1999</year>
+		<artist_first>Owen</artist_first>
+		<artist_last>Smith</artist_last>
+		<title>Subway Riders</title>
+		<medium>Oil on Canvas Board</medium>
+		<description>Owen Smith's oil painting portrays a subway ride as a microcosm of New York, with individuals occupying their private worlds even as they are united in a common journey.</description>
+		<image-b>1999SubRiders-b.jpg</image-b>
+		<image-m>1999SubRiders-m.jpg</image-m>
+		<image-s>1999SubRiders-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1999</year>
+		<artist_first>Jeremy</artist_first>
+		<artist_last>Nadel</artist_last>
+		<title>Night Game - Yankee Stadium</title>
+		<medium>Oil on Canvas</medium>
+		<description>In Jeremy Nadel's sweeping oil painting, the curves and struts of the elevated BD4 station and the massive frame of Yankee Stadium are seen through summer twilight as excited fans head for their seats.</description>
+		<image-b>1999Nightgam-b.jpg</image-b>
+		<image-m>1999Nightgam-m.jpg</image-m>
+		<image-s>1999Nightgam-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum>20156</itemnum>
+	</poster>
+
+	<poster>
+		<year>1999</year>
+		<artist_first>Maggie</artist_first>
+		<artist_last>Taylor</artist_last>
+		<title>Blue Train</title>
+		<medium>Photo Collage Digital Print</medium>
+		<description>In photographer Maggie Taylor's digitally created fantasy of utopia on the Hudson, fragments of transit history hover magically above a sinuous train of butterfly chairs.</description>
+		<image-b>1999BlueTrain-b.jpg</image-b>
+		<image-m>1999BlueTrain-m.jpg</image-m>
+		<image-s>1999BlueTrain-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1998</year>
+		<artist_first>Tom</artist_first>
+		<artist_last>Christopher</artist_last>
+		<title>Times Square</title>
+		<medium>Oil and Pencil on Canvas</medium>
+		<description>Tom Christopher's acrylic on canvas pulses with the exuberance and jaunty energy of Times Square's delirious spectacle.</description>
+		<image-b>1998TimesSq-b.jpg</image-b>
+		<image-m>1998TimesSq-m.jpg</image-m>
+		<image-s>1998TimesSq-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1998</year>
+		<artist_first>Alfredo</artist_first>
+		<artist_last>Ceibal</artist_last>
+		<title>The Subway</title>
+		<medium>Oil on Canvas</medium>
+		<description>Alfredo Ceibal's enigmatically cool oil painting imagines waiting for the train as an otherworldly experience -- dreamlike, suspended, and filled with whimsical anticipation.</description>
+		<image-b>1998subway-b.jpg</image-b>
+		<image-m>1998subway-m.jpg</image-m>
+		<image-s>1998subway-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1998</year>
+		<artist_first>Ik-Joong</artist_first>
+		<artist_last>Kang</artist_last>
+		<title>New York Icons</title>
+		<medium>Gouache and Mixed-media Collage</medium>
+		<description>Artist Ik-Joong Kang's enchanting tableaus float peaceably above a sea-like map of the MTA network and celebrate New York's simple pleasures.</description>
+		<image-b>1998nyicon-b.jpg</image-b>
+		<image-m>1998nyicon-m.jpg</image-m>
+		<image-s>1998nyicon-m.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1998</year>
+		<artist_first>Takayo</artist_first>
+		<artist_last>Noda</artist_last>
+		<title>Upper West Side</title>
+		<medium>Mixed-media Collage</medium>
+		<description>In Takayo Noda's mixed-media vision, the Upper West Side is an inviting village, with idyllic Central Park nestled comfortably next to the neighborhood's abundant cultural treasures.</description>
+		<image-b>1998upperwest-b.jpg</image-b>
+		<image-m>1998upperwest-m.jpg</image-m>
+		<image-s>1998upperwest-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1997</year>
+		<artist_first>Milo</artist_first>
+		<artist_last>Mottola</artist_last>
+		<title>Greenpoint Neighborhood</title>
+		<medium>Gouache on Canvas</medium>
+		<description>The anticipation of spring warmth is celebrated in artist Milo Mittola's gouache painting of Brooklyn's Greenpoint, playfully known as the kielbasa and kiddy ride capital of the world.</description>
+		<image-b>1997Greenpoint-b.jpg</image-b>
+		<image-m>1997Greenpoint-m.jpg</image-m>
+		<image-s>1997Greenpoint-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1997</year>
+		<artist_first>Andrea</artist_first>
+		<artist_last>Arroyo</artist_last>
+		<title>Riverside Park Neighborhood</title>
+		<medium>Watercolor on Paper</medium>
+		<description>This vibrant watercolor by artist Andrea Arroyo depicts upper Manhattan's beloved Riverside Park -- an exciting and beautiful haven where the city's unique landscape meets the Hudson River.</description>
+		<image-b>1997Riverside-b.jpg</image-b>
+		<image-m>1997Riverside-m.jpg</image-m>
+		<image-s>1997Riverside-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1997</year>
+		<artist_first>Stephen</artist_first>
+		<artist_last>Johnson</artist_last>
+		<title>Soho Neighborhood</title>
+		<medium>Watercolor</medium>
+		<description>Artist Stephen Johnson's striking light and shadow study of an industrial fire escape evokes both Soho's manufacturing heritage and the urban beauty of this famous artistic community.</description>
+		<image-b>1997soho-b.jpg</image-b>
+		<image-m>1997soho-m.jpg</image-m>
+		<image-s>1997soho-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1997</year>
+		<artist_first>Peter</artist_first>
+		<artist_last>Sis</artist_last>
+		<title>Gramercy Park Neighborhood</title>
+		<medium>Watercolor on Paper</medium>
+		<description>Artist Peter Sis brilliantly captures the jewel-like symmetry and mysterious beauty of historic Gramercy Park's old city streets.</description>
+		<image-b>1997Gramercy-b.jpg</image-b>
+		<image-m>1997Gramercy-m.jpg</image-m>
+		<image-s>1997Gramercy-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1996</year>
+		<artist_first>Ann</artist_first>
+		<artist_last>Schaumburger</artist_last>
+		<title>Long Island City</title>
+		<medium>Oil on canvas</medium>
+		<description>Industrial, art, and family life peacefully coexist in this vibrant and distinctly contemporary neighborhood. Oil painting by Ann Schaumburger.</description>
+		<image-b>1996licity-b.jpg</image-b>
+		<image-m>1996licity-m.jpg</image-m>
+		<image-s>1996licity-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1996</year>
+		<artist_first>Antonio</artist_first>
+		<artist_last>Martorell</artist_last>
+		<title>Garment District</title>
+		<medium>Collage</medium>
+		<description>This fanciful collage of apparel-industry materials by Antonio Martorell celebrates the people who design, fabricate, sell, and wear fashions from this heart-of-Manhattan neighborhood.</description>
+		<image-b>1996Garment-b.jpg</image-b>
+		<image-m>1996Garment-m.jpg</image-m>
+		<image-s>1996Garment-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1996</year>
+		<artist_first>Andrew</artist_first>
+		<artist_last>Moore</artist_last>
+		<title>Coney Island</title>
+		<medium>Photo Collage</medium>
+		<description>Nothing captures New York's frenzied relaxation and hot-sun/hot-night brightness better than this funky beach and boardwalk. Photo-image collage by Andrew Moore.</description>
+		<image-b>1996Coney-b.jpg</image-b>
+		<image-m>1996Coney-m.jpg</image-m>
+		<image-s>1996Coney-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1996</year>
+		<artist_first>Gregory William</artist_first>
+		<artist_last>Frux</artist_last>
+		<title>Park Slope</title>
+		<medium>Oil on canvas</medium>
+		<description>Church steeples embody the strength, dignity, and elegance of this historic residential neighborhood. Oil painting by Gregory William Frux.</description>
+		<image-b>1996ParkSlope-b.jpg</image-b>
+		<image-m>1996ParkSlope-m.jpg</image-m>
+		<image-s>1996ParkSlope-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1995</year>
+		<artist_first>Barbara</artist_first>
+		<artist_last>Friedman</artist_last>
+		<title>Astoria, Queens</title>
+		<medium>Oil on canvas</medium>
+		<description>Astoria's richly layered cultural diversity is reflected in Barbara Friedman's oil painting of familiar neighborhood scenes in delicate colors and soft shadows.</description>
+		<image-b>1995Astoria-b.jpg</image-b>
+		<image-m>1995Astoria-m.jpg</image-m>
+		<image-s>1995Astoria-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1995</year>
+		<artist_first>Marianne</artist_first>
+		<artist_last>van Lent</artist_last>
+		<title>Greenwich Village</title>
+		<medium>Collage</medium>
+		<description>Some of the writers and artists who have made Greenwich Village their home -- Henry James, Edna St. Vincent Millay, Eugene O'Neill, Edgar Allan Poe, Maurice Prendergast, and Everett Shinn -- are honored in this collage by Marianne van Lent.</description>
+		<image-b>1995Greenwich-b.jpg</image-b>
+		<image-m>1995Greenwich-m.jpg</image-m>
+		<image-s>1995Greenwich-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1995</year>
+		<artist_first>Marcia</artist_first>
+		<artist_last>Yerman</artist_last>
+		<title>The Flower District, Manhattan</title>
+		<medium>Gouache painting</medium>
+		<description>The floral glory and lush greenery of New York's Flower District are celebrated in this gouache painting by Marcia G. Yerman.</description>
+		<image-b>1995Flower-b.jpg</image-b>
+		<image-m>1995Flower-m.jpg</image-m>
+		<image-s>1995Flower-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1995</year>
+		<artist_first>Michael</artist_first>
+		<artist_last>Krondl</artist_last>
+		<title>Prospect Park, Brooklyn</title>
+		<medium>Photo collage</medium>
+		<description>The lush urban oases of Prospect Park and neighboring Brooklyn Botanic Garden are suggested in Michael Krondl's photo-collage, which also depicts Grand Central Army Plaza, gateway to the park.</description>
+		<image-b>1995Prospect-b.jpg</image-b>
+		<image-m>1995Prospect-m.jpg</image-m>
+		<image-s>1995Prospect-s.jpg</image-s>
+		<buyable>Yes</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1994</year>
+		<artist_first>Richard</artist_first>
+		<artist_last>Bosman</artist_last>
+		<title>New York Harbor</title>
+		<medium></medium>
+		<description>The tranquil waters of New York Harbor, gateway to Manhattan, as captured by artist Richard Bosman. *Get there for the price of a token. In New York, the MTA takes you everywhere.</description>
+		<image-b>1994nyharbor-b.jpg</image-b>
+		<image-m>1994nyharbor-m.jpg</image-m>
+		<image-s>1994nyharbor-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1994</year>
+		<artist_first>Juan</artist_first>
+		<artist_last>Sanchez</artist_last>
+		<title>Harlem</title>
+		<medium>Collage</medium>
+		<description>This warm and vibrant collage by artist Juan Sanchez embraces the rich spirit of Harlem. *Get there by public transportation. In New York, the MTA takes you everywhere.</description>
+		<image-b>1994harlem-b.jpg</image-b>
+		<image-m>1994harlem-m.jpg</image-m>
+		<image-s>1994harlem-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1994</year>
+		<artist_first>John</artist_first>
+		<artist_last>Fekner</artist_last>
+		<title>Flushing Meadows, Queens</title>
+		<medium></medium>
+		<description>Powerful images of Flushing Meadows, site of a great park, two World's Fairs, and home to the Mets, as seen by artist John Fekner. *Get there by public transportation. In New York, the MTA takes you everywhere.</description>
+		<image-b>1994flushingm-b.jpg</image-b>
+		<image-m>1994flushingm-m.jpg</image-m>
+		<image-s>1994flushingm-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1994</year>
+		<artist_first>Philemona</artist_first>
+		<artist_last>Williamson</artist_last>
+		<title>Union Square</title>
+		<medium>Oil on canvas</medium>
+		<description>An urban Garden of Eden is portrayed in artist Philemona Williamson's vibrant oil painting of Union Square's Green Market. *Get there for the price of a token. In New York, the MTA takes you everywhere.</description>
+		<image-b>1994UnionSq-b.jpg</image-b>
+		<image-m>1994UnionSq-m.jpg</image-m>
+		<image-s>1994UnionSq-s.jpg</image-s>
+		<buyable>Y</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1993</year>
+		<artist_first>Carol</artist_first>
+		<artist_last>Sun</artist_last>
+		<title>American Museum of Natural History</title>
+		<medium></medium>
+		<description>Meteorites and masks, dinosaurs and butterflies - nature and culture flourish in a tree of life by artist Carol Sun. Get there for the price of a token.</description>
+		<image-b>1993AMuseum-b.jpg</image-b>
+		<image-m>1993AMuseum-m.jpg</image-m>
+		<image-s>1993AMuseum-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1993</year>
+		<artist_first>Stephen</artist_first>
+		<artist_last>Byram</artist_last>
+		<title>The Cloisters</title>
+		<medium>Collage</medium>
+		<description>The unique architecture, history, and ancient treasures of the Cloisters are portrayed by artist Stephen Byram in this dramatic collage. *Get there for the price of a token. In New York, the MTA takes you everywhere.</description>
+		<image-b>1993cloisters-b.jpg</image-b>
+		<image-m>1993cloisters-m.jpg</image-m>
+		<image-s>1993cloisters-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1993</year>
+		<artist_first>Marina</artist_first>
+		<artist_last>Gutierrez</artist_last>
+		<title>El Museo del Barrio</title>
+		<medium>Montage</medium>
+		<description>The riches of Latino culture inspire this montage by artist Marina Gutierrez. Get there for the price of a token.</description>
+		<image-b>1993muBarrio-b.jpg</image-b>
+		<image-m>1993muBarrio-m.jpg</image-m>
+		<image-s>1993muBarrio-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1993</year>
+		<artist_first>Loren</artist_first>
+		<artist_last>Munk</artist_last>
+		<title>Fulton Mall, Downtown Brooklyn</title>
+		<medium>Collage</medium>
+		<description>Downtown Brooklyn reverberates in a collage by artist Loren Munk. Get there for the price of a token.</description>
+		<image-b>1993Brooklyn-b.jpg</image-b>
+		<image-m>1993Brooklyn-m.jpg</image-m>
+		<image-s>1993Brooklyn-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1991-*1992</year>
+		<artist_first>Jane</artist_first>
+		<artist_last>Dickson</artist_last>
+		<title>Times Square</title>
+		<medium></medium>
+		<description>Local color: The midnight mood of Times Square, as captures by artist Jane Dickson. *See the real thing for just the price of a token. In New York, the subway takes you everywhere.</description>
+		<image-b>1991TimesSq-b.jpg</image-b>
+		<image-m>1991TimesSq-m.jpg</image-m>
+		<image-s>1991TimesSq-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1991-*1992</year>
+		<artist_first>John</artist_first>
+		<artist_last>Howard</artist_last>
+		<title>Sheepshead Bay</title>
+		<medium></medium>
+		<description>Local color: The dockside abundance of Sheepshead Bay, as captured by artist John Howard. *See the real thing for just the price of a token. In New York, the subway takes you everywhere.</description>
+		<image-b>1991sheepshb-b.jpg</image-b>
+		<image-m>1991sheepshb-m.jpg</image-m>
+		<image-s>1991sheepshb-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1991-*1992</year>
+		<artist_first>Curt</artist_first>
+		<artist_last>Belshe</artist_last>
+		<title>Jamaica Wildlife Refuge, Queens</title>
+		<medium></medium>
+		<description>Framing the twin towers is this sylvan setting by artist Curt Belshe. Get there for the price of a token.</description>
+		<image-b>1991jamaica-b.jpg</image-b>
+		<image-m>1991jamaica-m.jpg</image-m>
+		<image-s>1991jamaica-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+	<poster>
+		<year>1991-*1992</year>
+		<artist_first>Whitfield</artist_first>
+		<artist_last>Lovell</artist_last>
+		<title>Bronx Zoo/NY Botanical Garden</title>
+		<medium></medium>
+		<description>Local color: Urban wildlife at the Bronx Zoo and NY Botanical Garden, by artist Whitfield Lovell. *See the real thing for just a token and a ticket. In New York, the subway takes you everywhere.</description>
+		<image-b>1991bronxzoo-b.jpg</image-b>
+		<image-m>1991bronxzoo-m.jpg</image-m>
+		<image-s>1991bronxzoo-s.jpg</image-s>
+		<buyable>No</buyable>
+		<itemnum></itemnum>
+	</poster>
+
+</aft_posters>

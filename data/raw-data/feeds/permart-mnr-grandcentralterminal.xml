@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Grand Central Terminal</station_name>
+		<line>Grand Central Terminal</line>
+		<art1_artist-first>Ellen</art1_artist-first>
+		<art1_artist-last>Driscoll</art1_artist-last>
+		<art1_title>As Above, So Below</art1_title>
+		<art1_date>1998</art1_date>
+		<art1_material>Glass, bronze, and mosaic in Grand Central North passageway</art1_material>
+		<art1_description>The historic ceiling in the main concourse at Grand Central Terminal reveals the night sky with golden stars that form the constellations.  Grand Central becomes a metaphor for our connection with the wider world beyond New York City and {As Above, So Below} takes the viewer around the world to the night sky above five different continents, representing myths, civilization, heavens, and the underworld.  These scenes bring to life ancient tales that demonstrate how the stories told about the heavens reflect the way we live on earth.  A close look  at any of the faces in the work reveal their diversity,  as indeed, the people in these mosaics represent many different backgrounds.  However, the artist has altered them to take on the attributes of mythical figures.  The work summons the everlasting and the ephemeral, reminding us of our spiritual and worldly past while we hurry through the station.</art1_description>
+		<art1_image1-b>Driscoll1b.jpg</art1_image1-b>
+		<art1_image1-m>Driscoll1m.jpg</art1_image1-m>
+		<art1_image1-s>Driscoll1s.jpg</art1_image1-s>
+		<art1_image2-b>Driscoll2b.jpg</art1_image2-b>
+		<art1_image2-m>Driscoll2m.jpg</art1_image2-m>
+		<art1_image2-s>Driscoll2s.jpg</art1_image2-s>
+		<art1_image3-b>Driscoll3b.jpg</art1_image3-b>
+		<art1_image3-m>Driscoll3m.jpg</art1_image3-m>
+		<art1_image3-s>Driscoll3s.jpg</art1_image3-s>
+		<art1_image4-b>Driscoll4b.jpg</art1_image4-b>
+		<art1_image4-m>Driscoll4m.jpg</art1_image4-m>
+		<art1_image4-s>Driscoll4s.jpg</art1_image4-s>
+		<art2_artist-first>Roberto</art2_artist-first>
+		<art2_artist-last>Juarez</art2_artist-last>
+		<art2_title>A Field of Wild Flowers</art2_title>
+		<art2_date>1997</art2_date>
+		<art2_material>Mixed-media on walls of Station Master's Office</art2_material>
+		<art2_description>Roberto Juarez creates a place of refreshment and repose with his lush garden landscape, designed to  appear as though it were seen through the windows of a slow-moving train.  The work is one of the more fragile pieces in the system, executed in a multi-media collage that he describes as: "...consisting of layers of gesso, under-painting, urethane, and varnish, I also utilize natural materials - rice paper and a dusting of peat moss - to give my work added texture, strength, and beauty." *{A Field of Wild Flowers} was created to be compatible with the architecture of Grand Central Terminal, and it repeats some of its historic interior details such as the representation of fruit, acorns, and garlands.  It also provides a  contemporary work of art that stands on its own, bringing a touch of serenity to the surrounding whirl of activity.</art2_description>
+		<art2_image1-b>Juarez1b.jpg</art2_image1-b>
+		<art2_image1-m>Juarez1m.jpg</art2_image1-m>
+		<art2_image1-s>Juarez1s.jpg</art2_image1-s>
+		<art2_image2-b>Juarez2b.jpg</art2_image2-b>
+		<art2_image2-m>Juarez2m.jpg</art2_image2-m>
+		<art2_image2-s>Juarez2s.jpg</art2_image2-s>
+		<art2_image3-b>Juarez3b.jpg</art2_image3-b>
+		<art2_image3-m>Juarez3m.jpg</art2_image3-m>
+		<art2_image3-s>Juarez3s.jpg</art2_image3-s>
+		<art3_artist-first>Donald</art3_artist-first>
+		<art3_artist-last>Lipski</art3_artist-last>
+		<art3_title>Sirshasana</art3_title>
+		<art3_date>1998</art3_date>
+		<art3_material>Aluminum and polyester resin sculpture with crystals in ceiling at 43rd Street in Grand Central Market</art3_material>
+		<art3_description>In {Sirshasana}, a sculptural chandelier in the shape of a golden-rooted olive tree suspended above the street-level entrance to the Grand Central Market, Donald Lipski drew upon Hindu and Greek lore.  "To the ancient Greeks the olive tree symbolized freedom and purity," he explains.  "And the name Sirshasana refers to a yoga headstand posture - the inverted tree ...."  With branches that span twenty-five feet and 5,000 brilliant crystal pendants, the tree dominates the area, bringing the feel of an outdoor market.  The space was designed so that morning sun bathes the tree and floods the market with light.  The form has writhing, enticing, and unexpected elements, with the base of the tree finished in gold and crystals dangling in place of olives   In addition to alluding to the decorative chandeliers in Grand Central, the tree is a comment on the allure of the exotic and tempting wares sold in the marketplace.</art3_description>
+		<art3_image1-b>Lipski1b.jpg</art3_image1-b>
+		<art3_image1-m>Lipski1m.jpg</art3_image1-m>
+		<art3_image1-s>Lipski1s.jpg</art3_image1-s>
+		<art3_image2-b>Lipski2b.jpg</art3_image2-b>
+		<art3_image2-m>Lipski2m.jpg</art3_image2-m>
+		<art3_image2-s>Lipski2s.jpg</art3_image2-s>
+		<art3_image3-b>Lipski3b.jpg</art3_image3-b>
+		<art3_image3-m>Lipski3m.jpg</art3_image3-m>
+		<art3_image3-s>Lipski3s.jpg</art3_image3-s>
+	</station>
+
+</permart>

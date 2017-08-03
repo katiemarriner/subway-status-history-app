@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Broadway Station</station_name>
+		<line>Port Washington Branch</line>
+		<art1_artist-first>Jean</art1_artist-first>
+		<art1_artist-last>Shin</art1_artist-last>
+		<art1_title>Celadon Remnants</art1_title>
+		<art1_date>2008</art1_date>
+		<art1_material>Ceramic and glass mosaic on south stair walls and station building</art1_material>
+		<art1_description>Motorists, pedestrians, and commuters are the beneficiaries of the eloquent beauty of {Celadon Remnants} at the LIRR's Broadway Station in Flushing, Queens. *Using celadon fragments, artist Jean Shin created large-scale mosaic murals that feature the shapes and silhouettes of pottery.  The mosaics are installed on the south stair walls (facing Northern Boulevard) and in architectural niches in the station building.  The vessel or teapot forms were created from thousands of celadon fragments, hand-selected and donated by the city of Icheon, South Korea. The grayish-green forms against a white tile background create an abstract interplay between the positive and negative colored shapes. The aesthetic appeal of celadon lies in its eloquent beauty and simplicity.  Derived from ancient China and perfected in Korea, celadon wares are among the most widely admired of Korean ceramics. *If a vessel is imperfect, it becomes scrap and there are mountains of fragments in the Icheon region of Korean.  Shin was determined to use these cast-off fragments, and the artwork serves as a metaphor for the history, culture, and identity of the Asian population in Queens. For Shin, the thriving Asian-American communities neighboring the Broadway Station bear resemblance to the {Celadon Remnants} - as each are transformed in a new location in a distinctively new form while preserving their cultural heritage.</art1_description>
+		<art1_image1-b>Shin1b.jpg</art1_image1-b>
+		<art1_image1-m>Shin1m.jpg</art1_image1-m>
+		<art1_image1-s>Shin1s.jpg</art1_image1-s>
+		<art1_image2-b>Shin2b.jpg</art1_image2-b>
+		<art1_image2-m>Shin2m.jpg</art1_image2-m>
+		<art1_image2-s>Shin2s.jpg</art1_image2-s>
+		<art1_image3-b>Shin3b.jpg</art1_image3-b>
+		<art1_image3-m>Shin3m.jpg</art1_image3-m>
+		<art1_image3-s>Shin3s.jpg</art1_image3-s>
+		<art1_image4-b>Shin4b.jpg</art1_image4-b>
+		<art1_image4-m>Shin4m.jpg</art1_image4-m>
+		<art1_image4-s>Shin4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Bayside Station</station_name>
+		<line>Port Washington Branch</line>
+		<art1_artist-first>Ed</art1_artist-first>
+		<art1_artist-last>McGowin</art1_artist-last>
+		<art1_title>Bayside Story</art1_title>
+		<art1_date>1999</art1_date>
+		<art1_material>Bronze relief columns and frieze on overpass</art1_material>
+		<art1_description>{Bayside Story} features spiral friezes that wrap around the support columns, bearing animal and floral motifs as well as bronze reliefs that celebrate local history and culture.   Indians paddling a canoe have a central position in the work.  Around them are a settler's homestead, a Revolutionary war soldier, a farm, and Fort Totten.  Boxer "Gentleman Jim" Corbett represents local heroes; a yacht and checkered flag portray local amusements.  Once home to the Native American Matinecocks, in the late 1800s, the wealthy built estates in Bayside.  In the early 1900's, the community was the home to stars of the silver screen. *Commenting on the artwork, Ed McGowin, stated, "Community history can so easily be lost or forgotten...I consulted with the Bayside Historical Society and the community to choose significant local events and people...."  The compelling result proudly tells the story of Bayside.</art1_description>
+		<art1_image1-b>McGowin1b.jpg</art1_image1-b>
+		<art1_image1-m>McGowin1m.jpg</art1_image1-m>
+		<art1_image1-s>McGowin1s.jpg</art1_image1-s>
+		<art1_image2-b>McGowin2b.jpg</art1_image2-b>
+		<art1_image2-m>McGowin2m.jpg</art1_image2-m>
+		<art1_image2-s>McGowin2s.jpg</art1_image2-s>
+		<art1_image3-b>McGowin3b.jpg</art1_image3-b>
+		<art1_image3-m>McGowin3m.jpg</art1_image3-m>
+		<art1_image3-s>McGowin3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Great Neck</station_name>
+		<line>Port Washington Branch</line>
+		<art1_artist-first>David</art1_artist-first>
+		<art1_artist-last>Saunders</art1_artist-last>
+		<art1_title>Conductor's Watch and Key Chain</art1_title>
+		<art1_date>1992</art1_date>
+		<art1_material>Aluminum sculpture on platform wall</art1_material>
+		<art1_description>To symbolize the romance and excitement of train travel's rich history, all under watchful eye of the train conductor, David Saunders immortalized the conductor's watch and key chain.  Made of aluminum tubing to echo the handrails and silver pipes that run along the walls of the station platform, the sculpture blends into the overall design of the site. "The chain mimics the movement of the Long Island Rail Road's long silver trains that take commuters to and from their destinations," says Saunders, "those speedy back and forth movements are echoed in the long swooping gestures of the sculpture's silver lines."</art1_description>
+		<art1_image1-b>Saunders1b.jpg</art1_image1-b>
+		<art1_image1-m>Saunders1m.jpg</art1_image1-m>
+		<art1_image1-s>Saunders1s.jpg</art1_image1-s>
+		<art1_image2-b>Saunders2b.jpg</art1_image2-b>
+		<art1_image2-m>Saunders2m.jpg</art1_image2-m>
+		<art1_image2-s>Saunders2s.jpg</art1_image2-s>
+	</station>
+
+</permart>

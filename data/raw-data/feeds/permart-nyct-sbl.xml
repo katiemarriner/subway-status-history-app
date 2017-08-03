@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stationsbyline>
+
+	<line id="1">
+		<station>231st Street</station>
+		<station>Dyckman Street</station>
+		<station>191st Street</station>
+		<station>137th Street - City College</station>
+		<station>116th Street - Columbia University</station>
+		<station>86th Street</station>
+		<station>72nd Street</station>
+		<station>66th Street - Lincoln Center</station>
+		<station>59th Street - Columbus Circle</station>
+		<station>50th Street</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Penn Station</station>
+		<station>Christopher Street - Sheridan Square</station>
+		<station>Houston Street</station>
+		<station>Chambers Street/Park Place</station>
+		<station>South Ferry</station>
+	</line>
+
+	<line id="2">
+		<station>Nereid Avenue – 238th Street</station>
+		<station>233rd Street</station>
+		<station>225th Street</station>
+		<station>219th Street</station>
+		<station>Gun Hill Road</station>
+		<station>Burke Avenue</station>
+		<station>Allerton Avenue</station>
+		<station>Pelham Parkway</station>
+		<station>Bronx Park East</station>
+		<station>West Farms Square - East Tremont Avenue</station>
+		<station>174th Street</station>
+		<station>Freeman Street</station>
+		<station>Simpson Street</station>
+		<station>Intervale Avenue</station>
+		<station>Prospect Avenue</station>
+		<station>Jackson Avenue</station>
+		<station>3rd Avenue - 149th Street</station>
+		<station>135th Street</station>
+		<station>125th Street</station>
+		<station>116th Street</station>
+		<station>Central Park North (110th Street)</station>
+		<station>72nd Street</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Penn Station</station>
+		<station>Chambers Street /Park Place</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+		<station>Wall Street</station>
+		<station>Clark Street</station>
+		<station>Nevins Street</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Grand Army Plaza</station>
+		<station>Eastern Parkway - Brooklyn Museum</station>
+		<station>Botantic Garden /Franklin Avenue</station>
+		<station>Church Avenue</station>
+		<station>Brooklyn College - Flatbush Avenue</station>		
+	</line>
+		
+		
+		
+
+	<line id="3">
+		<station>135th Street</station>
+		<station>125th Street</station>
+		<station>116th Street</station>
+		<station>Central Park North (110th Street)</station>
+		<station>72nd Street</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Penn Station</station>
+		<station>Chambers Street /Park Place</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+		<station>Wall Street</station>
+		<station>Clark Street</station>
+		<station>Nevins Street</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Grand Army Plaza</station>
+		<station>Eastern Parkway - Brooklyn Museum</station>
+		<station>Botantic Garden /Franklin Avenue</station>
+		<station>Crown Heights - Utica Avenue</station>
+	</line>
+
+	<line id="4">
+		<station>Woodlawn Avenue</station>
+		<station>Mosholu Parkway</station>
+		<station>Bedford Park Boulevard-Lehman College</station>
+		<station>Kingsbridge Road</station>
+		<station>Fordham Road</station>
+		<station>183rd Street</station>
+		<station>Burnside Avenue</station>
+		<station>176th Street</station>
+		<station>Mount Eden</station>
+		<station>170th Street</station>
+		<station>167th Street</station>
+		<station>161st Street - Yankee Stadium</station>
+		<station>125th Street</station>
+		<station>86th Street</station>
+		<station>59th Street/Lexington Avenue-59th Street</station>
+		<station>Grand Central - 42nd Street</station>
+		<station>14th Street - Union Square</station>
+		<station>Brooklyn Bridge - City Hall / Chamber Street</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+		<station>Nevins Street</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Botantic Garden /Franklin Avenue</station>
+		<station>Crown Heights - Utica Avenue</station>
+	</line>
+
+	<line id="5">
+		<station>Nereid Avenue – 238th Street</station>
+		<station>233rd Street</station>
+		<station>225th Street</station>
+		<station>219th Street</station>
+		<station>Gun Hill Road</station>
+		<station>Burke Avenue</station>
+		<station>Allerton Avenue</station>
+		<station>Pelham Parkway</station>
+		<station>Bronx Park East</station>
+		<station>West Farms Square - East Tremont Avenue</station>
+		<station>174th Street</station>
+		<station>Freeman Street</station>
+		<station>Simpson Street</station>
+		<station>Intervale Avenue</station>
+		<station>Prospect Avenue</station>
+		<station>Jackson Avenue</station>
+		<station>3rd Avenue - 149th Street</station>
+		<station>125th Street</station>
+		<station>86th Street</station>
+		<station>59th Street/Lexington Avenue-59th Street</station>
+		<station>Grand Central - 42nd Street</station>
+		<station>14th Street - Union Square</station>
+		<station>Brooklyn Bridge - City Hall / Chamber Street</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+		<station>Nevins Street</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Botantic Garden /Franklin Avenue</station>
+		<station>Church Avenue</station>
+		<station>Brooklyn College - Flatbush Avenue</station>
+	</line>
+
+	<line id="6">
+		<station>Westchester Square - East Tremont Avenue</station>
+		<station>125th Street</station>
+		<station>116th Street</station>
+		<station>110th Street</station>
+		<station>103rd Street</station>
+		<station>96th Street</station>
+		<station>86th Street</station>
+		<station>77th Street</station>
+		<station>59th Street/Lexington Avenue-59th Street</station>
+		<station>51st Street/Lexington Avenue-53rd Street</station>
+		<station>Lexington Avenue - 53rd Street</station>
+		<station>Grand Central - 42nd Street</station>
+		<station>33rd Street</station>
+		<station>23rd Street</station>
+		<station>14th Street - Union Square</station>
+		<station>Astor Place</station>
+		<station>Broadway - Lafayette Street/Bleecker Street (South only)</station>
+		<station>Canal Street</station>
+		<station>Brooklyn Bridge - City Hall / Chamber Street</station>
+	</line>
+
+	<line id="7">
+		<station>Flushing - Main Street</station>
+		<station>Jackson Heights - Roosevelt Avenue/74th Street - Broadway</station>
+		<station>Woodside - 61st Street</station>
+		<station>46 Street - Bliss Street</station>
+		<station>40 Street - Lowery Street</station>
+		<station>33 Street - Rawson Street</station>
+		<station>Queensboro Plaza</station>
+		<station>Grand Central - 42nd Street</station>
+		<station>42nd Street - Bryant Park/Fifth Avenue</station>
+		<station>Times Square - 42nd Street</station>
+		<station>Times Square - 46th Street</station>
+	</line>
+
+	<line id="A">
+		<station>Inwood - 207th Street</station>
+		<station>59th Street-Columbus Circle</station>
+		<station>42nd Street - Port Authority Bus Terminal</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Penn Station</station>
+		<station>14th Street /Eighth Avenue</station>
+		<station>Canal Street</station>
+		<station>Chambers Street /Park Place</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+		<station>Jay Street - Borough Hall</station>
+		<station>Utica Avenue</station>
+		<station>Broadway Junction</station>
+		<station>Rockaway Park-Beach 116th Street</station>
+	</line>
+
+	<line id="B">
+		<station>Tremont Avenue</station>
+		<station>161st Street - Yankee Stadium</station>
+		<station>Cathedral Parkway (110th Street)</station>
+		<station>81st Street - Museum of Natural History</station>
+		<station>59th Street - Columbus Circle</station>
+		<station>42nd Street - Bryant Park/Fifth Avenue</station>
+		<station>34th Street - Herald Square</station>
+		<station>Broadway - Lafayette Street/Bleecker Street (South only)</station>
+		<station>DeKalb Avenue</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Prospect Park</station>
+		<station>Newkirk Avenue</station>
+		<station>Kings Highway</station>
+		<station>Sheepshead Bay</station>
+		<station>Brighton Beach</station>
+	</line>
+
+	<line id="C">
+		<station>Cathedral Parkway (110th Street)</station>
+		<station>81st Street - Museum of Natural History</station>
+		<station>59th Street - Columbus Circle</station>
+		<station>50th Street</station>
+		<station>42nd Street - Port Authority Bus Terminal</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Penn Station</station>
+		<station>14th Street /Eighth Avenue</station>
+		<station>Canal Street</station>
+		<station>Chambers Street /Park Place</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+		<station>Jay Street - Borough Hall</station>
+		<station>Franklin Avenue</station>
+		<station>Utica Avenue</station>
+		<station>Broadway Junction</station>
+	</line>
+
+	<line id="D">
+		<station>Tremont Avenue</station>
+		<station>161st Street - Yankee Stadium</station>
+		<station>59th Street - Columbus Circle</station>
+		<station>42nd Street - Bryant Park/Fifth Avenue</station>
+		<station>34th Street - Herald Square</station>
+		<station>Broadway - Lafayette Street/Bleecker Street (South only)</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>36th Street</station>
+		<station>Coney Island - Stillwell Avenue</station>
+	</line>
+
+	<line id="E">
+		<station>Jamaica Center - Parsons - Archer</station>
+		<station>Jackson Heights - Roosevelt Avenue/74th Street - Broadway</station>
+		<station>Queens Plaza</station>
+		<station>23rd Street - Ely Avenue/Long Island City - Court Square</station>
+		<station>Lexington Avenue - 53rd Street</station>
+		<station>51st Street/Lexington Avenue-53rd Street</station>
+		<station>Fifth Avenue - 53rd Street</station>
+		<station>50th Street</station>
+		<station>42nd Street - Port Authority Bus Terminal</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Penn Station</station>
+		<station>14th Street /Eighth Avenue</station>
+		<station>Canal Street</station>
+	</line>
+
+	<line id="F">
+		<station>Jackson Heights - Roosevelt Avenue/74th Street - Broadway</station>
+		<station>42nd Street - Bryant Park/Fifth Avenue</station>
+		<station>34th Street - Herald Square</station>
+		<station>Broadway - Lafayette Street/Bleecker Street (South only)</station>
+		<station>Delancey Street - Essex Street</station>
+		<station>Jay Street - Borough Hall</station>
+		<station>Neptune Avenue</station>
+		<station>West 8th Street - New York Aquarium</station>
+		<station>Coney Island - Stillwell Avenue</station>
+	</line>
+
+	<line id="G">
+		<station>Metropolitan Avenue /Lorimer Street</station>
+		<station>23rd Street - Ely Avenue/Long Island City - Court Square</station>
+		<station>Queens Plaza</station>
+		<station>Jackson Heights - Roosevelt Avenue/74th Street - Broadway</station>
+		<station>Woodhaven Boulevard</station>
+	</line>
+
+	<line id="J">
+		<station>Jamaica Center - Parsons - Archer</station>
+		<station>111th Street - 104th Street - Woodhaven Boulevard - 75th Street - Cypress Hills</station>
+		<station>Crescent Street</station>
+		<station>Norwood Avenue</station>
+		<station>Cleveland Street</station>
+		<station>Van Siclen Avenue</station>
+		<station>Alabama Avenue</station>
+		<station>Broadway Junction</station>
+		<station>Chauncey Street</station>
+		<station>Halsey Street</station>
+		<station>Gates Avenue</station>
+		<station>Kosciuszko Street</station>
+		<station>Myrtle Avenue</station>
+		<station>Flushing Avenue</station>
+		<station>Lorimer Street</station>
+		<station>Hewes Street</station>
+		<station>Marcy Avenue</station>
+		<station>Delancey Street - Essex Street</station>
+		<station>Canal Street</station>
+		<station>Brooklyn Bridge - City Hall / Chamber Street</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+	</line>
+
+	<line id="L">
+		<station>E. 105th Street</station>
+		<station>New Lots Avenue</station>
+		<station>Livonia Avenue</station>
+		<station>Sutter Avenue</station>
+		<station>Broadway Junction</station>
+		<station>Myrtle - Wyckoff Avenues</station>
+		<station>Metropolitan Avenue /Lorimer Street</station>
+		<station>14th Street - Union Square</station>
+		<station>14th Street /Eight Avenue</station>
+	</line>
+
+	<line id="M">
+		<station>Myrtle - Wyckoff Avenues</station>
+		<station>Myrtle Avenue</station>
+		<station>Flushing Avenue</station>
+		<station>Lorimer Street</station>
+		<station>Hewes Street</station>
+		<station>Marcy Avenue</station>
+		<station>Delancey Street - Essex Street</station>
+		<station>Canal Street</station>
+		<station>Brooklyn Bridge - City Hall / Chamber Street</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+		<station>DeKalb Avenue</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Union Street</station>
+		<station>36th Street</station>
+	</line>
+
+	<line id="N">
+		<station>Queensboro Plaza</station>
+		<station>Fifth Avenue/59th Street</station>
+		<station>59th Street/Lexington Avenue-59th Street</station>
+		<station>57th Street - 7th Avenue</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Herald Square</station>
+		<station>28th Street</station>
+		<station>23rd Street</station>
+		<station>14th Street - Union Square</station>
+		<station>8th Street - NYU</station>
+		<station>Prince Street</station>
+		<station>Canal Street</station>
+		<station>Cortlandt Street</station>
+		<station>DeKalb Avenue</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>36th Street</station>
+	</line>
+
+	<line id="Q">
+		<station>57th Street - 7th Avenue</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Herald Square</station>
+		<station>14th Street - Union Square</station>
+		<station>Canal Street</station>
+		<station>DeKalb Avenue</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Prospect Park</station>
+		<station>Parkside Avenue</station>
+		<station>Beverley Road and Cortelyou Road</station>
+		<station>Newkirk Avenue</station>
+		<station>Kings Highway</station>
+		<station>Sheepshead Bay</station>
+		<station>Brighton Beach</station>
+		<station>West 8th Street - New York Aquarium</station>
+		<station>Coney Island - Stillwell Avenue</station>
+	</line>
+
+	<line id="R">
+		<station>Woodhaven Boulevard</station>
+		<station>Jackson Heights - Roosevelt Avenue/74th Street - Broadway</station>
+		<station>Queens Plaza</station>
+		<station>Fifth Avenue/59th Street</station>
+		<station>59th Street/Lexington Avenue-59th Street</station>
+		<station>57th Street - 7th Avenue</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Herald Square</station>
+		<station>28th Street</station>
+		<station>23rd Street</station>
+		<station>14th Street - Union Square</station>
+		<station>8th Street - NYU</station>
+		<station>Prince Street</station>
+		<station>Canal Street</station>
+		<station>Cortlandt Street</station>
+		<station>Whitehall Street</station>
+		<station>DeKalb Avenue</station>
+		<station>Atlantic Avenue - Pacific Street</station>
+		<station>Union Street</station>
+		<station>36th Street</station>
+	</line>
+
+	<line id="P">
+		<station>Grand Central - 42nd Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>Times Square - 46th Street</station>
+	</line>
+	
+	<line id="S">
+		<station>Franklin Avenue</station>
+		<station>Park Place</station>
+		<station>Botantic Garden /Franklin Avenue</station>
+		<station>Prospect Park</station>
+	</line>
+
+	<line id="V">
+		<station>Woodhaven Boulevard</station>
+		<station>Jackson Heights - Roosevelt Avenue/74th Street - Broadway</station>
+		<station>Queens Plaza</station>
+		<station>23rd Street - Ely Avenue/Long Island City - Court Square</station>
+		<station>51st Street/Lexington Avenue-53rd Street</station>
+		<station>Lexington Avenue - 53rd Street</station>
+		<station>Fifth Avenue - 53rd Street</station>
+		<station>42nd Street - Byrant Park/Fifth Avenue</station>
+		<station>34th Street - Herald Square</station>
+		<station>Broadway - Lafayette Street/Bleecker Street (South only)</station>
+	</line>
+
+	<line id="W">
+		<station>Queensboro Plaza</station>
+		<station>Fifth Avenue/59th Street</station>
+		<station>59th Street/Lexington Avenue-59th Street</station>
+		<station>57th Street - 7th Avenue</station>
+		<station>Times Square - 46th Street</station>
+		<station>Times Square - 42nd Street</station>
+		<station>34th Street - Herald Square</station>
+		<station>28th Street</station>
+		<station>23rd Street</station>
+		<station>14th Street - Union Square</station>
+		<station>8th Street - NYU</station>
+		<station>Prince Street</station>
+		<station>Canal Street</station>
+		<station>Cortlandt Street</station>
+		<station>Whitehall Street</station>
+	</line>
+
+	<line id="Z">
+		<station>Jamaica Center - Parsons - Archer</station>
+		<station>111th Street - 104th Street - Woodhaven Boulevard - 75th Street - Cypress Hills</station>
+		<station>Crescent Street</station>
+		<station>Norwood Avenue</station>
+		<station>Cleveland Street</station>
+		<station>Van Siclen Avenue</station>
+		<station>Alabama Avenue</station>
+		<station>Broadway Junction</station>
+		<station>Chauncey Street</station>
+		<station>Halsey Street</station>
+		<station>Gates Avenue</station>
+		<station>Myrtle Avenue</station>
+		<station>Marcy Avenue</station>
+		<station>Delancey Street - Essex Street</station>
+		<station>Canal Street</station>
+		<station>Brooklyn Bridge - City Hall / Chamber Street</station>
+		<station>Fulton Street - Broadway - Nassau</station>
+	</line>
+
+</stationsbyline>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Myrtle-Wyckoff Avenues</station_name>
+		<line>L,M</line>
+		<art1_artist-first>Cadence</art1_artist-first>
+		<art1_artist-last>Giersbach</art1_artist-last>
+		<art1_title>From Earth to Sky</art1_title>
+		<art1_date>2006</art1_date>
+		<art1_material>Ceramic, glass, and marble mosaic</art1_material>
+		<art1_description>{From Earth to Sky} depicts a fantastical view from the station as if one were looking up through a canopy of foliage filled with birds and butterflies beneath a sky that shimmers when light hits the glass mosaic tiles.  The imagery fills the overhead circular ceiling, providing the viewer with a joyful visual escape at this busy transit hub.  Within the center, the view is reversed and we see a birds-eye map view of the city within an "oculus".  The location of the station is pinpointed, surrounded by the vastness of New York City.</art1_description>
+		<art1_image1-b>Cadence1b.jpg</art1_image1-b>
+		<art1_image1-m>Cadence1m.jpg</art1_image1-m>
+		<art1_image1-s>Cadence1s.jpg</art1_image1-s>
+		<art1_image2-b>Cadence2b.jpg</art1_image2-b>
+		<art1_image2-m>Cadence2m.jpg</art1_image2-m>
+		<art1_image2-s>Cadence2s.jpg</art1_image2-s>
+		<art1_image3-b>Cadence3b.jpg</art1_image3-b>
+		<art1_image3-m>Cadence3m.jpg</art1_image3-m>
+		<art1_image3-s>Cadence3s.jpg</art1_image3-s>
+		<art1_image4-b>Cadence4b.jpg</art1_image4-b>
+		<art1_image4-m>Cadence4m.jpg</art1_image4-m>
+		<art1_image4-s>Cadence4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Myrtle Avenue</station_name>
+		<line>J,M,Z</line>
+		<art1_artist-first>Verna</art1_artist-first>
+		<art1_artist-last>Hart</art1_artist-last>
+		<art1_title>Jammin' Under the EL</art1_title>
+		<art1_date>1999</art1_date>
+		<art1_material>Faceted glass in mezzanine windows and platform windscreens</art1_material>
+		<art1_description>{Jammin' under the EL} honors the community's character with windows and windscreens composed of colorful faceted glass panels that depict an imaginary jazz combo with drums, piano, guitar, bass, flutes, saxophones, trombones, and trumpets.  The sounds of percussion instruments are powerfully suggested, and jiving vocalists complete the picture.  Hart says that {Jammin' under the EL} is "a kind of jam session of the mind.  A little imagination is all that's needed to enjoy a dozen solo performances in the panels.  You can board the jazz express and take a jazz, rock, funk, or salsa journey of your choice."</art1_description>
+		<art1_image1-b>Hart1b.jpg</art1_image1-b>
+		<art1_image1-m>Hart1m.jpg</art1_image1-m>
+		<art1_image1-s>Hart1s.jpg</art1_image1-s>
+		<art1_image2-b>Hart2b.jpg</art1_image2-b>
+		<art1_image2-m>Hart2m.jpg</art1_image2-m>
+		<art1_image2-s>Hart2s.jpg</art1_image2-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Flushing Avenue</station_name>
+		<line>J,M</line>
+		<art1_artist-first>Robin</art1_artist-first>
+		<art1_artist-last>Holder</art1_artist-last>
+		<art1_title>Migration</art1_title>
+		<art1_date>2006</art1_date>
+		<art1_material>Laminated glass in mezzanine windows and platform windscreens</art1_material>
+		<art1_description>This extensive artwork contains 34 panels of laminated glass, that focus on the artist's exploration, in her words, of "spatial relationships, color, and movement as well as issues of humanity, culture, and identity."  The imagery is abstract, with precision in the quality of line and forms, which was a particular challenge since the medium is glass.  Robin Holder says images "incorporate symbols from various cultures that relate to the theme of: interaction, movement, and society in motion. I hope that this work promotes a sense of celebration and reflects the vivacity, energy and liveliness of my fellow New Yorkers who use the Flushing Avenue Station."</art1_description>
+		<art1_image1-b>Holder1b.jpg</art1_image1-b>
+		<art1_image1-m>Holder1m.jpg</art1_image1-m>
+		<art1_image1-s>Holder1s.jpg</art1_image1-s>
+		<art1_image2-b>Holder2b.jpg</art1_image2-b>
+		<art1_image2-m>Holder2m.jpg</art1_image2-m>
+		<art1_image2-s>Holder2s.jpg</art1_image2-s>
+		<art1_image3-b>Holder3b.jpg</art1_image3-b>
+		<art1_image3-m>Holder3m.jpg</art1_image3-m>
+		<art1_image3-s>Holder3s.jpg</art1_image3-s>
+		<art1_image4-b>Holder4b.jpg</art1_image4-b>
+		<art1_image4-m>Holder4m.jpg</art1_image4-m>
+		<art1_image4-s>Holder4s.jpg</art1_image4-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Lorimer Street</station_name>
+		<line>J,M</line>
+		<art1_artist-first>Annette</art1_artist-first>
+		<art1_artist-last>Davidek</art1_artist-last>
+		<art1_title>Roundlet Series</art1_title>
+		<art1_date>2002</art1_date>
+		<art1_material>Faceted glass in mezzanine windows and platform windscreens</art1_material>
+		<art1_description>Annette Davidek's murals at Lorimer Street in Brooklyn illustrate the fractured and fragmented language of nature in a medium well-suited for her expressive work. {Roundlet Series} reveals the countless varieties of organic forms in botany. At times the murals recall blossoming flowers, twisting branches, or meandering patterns that mimic genetic elements. The challenge in translating the artist's work-on-paper into the faceted glass murals was to capture the detail and complexity of the compositions while maintaining their captivating qualities.  Faceted glass delivers a striking quality of translucency, texture, and range of color.  Dramatic contrasts between the contour and the content becomes apparent against the background and the result adds vibrancy to the station platform.</art1_description>
+		<art1_image1-b>Davidek1b.jpg</art1_image1-b>
+		<art1_image1-m>Davidek1m.jpg</art1_image1-m>
+		<art1_image1-s>Davidek1s.jpg</art1_image1-s>
+		<art1_image2-b>Davidek2b.jpg</art1_image2-b>
+		<art1_image2-m>Davidek2m.jpg</art1_image2-m>
+		<art1_image2-s>Davidek2s.jpg</art1_image2-s>
+		<art1_image3-b>Davidek3b.jpg</art1_image3-b>
+		<art1_image3-m>Davidek3m.jpg</art1_image3-m>
+		<art1_image3-s>Davidek3s.jpg</art1_image3-s>
+		<art1_image4-b>Davidek4b.jpg</art1_image4-b>
+		<art1_image4-m>Davidek4m.jpg</art1_image4-m>
+		<art1_image4-s>Davidek4s.jpg</art1_image4-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Hewes Street</station_name>
+		<line>J,M</line>
+		<art1_artist-first>Mara</art1_artist-first>
+		<art1_artist-last>Held</art1_artist-last>
+		<art1_title>El in 16 Notes</art1_title>
+		<art1_date>2002</art1_date>
+		<art1_material>Faceted glass in mezzanine windows and platform windscreens</art1_material>
+		<art1_description>Artist Mara Held's {El in 16 Notes} is a meditation on variations in pattern caused by differing qualities of light and the creation of overlapping forms and layers. The inspiration for the imagery of the piece was originally derived from cut-out dress patterns.  Through the minimal yet elegant shifts in color and pattern that are occasionally pierced by playful curving lines, the work enables the viewer to witness the light and the neighboring skyline as it emerges through the glass planes.  Held played particular attention to the colors and role of natural light to animate and illuminate the work, which graces the platform with light and color.</art1_description>
+		<art1_image1-b>Heldm1b.jpg</art1_image1-b>
+		<art1_image1-m>Heldm1m.jpg</art1_image1-m>
+		<art1_image1-s>Heldm1s.jpg</art1_image1-s>
+		<art1_image2-b>Heldm2b.jpg</art1_image2-b>
+		<art1_image2-m>Heldm2m.jpg</art1_image2-m>
+		<art1_image2-s>Heldm2s.jpg</art1_image2-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Marcy Avenue</station_name>
+		<line>J,M,Z</line>
+		<art1_artist-first>Ellsworth</art1_artist-first>
+		<art1_artist-last>Ausby</art1_artist-last>
+		<art1_title>Space Odyssey</art1_title>
+		<art1_date>2004</art1_date>
+		<art1_material>Faceted glass in mezzanine windows and platform windscreens</art1_material>
+		<art1_description>Ellsworth Ausby created eight triptychs for the station's platform windscreens that explore the relationship of man to the universe.  In a subtle way, the brilliantly colored forms evoke the feeling of the swirling cosmos.  For this commission, the artist produced a series of drawings later translated into a faceted glass.  According to the artist, he is particularly attracted by "the idea of traveling in infinite space, which is as a passenger on the Earth Express line, experienced through the cycle of the seasons."  He was particularly pleased to work with faceted glass windows, "a new and exciting medium for me to work with,  ...  These windows have allowed me to expand my understanding of the possibilities that this concept has as public art,....It is my hope that these windows express what I feel is the spirit of New York, the hustle and bustle, the fast pace of the city."</art1_description>
+		<art1_image1-b>Ausby1b.jpg</art1_image1-b>
+		<art1_image1-m>Ausby1m.jpg</art1_image1-m>
+		<art1_image1-s>Ausby1s.jpg</art1_image1-s>
+		<art1_image2-b>Ausby2b.jpg</art1_image2-b>
+		<art1_image2-m>Ausby2m.jpg</art1_image2-m>
+		<art1_image2-s>Ausby2s.jpg</art1_image2-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Delancey Street-Essex Street</station_name>
+		<line>F,J,M,Z</line>
+		<art1_artist-first>Ming</art1_artist-first>
+		<art1_artist-last>Fay</art1_artist-last>
+		<art1_title>Shad Crossing, Delancey Orchard</art1_title>
+		<art1_date>2004</art1_date>
+		<art1_material>Glass mosaics on platform and mezzanine walls</art1_material>
+		<art1_description>Ming Fay brings to the station the liveliness of the thriving marketplace overhead in this storied Lower East Side neighborhood.  The artist extensively researched the neighborhood's history, and created by watercolor sketches that were transformed into glass mosaic murals by craftsmen.  The images of Shad Crossing celebrate the return of the once abundant fish to New York and water as a metaphor for "crossing." {Delancey Orchard} is the mural on the Manhattan-bound platform, inspired by the prominent  DeLancey family's eighteenth century farm, which stretched from the East River to the Hudson River.  The farm's cherry orchard was located where Orchard Street stands and is memorialized with radiant cherry trees on the Brooklyn-bound platform.</art1_description>
+		<art1_image1-b>Fay1b.jpg</art1_image1-b>
+		<art1_image1-m>Fay1m.jpg</art1_image1-m>
+		<art1_image1-s>Fay1s.jpg</art1_image1-s>
+		<art1_image2-b>Fay2b.jpg</art1_image2-b>
+		<art1_image2-m>Fay2m.jpg</art1_image2-m>
+		<art1_image2-s>Fay2s.jpg</art1_image2-s>
+		<art1_image3-b>Fay3b.jpg</art1_image3-b>
+		<art1_image3-m>Fay3m.jpg</art1_image3-m>
+		<art1_image3-s>Fay3s.jpg</art1_image3-s>
+		<art1_image4-b>Fay4b.jpg</art1_image4-b>
+		<art1_image4-m>Fay4m.jpg</art1_image4-m>
+		<art1_image4-s>Fay4s.jpg</art1_image4-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Canal Street</station_name>
+		<line>J,M,N,Q,R,W,Z,6</line>
+		<art1_artist-first>Bing</art1_artist-first>
+		<art1_artist-last>Lee</art1_artist-last>
+		<art1_title>Empress Voyage 2.22.1794</art1_title>
+		<art1_date>1998</art1_date>
+		<art1_material>Ceramic tiles and mosaic banding on platform walls and connecting passageway</art1_material>
+		<art1_description>Bing Lee's {Empress Voyage} commemorates the pioneering expedition of the American merchant ship, Empress of China, which in 1794 returned to New York harbor filled with silk, tea, and porcelain (commonly called china, due to its origin).  Through the artist's lighthearted use of Chinese-derived icons, the tiles illustrate aspects of the then-new trade with Asia and celebrates today's Chinatown.  On the platforms, interlocking teapots incorporate the Chinese symbol for "good life."  Other symbols, on the station's upper level, are variations on the symbols for "Asia," "quality," and "cycle."  As trains arrive, debarking passengers are given a choice of reading "Canal Street" in English or the Chinese characters for "Chinatown." "I want to give the viewers art that reminds them of history, but also speaks directly to them," says Lee, "something meaningful but also playful."</art1_description>
+		<art1_image1-b>Lee1b.jpg</art1_image1-b>
+		<art1_image1-m>Lee1m.jpg</art1_image1-m>
+		<art1_image1-s>Lee1s.jpg</art1_image1-s>
+		<art1_image2-b>Lee2b.jpg</art1_image2-b>
+		<art1_image2-m>Lee2m.jpg</art1_image2-m>
+		<art1_image2-s>Lee2s.jpg</art1_image2-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Brooklyn Bridge-City Hall/Chamber Street</station_name>
+		<line>4,5,6,J,M,Z</line>
+		<art1_artist-first>Mark</art1_artist-first>
+		<art1_artist-last>Gibian</art1_artist-last>
+		<art1_title>Cable Crossing</art1_title>
+		<art1_date>1996</art1_date>
+		<art1_description>The Brooklyn Bridge's pioneering use of steel cables and a suspended roadway are repeatedly referenced in the design of artist Mark Gibian's work. Within the west mezzanine a web of cables recalls the graceful forms of the bridge, while overhead a 30-square foot structure, suspended beneath a skylight, frames the cable work.   At the turnstiles, three panels that also use cables serve as a functional barrier.   For the artist, the "lacy" curves of the panels "echo the beauty of the bridge's cross-hatched cables and the feeling of flight as it springs across the East River."  The energy of {Cable Crossing} suggests "the controlled power of the subway and its network of metal and concrete that undergirds the city.   I wanted to explore movement, using soft curves with hard materials," Gibian says.</art1_description>
+		<art1_image1-b>Gibian1b.jpg</art1_image1-b>
+		<art1_image1-m>Gibian1m.jpg</art1_image1-m>
+		<art1_image1-s>Gibian1s.jpg</art1_image1-s>
+		<art1_image2-b>Gibian2b.jpg</art1_image2-b>
+		<art1_image2-m>Gibian2m.jpg</art1_image2-m>
+		<art1_image2-s>Gibian2s.jpg</art1_image2-s>
+		<art1_image3-b>Gibian3b.jpg</art1_image3-b>
+		<art1_image3-m>Gibian3m.jpg</art1_image3-m>
+		<art1_image3-s>Gibian3s.jpg</art1_image3-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Fulton Street/Broadway-Nassau</station_name>
+		<line>A,C,J,M,Z,2,3,4,5</line>
+		<art1_artist-first>Nancy</art1_artist-first>
+		<art1_artist-last>Holt</art1_artist-last>
+		<art1_title>Astral Grating</art1_title>
+		<art1_date>1987</art1_date>
+		<art1_material>Steel and light sculpture in passageway ceiling between A, C and 4, 5 stations</art1_material>
+		<art1_description>Nancy Holt's steel ceiling sculpture incorporating lighting at the Fulton Street/Broadway-Nassau subway station, is an example of Arts for Transit's early efforts to foster collaborations with station architects, (in this case, Lee Harris Pomeroy) to integrate the artwork with the architecture.   An environmental artist, Holt creates art by giving physical form to universal cycles of the sun, moon, and stars. *In {Astral Grating}, Holt has surrounded lights with graduated circular rings making domed openings in a dropped steel grate ceiling.  "The rings and light fixtures in this ceiling light sculpture are in the configuration of the stars in five constellations: Aries, Auriga, Canis Major, Cygnus, and Piscus Austrinus," says Holt.  The number of lights in a cluster and the diameter of the domed openings vary in size according to the brightness of the stars represented. *{The plan for the new Fulton Street Transit Center, includes the reinstallation of Astral Grating  in the reconfigured passageways.}</art1_description>
+		<art1_image1-b>Holt1b.jpg</art1_image1-b>
+		<art1_image1-m>Holt1m.jpg</art1_image1-m>
+		<art1_image1-s>Holt1s.jpg</art1_image1-s>
+		<art1_image2-b>Holt2b.jpg</art1_image2-b>
+		<art1_image2-m>Holt2m.jpg</art1_image2-m>
+		<art1_image2-s>Holt2s.jpg</art1_image2-s>
+		<art2_artist-first>Frederick Dana</art2_artist-first>
+		<art2_artist-last>Marsh</art2_artist-last>
+		<art2_title>Marine Grill Murals</art2_title>
+		<art2_date>ca. 1913; installed 2000</art2_date>
+		<art2_material>Glazed terracotta murals and painted cast iron gates created for the McAlpin Hotel in 1913; reinstalled in passageway;  to be relocated to the new Williams Street entrance to the A, C, 2, 3 as part of the Fulton Street Transit Center project.</art2_material>
+		<art2_description>At the turn of the twentieth century the McAlpin Hotel was one of the places to be seen.  Frederick Dana Marsh created a series of twenty terra cotta murals for its walls, with maritime themes celebrating New York's important seaport.  Times change, and the hotel became apartments and the murals were removed.  In 2000, six of the murals were installed in the station and was the Marine Grill's famed ironwork entrance gate.  All of this blends well with the terra cotta plaques installed elsewhere in the system by the original builders of the subway. *{The rebuilding of the station, as part of the Fulton Street Transit Center, is underway and requires the murals' removal, restoration, and relocation.}</art2_description>
+		<art2_image1-b>Marsh1b.jpg</art2_image1-b>
+		<art2_image1-m>Marsh1m.jpg</art2_image1-m>
+		<art2_image1-s>Marsh1s.jpg</art2_image1-s>
+		<art2_image2-b>Marsh2b.jpg</art2_image2-b>
+		<art2_image2-m>Marsh2m.jpg</art2_image2-m>
+		<art2_image2-s>Marsh2s.jpg</art2_image2-s>
+		<art2_image3-b>Marsh3b.jpg</art2_image3-b>
+		<art2_image3-m>Marsh3m.jpg</art2_image3-m>
+		<art2_image3-s>Marsh3s.jpg</art2_image3-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>DeKalb Avenue</station_name>
+		<line>B,M,Q,R</line>
+		<art1_artist-first>Stephen</art1_artist-first>
+		<art1_artist-last>Johnson</art1_artist-last>
+		<art1_title>DeKalb Improvisation</art1_title>
+		<art1_date>2005</art1_date>
+		<art1_material>Glass mosaic on mezzanine walls</art1_material>
+		<art1_description>Stephen Johnson describes his mosaic mural and his inspiration for the energy it conveys: "My idea for these murals is to convey a sense of joy through an exuberant juxtaposition of colors, shapes, and familiar images. ... On the surface, the variety of colors and shapes in the mosaics resemble collages and invite the traveler to consider the multiple layers of images found on city walls, particularly in the subway, where posters may tear, revealing previous images and forming exciting compositions....The glass is as diverse as the station's passengers, whose ethnic origins stem from Asia, Africa, and the Middle East. ... I wanted the abstract design to be balanced with realistic images that people can instantly get."  The work brings vibrancy and texture to the station environment.</art1_description>
+		<art1_image1-b>Johnson1b.jpg</art1_image1-b>
+		<art1_image1-m>Johnson1m.jpg</art1_image1-m>
+		<art1_image1-s>Johnson1s.jpg</art1_image1-s>
+		<art1_image2-b>Johnson2b.jpg</art1_image2-b>
+		<art1_image2-m>Johnson2m.jpg</art1_image2-m>
+		<art1_image2-s>Johnson2s.jpg</art1_image2-s>
+		<art1_image3-b>Johnson3b.jpg</art1_image3-b>
+		<art1_image3-m>Johnson3m.jpg</art1_image3-m>
+		<art1_image3-s>Johnson3s.jpg</art1_image3-s>
+		<art1_image4-b>Johnson4b.jpg</art1_image4-b>
+		<art1_image4-m>Johnson4m.jpg</art1_image4-m>
+		<art1_image4-s>Johnson4s.jpg</art1_image4-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Atlantic Avenue-Pacific Street</station_name>
+		<line>B,D,M,N,Q,R,2,3,4,5</line>
+		<art1_artist-first>George</art1_artist-first>
+		<art1_artist-last>Trakas</art1_artist-last>
+		<artistextra>in collaboration with di Domenico + Partners</artistextra>
+		<art1_title>Hook (Archean Reach), Line (Sea House), and Sinker (Mined Swell)</art1_title>
+		<art1_date>2004</art1_date>
+		<art1_material>Polished granite, brushed steel, limestone, and Rockville granite throughout station</art1_material>
+		<art1_description>The array of subway and rail lines at the Atlantic Avenue-Pacific Street and LIRR's Terminal presented a perfect opportunity for an "architect/artist" collaboration to unify passages and stairways, creating a coherent and efficient space.  George Trakas  uses forms and materials that underscore the structure and beauty of the cavernous space. *Trakas selected the stone pavers and bollards for the plaza area.  The architects designed a skylight for the historic station kiosk and Trakas added a small peephole equipped with a lens that provides a view from the street to the light-filled space below.  The viewer spies a boat-shaped gantry of stainless steel and mesh beneath the skylight.  A granite "wave" runs along the walls and crests at the point where the two stations, Atlantic Avenue and Pacific Street, meet - linking the passageways.  Referencing the names {Atlantic} and {Pacific}, the overarching concept is a place of landing and departure - functions shared by train stations and seaports.</art1_description>
+		<art1_image1-b>Trakas1b.jpg</art1_image1-b>
+		<art1_image1-m>Trakas1m.jpg</art1_image1-m>
+		<art1_image1-s>Trakas1s.jpg</art1_image1-s>
+		<art1_image2-b>Trakas2b.jpg</art1_image2-b>
+		<art1_image2-m>Trakas2m.jpg</art1_image2-m>
+		<art1_image2-s>Trakas2s.jpg</art1_image2-s>
+		<art1_image3-b>Trakas3b.jpg</art1_image3-b>
+		<art1_image3-m>Trakas3m.jpg</art1_image3-m>
+		<art1_image3-s>Trakas3s.jpg</art1_image3-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Union Street</station_name>
+		<line>M,R</line>
+		<art1_artist-first>Emmett</art1_artist-first>
+		<art1_artist-last>Wigglesworth</art1_artist-last>
+		<art1_title>CommUnion</art1_title>
+		<art1_date>1994</art1_date>
+		<art1_material>Porcelain enamel on platform walls; tile design on track walls</art1_material>
+		<art1_description>In this series of 22 panels set into recessed areas above the subway station signs, symbolic figures move about and interact with one another. Although separated by spacing between panels, each is linked by their graphic quality to form a relationship with those nearby.  The artist explains his concept:  "As a unit they form a composite to symbolically show as in a 'union' the best of each part of racial, religious, and cultural life make the most positive picture.  The community above the Union Street station is mirrored in these panels because they are successfully working at making their community into this reality."  Additionally, the station has a series of track wall panels designed by the artist.</art1_description>
+		<art1_image1-b>Wigglesworth1b.jpg</art1_image1-b>
+		<art1_image1-m>Wigglesworth1m.jpg</art1_image1-m>
+		<art1_image1-s>Wigglesworth1s.jpg</art1_image1-s>
+		<art1_image2-b>Wigglesworth2b.jpg</art1_image2-b>
+		<art1_image2-m>Wigglesworth2m.jpg</art1_image2-m>
+		<art1_image2-s>Wigglesworth2s.jpg</art1_image2-s>
+		<art1_image3-b>Wigglesworth3b.jpg</art1_image3-b>
+		<art1_image3-m>Wigglesworth3m.jpg</art1_image3-m>
+		<art1_image3-s>Wigglesworth3s.jpg</art1_image3-s>
+	</station>
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>36th Street</station_name>
+		<line>D,M,N,R</line>
+		<art1_artist-first>Owen</art1_artist-first>
+		<art1_artist-last>Smith</art1_artist-last>
+		<art1_title>An Underground Movement: Designers, Builders, Riders</art1_title>
+		<art1_date>1998</art1_date>
+		<art1_material>Ceramic mosaic on mezzanine walls; ceramic mosaic medallions on stairway walls</art1_material>
+		<art1_description>Owen Smith designed this brilliantly colored mosaic work with Brooklyn riders in mind, as "a celebration of the working people who have made the subway what it is today."  The  subject matter is the subway's creation and importance.  Smith said, "The west wall depicts the designers and engineers who achieved this great engineering feat.  The north wall pays tribute to the workers who dug the tunnels and laid the 680 miles of track.  And the third panel represents the people who use the subway every day and whose lives are improved by it."  Smith highlights popular pastimes and haunts in the murals; on the Manhattan-bound side the Rockettes are seen kicking their heels, and on the Brooklyn-bound platform Smith depicts a brownstone with Coney Island in the background.  Smith cites Diego Rivera and other WPA era muralists as influences, and designed his murals in their spirit.</art1_description>
+		<art1_image1-b>Smitho1b.jpg</art1_image1-b>
+		<art1_image1-m>Smitho1m.jpg</art1_image1-m>
+		<art1_image1-s>Smitho1s.jpg</art1_image1-s>
+		<art1_image2-b>Smitho2b.jpg</art1_image2-b>
+		<art1_image2-m>Smitho2m.jpg</art1_image2-m>
+		<art1_image2-s>Smitho2s.jpg</art1_image2-s>
+		<art1_image3-b>Smitho3b.jpg</art1_image3-b>
+		<art1_image3-m>Smitho3m.jpg</art1_image3-m>
+		<art1_image3-s>Smitho3s.jpg</art1_image3-s>
+		<art1_image4-b>Smitho4b.jpg</art1_image4-b>
+		<art1_image4-m>Smitho4m.jpg</art1_image4-m>
+		<art1_image4-s>Smitho4s.jpg</art1_image4-s>
+	</station>
+</permart>

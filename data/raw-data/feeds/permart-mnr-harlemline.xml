@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Harlem - 125 Street</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Alison</art1_artist-first>
+		<art1_artist-last>Saar</art1_artist-last>
+		<art1_title>Hear the Lone Whistle Moan</art1_title>
+		<art1_date>1991</art1_date>
+		<art1_material>Bronze grilles and reliefs on platforms</art1_material>
+		<art1_description>Saar's work consists of figures standing against a grille as they wait on the north and south platforms. *The title, {Hear the Lone Whistle Moan}, is from a spiritual that uses the train as a metaphor for the passage to heaven.  Trains have often been associated by African Americans with escape and the Underground Railroad in particular.  In the words of the artist, "...these pieces...create a simple narrative of two people.  One, the young woman coming to the city in hopes of advancing her career, the other, a successful businessman leaving the city to return to his hometown.  I believe these two scenarios to be examples of how many Americans have used the railroads to and from New York throughout history.  Yet I was also addressing the specific and rich tradition of the role of the railroad in general in the lives of African Americans."  A third figure is of a conductor at the top of the platform stairs.</art1_description>
+		<art1_image1-b>Saar1b.jpg</art1_image1-b>
+		<art1_image1-m>Saar1m.jpg</art1_image1-m>
+		<art1_image1-s>Saar1s.jpg</art1_image1-s>
+		<art1_image2-b>Saar2b.jpg</art1_image2-b>
+		<art1_image2-m>Saar2m.jpg</art1_image2-m>
+		<art1_image2-s>Saar2s.jpg</art1_image2-s>
+		<art2_artist-first>Terry</art2_artist-first>
+		<art2_artist-last>Adkins</art2_artist-last>
+		<art2_title>Harlem Encore</art2_title>
+		<art2_date>1999</art2_date>
+		<art2_material>Aluminum panels with ornamental back-lighting on overpass</art2_material>
+		<art2_description>MTA Metro-North's two-mile Park Avenue Viaduct carries trains in and out of Grand Central Terminal.  Parts of the structure date back to the 19th century, including the landmark 125th Street railroad station, that has been restored.   The station is a busy site and an entry point to a community that is alive 24/7. *For the bridge, sculptor Terry Adkins's created {Harlem Encore} in two distinct silhouetted aluminum relief panels.  The work celebrates Harlem's past achievements and bright future.  In the polished images that flank the bridge's western fa&ccedil;ade, Adkins has memorialized the Afro-Atlantic ancestors with figures that reflect the spiritual triumph over adversity.  On the eastern side the art salutes continuity and urban life with figures seen in the midst of skyscrapers.  On both sides, sphinxes and streaming suns add strength, dignity, and timelessness.  At night, blue back lighting accentuates {Harlem Encore}'s powerful presence on the street.</art2_description>
+		<art2_image1-b>Adkin1b.jpg</art2_image1-b>
+		<art2_image1-m>Adkin1m.jpg</art2_image1-m>
+		<art2_image1-s>Adkin1s.jpg</art2_image1-s>
+		<art2_image2-b>Adkin2b.jpg</art2_image2-b>
+		<art2_image2-m>Adkin2m.jpg</art2_image2-m>
+		<art2_image2-s>Adkin2s.jpg</art2_image2-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Mount Vernon West</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Martha</art1_artist-first>
+		<art1_artist-last>Jackson-Jarvis</art1_artist-last>
+		<art1_title>Travelin' Time</art1_title>
+		<art1_date>1991</art1_date>
+		<art1_material>Glass and ceramic mosaic sculpture on waiting room ceiling</art1_material>
+		<art1_description>Martha Jackson-Jarvis has experimented with the qualities of clay, glazes, and firing methods for most of her career and she welcomes the surprise and chance occurrences that are part of working with natural materials.   In the words of the artist, "Conceptually, {Travelin' Time} occupies transitional space. It is a space between points, a place of resting, of waiting, of new beginnings and departures.  Though Mount Vernon station is indeed public space, it still remains an intimate space where human scale and pace are slowed momentarily. It is a space in which we are asked to wait . . . and while waiting contemplate traveling through time and space to distances unknown, yet familiar."</art1_description>
+		<art1_image1-b>JacksonJarvis1b.jpg</art1_image1-b>
+		<art1_image1-m>JacksonJarvis1m.jpg</art1_image1-m>
+		<art1_image1-s>JacksonJarvis1s.jpg</art1_image1-s>
+		<art1_image2-b>JacksonJarvis2b.jpg</art1_image2-b>
+		<art1_image2-m>JacksonJarvis2m.jpg</art1_image2-m>
+		<art1_image2-s>JacksonJarvis2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Fleetwood</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Arthur</art1_artist-first>
+		<art1_artist-last>Gonzalez</art1_artist-last>
+		<art1_title>Time Catcher</art1_title>
+		<art1_date>1990</art1_date>
+		<art1_material>Bronze sculpture on interior overpass wall</art1_material>
+		<art1_description>Arthur Gonzalez has created a monumental serial artwork with large-scale bronze figures that are located at three stations on MTA Metro-North Railroad's Harlem line.  The work uses the themes of time and travel as the central focus.  {Time Catcher} at Fleetwood is a polychrome bronze featuring a historic map of the region and a worker with his tools, a tribute to those who built the railroad.  {(See Crestwood and Tuckahoe for the other two works in the series.)}</art1_description>
+		<art1_image1-b>Gonzalez-F1b.jpg</art1_image1-b>
+		<art1_image1-m>Gonzalez-F1m.jpg</art1_image1-m>
+		<art1_image1-s>Gonzalez-F1s.jpg</art1_image1-s>
+		<art1_image2-b>Gonzalez-F2b.jpg</art1_image2-b>
+		<art1_image2-m>Gonzalez-F2m.jpg</art1_image2-m>
+		<art1_image2-s>Gonzalez-F2s.jpg</art1_image2-s>
+		<art1_image3-b>Gonzalez-F3b.jpg</art1_image3-b>
+		<art1_image3-m>Gonzalez-F3m.jpg</art1_image3-m>
+		<art1_image3-s>Gonzalez-F3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Tuckahoe</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Arthur</art1_artist-first>
+		<art1_artist-last>Gonzalez</art1_artist-last>
+		<art1_title>The Finder / The Seekers</art1_title>
+		<art1_date>1990</art1_date>
+		<art1_material>Bronze sculpture on interior overpass wall</art1_material>
+		<art1_description>Arthur Gonzalez has created a monumental serial artwork with large-scale bronze figures that are located at three stations on MTA Metro-North Railroad's Harlem line.  The work uses the themes of time and travel as the central focus.  {Finder/Seekers} at Tuckahoe includes a set of sculptures that depict early settlers and explorers ringed by children's toys that echo the adventures and sense of discovery experienced by the area's early settlers.  {(See Crestwood and Fleetwood for the other two works in the series.)}</art1_description>
+		<art1_image1-b>Gonzalez-T1b.jpg</art1_image1-b>
+		<art1_image1-m>Gonzalez-T1m.jpg</art1_image1-m>
+		<art1_image1-s>Gonzalez-T1s.jpg</art1_image1-s>
+		<art1_image2-b>Gonzalez-T2b.jpg</art1_image2-b>
+		<art1_image2-m>Gonzalez-T2m.jpg</art1_image2-m>
+		<art1_image2-s>Gonzalez-T2s.jpg</art1_image2-s>
+		<art1_image3-b>Gonzalez-T3b.jpg</art1_image3-b>
+		<art1_image3-m>Gonzalez-T3m.jpg</art1_image3-m>
+		<art1_image3-s>Gonzalez-T3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Crestwood</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Arthur</art1_artist-first>
+		<art1_artist-last>Gonzalez</art1_artist-last>
+		<art1_title>The Discovery</art1_title>
+		<art1_date>1990</art1_date>
+		<art1_material>Bronze sculpture on interior overpass wall</art1_material>
+		<art1_description>Arthur Gonzalez has created a monumental serial artwork with large-scale bronze figures that are located at three stations on MTA Metro-North Railroad's Harlem line.  The work uses the themes of time and travel as the central focus.   At Crestwood, the sculpture {Discovery} is a bronze figure of a girl in a boat who holds a compass with the cardinal directions, evoking themes of travel and exploration.  {(See Fleetwood and Tuckahoe for the other two works in the series.)}</art1_description>
+		<art1_image1-b>Gonzalez-C1b.jpg</art1_image1-b>
+		<art1_image1-m>Gonzalez-C1m.jpg</art1_image1-m>
+		<art1_image1-s>Gonzalez-C1s.jpg</art1_image1-s>
+		<art1_image2-b>Gonzalez-C2b.jpg</art1_image2-b>
+		<art1_image2-m>Gonzalez-C2m.jpg</art1_image2-m>
+		<art1_image2-s>Gonzalez-C2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Scarsdale</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Tom</art1_artist-first>
+		<art1_artist-last>Nussbaum</art1_artist-last>
+		<art1_title>Travelers</art1_title>
+		<art1_date>1991</art1_date>
+		<art1_material>COR-TEN&reg; steel sculpture on station canopies</art1_material>
+		<art1_description>In his silhouetted figures at the Scarsdale and Hartsdale stations, Tom Nussbaum acknowledges those most likely to view his artwork there - commuters and railroad workers.  At the Scarsdale station a  group of flattened, iron figures appears.  They are travelers, evidenced by their carrying suitcases, bundles, and even a container balanced on a figure's head.  {Travelers} also includes three-foot figures standing along the roof line of the station canopies.  Nussbaum says, "My approach to this kind of figurative work reflects an on-going interest in American folk sculpture of all kinds, especially whirligigs and weather vanes."  {(See Hartsdale for the other work in the series.)}</art1_description>
+		<art1_image1-b>Nussbaum-S1b.jpg</art1_image1-b>
+		<art1_image1-m>Nussbaum-S1m.jpg</art1_image1-m>
+		<art1_image1-s>Nussbaum-S1s.jpg</art1_image1-s>
+		<art1_image2-b>Nussbaum-S2b.jpg</art1_image2-b>
+		<art1_image2-m>Nussbaum-S2m.jpg</art1_image2-m>
+		<art1_image2-s>Nussbaum-S2s.jpg</art1_image2-s>
+		<art1_image3-b>Nussbaum-S3b.jpg</art1_image3-b>
+		<art1_image3-m>Nussbaum-S3m.jpg</art1_image3-m>
+		<art1_image3-s>Nussbaum-S3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Hartsdale</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Tom</art1_artist-first>
+		<art1_artist-last>Nussbaum</art1_artist-last>
+		<art1_title>Workers</art1_title>
+		<art1_date>1991</art1_date>
+		<art1_material>COR-TEN&reg; steel sculpture on station canopies</art1_material>
+		<art1_description>In his silhouetted figures at the Scarsdale and Hartsdale stations, Tom Nussbaum directly acknowledges -and celebrates- those most likely to view his artwork there - commuters and railroad workers.  At the Hartsdale station, twenty-one life-sized figures are placed along the center of the open space between the two train tracks.  In addition, monumentally-scaled people made of iron are seen in the station's track bed, busy working: guiding trains, keeping the track in good repair and throwing switches.  Nussbaum says, "My approach to this kind of figurative work reflects an on-going interest in American folk sculpture of all kinds, especially whirligigs and weather vanes."  {(See Scarsdale for the other work in the series.)}</art1_description>
+		<art1_image1-b>Nussbaum-H1b.jpg</art1_image1-b>
+		<art1_image1-m>Nussbaum-H1m.jpg</art1_image1-m>
+		<art1_image1-s>Nussbaum-H1s.jpg</art1_image1-s>
+		<art1_image2-b>Nussbaum-H2b.jpg</art1_image2-b>
+		<art1_image2-m>Nussbaum-H2m.jpg</art1_image2-m>
+		<art1_image2-s>Nussbaum-H2s.jpg</art1_image2-s>
+		<art1_image3-b>Nussbaum-H3b.jpg</art1_image3-b>
+		<art1_image3-m>Nussbaum-H3m.jpg</art1_image3-m>
+		<art1_image3-s>Nussbaum-H3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>North White Plains</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Rolando</art1_artist-first>
+		<art1_artist-last>Brise&ntilde;o</art1_artist-last>
+		<art1_title>At the Table</art1_title>
+		<art1_date>1991</art1_date>
+		<art1_material>Cast aluminum low-relief sculpture on platform columns</art1_material>
+		<art1_description>The artwork at this station is a series of cast aluminum sculptures in low relief along the platform's columns.  The artist Rolando Brise&ntilde;o's unusual architectural treatment of the column capitals complement the North White Plains station's architecture while creating an eye-catching and surprising array of everyday objects that are etched into the sculptural forms as symbols.   These are completed by six black architectonic pieces that combine these symbols- which include parts of a table, fruit, hands, and other body parts, and even televisions.  "I depict these symbols that we use and see every day in movement to reflect our relation to time and existence; everything, including ourselves, is made of atoms, always in movement," Brise&ntilde;o says.</art1_description>
+		<art1_image1-b>Briseno1b.jpg</art1_image1-b>
+		<art1_image1-m>Briseno1m.jpg</art1_image1-m>
+		<art1_image1-s>Briseno1s.jpg</art1_image1-s>
+		<art1_image2-b>Briseno2b.jpg</art1_image2-b>
+		<art1_image2-m>Briseno2m.jpg</art1_image2-m>
+		<art1_image2-s>Briseno2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Pleasantville</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Jane</art1_artist-first>
+		<art1_artist-last>Greengold and Kane Chanh Do</art1_artist-last>
+		<art1_title>Almost Home</art1_title>
+		<art1_date>2002</art1_date>
+		<art1_material>Sculptural seating</art1_material>
+		<art1_description>Twenty-two cast bronze sculptural chairs greet those who use the Pleasantville Station.  The pieces represent different types of seating and the variety of domestic d&eacute;cor.  They are arranged in groupings throughout the station overpass and waiting area.  Artists Kane Chanh Do and Jane Greengold, who created {Almost Home}, explain:  "In this suburb of New York City, we have re-created, in bronze, chairs likely to be found in the homes of the commuters who use the station, bringing some of the comforts of home out to meet the riders, making the station almost like home, and reminding riders that they, too, are almost home.  Because the chairs look so life-like, so much like wood and upholstery fabric, they create a humorous, {trompe l'oeil} effect."  To complete the domestic setting, nearby is a bronze replica of a copy of {Reader's Digest}; for most of its history the magazine was published in Pleasantville.</art1_description>
+		<art1_image1-b>Do-Greengold1b.jpg</art1_image1-b>
+		<art1_image1-m>Do-Greengold1m.jpg</art1_image1-m>
+		<art1_image1-s>Do-Greengold1s.jpg</art1_image1-s>
+		<art1_image2-b>Do-Greengold2b.jpg</art1_image2-b>
+		<art1_image2-m>Do-Greengold2m.jpg</art1_image2-m>
+		<art1_image2-s>Do-Greengold2s.jpg</art1_image2-s>
+		<art1_image3-b>Do-Greengold3b.jpg</art1_image3-b>
+		<art1_image3-m>Do-Greengold3m.jpg</art1_image3-m>
+		<art1_image3-s>Do-Greengold3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>MNR</abbr>
+		<agency>Metro-North Railroad</agency>
+		<station_name>Wassaic</station_name>
+		<line>Harlem Line</line>
+		<art1_artist-first>Anne</art1_artist-first>
+		<art1_artist-last>Huibregtse</art1_artist-last>
+		<art1_title>Arrival</art1_title>
+		<art1_date>2000</art1_date>
+		<art1_material>Cast bronze sculpture near stairs to platform</art1_material>
+		<art1_description>{Arrival} is a bronze bas-relief of life-size dairy cows facing commuters and their trains.  "I want the cows to remind both local residents and visitors of the region's rich farming past," says artist Anne Huibregtse.  "The local agricultural economy may be shrinking, but it remains an important part of our community and rural landscape."  The Wassaic area had turned to dairy farming in the mid-nineteenth century - due to the conjunction of a historical event and an invention.  The event was the Civil War; the invention, the development of canned milk, in great demand by the Union army for its soldiers.  But other areas soon outpaced Wassaic in dairying, and farm after farm was turned to other uses.</art1_description>
+		<art1_image1-b>Huibregtse1b.jpg</art1_image1-b>
+		<art1_image1-m>Huibregtse1m.jpg</art1_image1-m>
+		<art1_image1-s>Huibregtse1s.jpg</art1_image1-s>
+		<art1_image2-b>Huibregtse2b.jpg</art1_image2-b>
+		<art1_image2-m>Huibregtse2m.jpg</art1_image2-m>
+		<art1_image2-s>Huibregtse2s.jpg</art1_image2-s>
+	</station>
+
+</permart>

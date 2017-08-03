@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Atlantic Terminal</station_name>
+		<line>Babylon Branch</line>
+		<art1_artist-first>Allan and Ellen</art1_artist-first>
+		<art1_artist-last>Wexler</art1_artist-last>
+		<art1_title>Overlook</art1_title>
+		<art1_date>2009</art1_date>
+		<art1_material>Granite</art1_material>
+		<art1_description>The new MTA Long Island Rail Road (LIRR) Atlantic Terminal in Brooklyn features an artist/architect collaboration in a soaring, light-filled atrium. The project architects, di Domenico + Partners collaborated with the artists, Allan Wexler and Ellen Wexler, to create a special place of arrival in the entry pavilion which reaches from the street level down to the ticket office, waiting room and LIRR and NYC Transit subways. *The Wexlers created a two-story sculptural balcony and wall that visually evokes the adventure of travel. Titled {Overlook}, its rocky granite form cantilevers above the main concourse at the Terminal, referencing scenic overlooks often found in national parks, where travelers are encouraged to pause and take in the larger scene. The bands of granite also refer to nature found underground in layers of rock. Allan Wexler commented, "We sought to create the experience of viewing an urban public space as if it were a nature setting, using granite tiles mathematically pixilated to create nooks and crannies found in rock walls." Ellen Wexler said, "We wanted to create a space where one can stop and take in the dynamic energy, which is as exciting as stopping to take in the Grand Canyon or other major vista". *{Overlook} is framed by a pair of sweeping staircases and a glass and stainless steel balcony/railing that flows with the architecture of the space, which promises to be a Brooklyn landmark, akin to Grand Central Terminal's famous clock. *Allan Wexler and Ellen Wexler have created public art works nationwide, often using familiar forms imbued with new meanings and functions, fostering a new way of looking at or using the specific site. The materials used often are construction materials, as in the case of {Overlook}.</art1_description>
+		<art1_image1-b>wexler1b.jpg</art1_image1-b>
+		<art1_image1-m>wexler1m.jpg</art1_image1-m>
+		<art1_image1-s>wexler1s.jpg</art1_image1-s>
+		<art1_image2-b>wexler2b.jpg</art1_image2-b>
+		<art1_image2-m>wexler2m.jpg</art1_image2-m>
+		<art1_image2-s>wexler2s.jpg</art1_image2-s>
+		<art1_image3-b>wexler3b.jpg</art1_image3-b>
+		<art1_image3-m>wexler3m.jpg</art1_image3-m>
+		<art1_image3-s>wexler3s.jpg</art1_image3-s>
+		<art1_image4-b>wexler4b.jpg</art1_image4-b>
+		<art1_image4-m>wexler4m.jpg</art1_image4-m>
+		<art1_image4-s>wexler4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Hicksville</station_name>
+		<line>Port Jefferson and Ronkonkoma Branches</line>
+		<art1_artist-first>Roy</art1_artist-first>
+		<art1_artist-last>Nicholson</art1_artist-last>
+		<art1_title>Morning Transit, Hempstead Plain &amp; Evening Transit, Hempstead Plain,</art1_title>
+		<art1_date>2002</art1_date>
+		<art1_material>Glass mosaics on waiting room walls</art1_material>
+		<art1_description>In the {Morning Transit, Hempstead Plain &amp; Evening Transit, Hempstead Plain} murals, Roy Nicholson takes viewers back in time.  The area around Hicksville was once a notable rarity, an example of an original prairie landscape most often associated with the Midwest.  Nicholson recaptures that setting, in look and spirit, as if seen from a speeding train.  The colors vary according to the time of day depicted - soft green and blue hues for sunrise in {Morning Transit}, and red and blue hues for sunset in {Evening Transit}.  "Each commuter imagines his or her own personal scenery," says Nicholson.  "One can look at it over and over again and discover new images."  The artist creates a contemplative meditation on landscape and rewards the viewer with an affectionate look back at Long Island before the post-war housing boom forever altered the landscape.</art1_description>
+		<art1_image1-b>Nicholson1b.jpg</art1_image1-b>
+		<art1_image1-m>Nicholson1m.jpg</art1_image1-m>
+		<art1_image1-s>Nicholson1s.jpg</art1_image1-s>
+		<art1_image2-b>Nicholson2b.jpg</art1_image2-b>
+		<art1_image2-m>Nicholson2m.jpg</art1_image2-m>
+		<art1_image2-s>Nicholson2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Ronkonkoma</station_name>
+		<line>Ronkonkoma Branch</line>
+		<art1_artist-first>Alice</art1_artist-first>
+		<art1_artist-last>Adams</art1_artist-last>
+		<art1_title>Planting (dedicated to Long Island Tree Farmers)</art1_title>
+		<art1_date>1995</art1_date>
+		<art1_material>Paving, planting, seating, curving brick walls, and cast concrete tree balls with cast aluminum rope inserts</art1_material>
+		<art1_description>{Planting} is composed of a planters and trees, with paving, plantings, and curved brick walls that define the space.  The artist intent was "to create an ensemble of functional and sculptural forms that is unique and specific to the region and together with the architectural structures makes a place that is memorable."  Working with landscape architects, Adams had trees planted in rows within islands created by brick walls and placed "tree ball" concrete planters in the paved areas.  The trees salute the importance of the nursery business and tree farming to Long Island's growth.  To suggest tree balls and allow the planting of the trees, Adams designed a pre-cast concrete ring with metal support elements in the form of ropes that extend upward.  Adams worked to reflect the station's design; the curved dormers of the station building are echoed in the curved walls.  Her work articulates the placement of the buildings and platforms in relation to one another, creating a pleasant and harmonious space for those traveling through.</art1_description>
+		<art1_image1-b>Adams1b.jpg</art1_image1-b>
+		<art1_image1-m>Adams1m.jpg</art1_image1-m>
+		<art1_image1-s>Adams1s.jpg</art1_image1-s>
+		<art1_image2-b>Adams2b.jpg</art1_image2-b>
+		<art1_image2-m>Adams2m.jpg</art1_image2-m>
+		<art1_image2-s>Adams2s.jpg</art1_image2-s>
+		<art1_image3-b>Adams3b.jpg</art1_image3-b>
+		<art1_image3-m>Adams3m.jpg</art1_image3-m>
+		<art1_image3-s>Adams3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>LIRR</abbr>
+		<agency>Long Island Rail Road</agency>
+		<station_name>Greenport</station_name>
+		<line>Ronkonkoma Branch</line>
+		<art1_artist-first>Anita</art1_artist-first>
+		<art1_artist-last>Thacher</art1_artist-last>
+		<artistextra>in collaboration with East End Seaport Museum and Marine Foundation</artistextra>
+		<art1_title>Illuminated Station</art1_title>
+		<art1_date>2005</art1_date>
+		<art1_material>Lighting and projection on station fa&ccedil;ade and roof</art1_material>
+		<art1_description>{Illuminated Station} takes us to the past when Greenport, and the North Fork of Long Island, was home to farmers, fishermen, storekeepers, and railroad workers.  Today Greenport is the hub of a growing population of year-round and seasonal residents, an artists' haven and departure point for vacation spots nearby.  Anita Thacher creates evocative light-works - art whose effect is created through electrical illumination.  Here she uses numerous lighting techniques.  The stationhouse's roof is outlined with LED illumination in blue, and the areas surrounding the building are given a deeper blue light.  From inside the building comes a yellow glow suggesting candle light or gaslight.  On the station walls and roof, projected light forms images of an American Indian pictograph, emphasizing the importance of the first people to live on Long Island.  The man and canoe in the pictograph was made from a plaster cast of an Indian artifact discovered in nearby Orient.  Through each work the past meets the present and a special place in the community is made more meaningful by the artist.</art1_description>
+		<art1_image1-b>Thacher1b.jpg</art1_image1-b>
+		<art1_image1-m>Thacher1m.jpg</art1_image1-m>
+		<art1_image1-s>Thacher1s.jpg</art1_image1-s>
+		<art1_image2-b>Thacher2b.jpg</art1_image2-b>
+		<art1_image2-m>Thacher2m.jpg</art1_image2-m>
+		<art1_image2-s>Thacher2s.jpg</art1_image2-s>
+		<art1_image3-b>Thacher3b.jpg</art1_image3-b>
+		<art1_image3-m>Thacher3m.jpg</art1_image3-m>
+		<art1_image3-s>Thacher3s.jpg</art1_image3-s>
+	</station>
+
+</permart>

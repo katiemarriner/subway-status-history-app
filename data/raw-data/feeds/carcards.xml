@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<carcards>
+
+	<columns>
+		<header>year</header>
+		<header>artist_first</header>
+		<header>artist_last</header>
+		<header>image-m</header>
+		<header>image-s</header>
+		<header>availability</header>
+	</columns>
+
+	<card>
+		<year>2009</year>
+		<artist_first>B&eacute;atrice</artist_first>
+	    <artist_last>Coron</artist_last>
+		<image-b>2009coron-b.jpg</image-b>
+		<image-m>2009coron-m.jpg</image-m>
+		<image-s>2009coron-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>28373</itemnum>
+	</card>
+
+	<card>
+		<year>2009</year>
+		<artist_first>Andrea</artist_first>
+	    <artist_last>Dezs&ouml;</artist_last>
+		<image-b>2009dezso-b.jpg</image-b>
+		<image-m>2009dezso-m.jpg</image-m>
+		<image-s>2009dezso-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>28374</itemnum>
+	</card>
+
+	<card>
+		<year>2008</year>
+		<artist_first>Chris</artist_first>
+		<artist_last>Gall</artist_last>
+		<image-b>2008gall-b.jpg</image-b>
+		<image-m>2008gall-m.jpg</image-m>
+		<image-s>2008gall-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>27152</itemnum>
+	</card>
+
+	<card>
+		<year>2008</year>
+		<artist_first>Philippe</artist_first>
+		<artist_last>Lechien</artist_last>
+		<image-b>2008lechien-b.jpg</image-b>
+		<image-m>2008lechien-m.jpg</image-m>
+		<image-s>2008lechien-s.jpg</image-s>
+		<availability>N</availability>
+		<itemnum>27151</itemnum>
+	</card>
+
+	<card>
+		<year>2007</year>
+		<artist_first>Tim</artist_first>
+		<artist_last>Zeltner</artist_last>
+		<image-b>2007celtner-b.jpg</image-b>
+		<image-m>2007celtner-m.jpg</image-m>
+		<image-s>2007celtner-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>25382</itemnum>
+	</card>
+
+	<card>
+		<year>2006</year>
+		<artist_first>Dave</artist_first>
+		<artist_last>Calver</artist_last>
+		<image-b>2006calver-b.jpg</image-b>
+		<image-m>2006calver-m.jpg</image-m>
+		<image-s>2006calver-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>22421</itemnum>
+	</card>
+
+	<card>
+		<year>2005</year>
+		<artist_first>Dave</artist_first>
+		<artist_last>Calver</artist_last>
+		<image-b>2005calver-b.jpg</image-b>
+		<image-m>2005calver-m.jpg</image-m>
+		<image-s>2005calver-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>20160</itemnum>
+	</card>
+
+	<card>
+		<year>2004</year>
+		<artist_first>Stefan</artist_first>
+		<artist_last>Hagen &amp; Sloane Tanen</artist_last>
+		<image-b>2004hagen-b.jpg</image-b>
+		<image-m>2004hagen-m.jpg</image-m>
+		<image-s>2004hagen-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>16432</itemnum>
+	</card>
+
+	<card>
+		<year>2003</year>
+		<artist_first>Edward</artist_first>
+		<artist_last>Del Rosario</artist_last>
+		<image-b>2003delrosario-b.jpg</image-b>
+		<image-m>2003delrosario-m.jpg</image-m>
+		<image-s>2003delrosario-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>16380</itemnum>
+	</card>
+
+	<card>
+		<year>2002</year>
+		<artist_first>John</artist_first>
+		<artist_last>Blackford</artist_last>
+		<image-b>2002blackford-b.jpg</image-b>
+		<image-m>2002blackford-m.jpg</image-m>
+		<image-s>2002blackford-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>11458</itemnum>
+	</card>
+
+	<card>
+		<year>2001</year>
+		<artist_first>Peter</artist_first>
+		<artist_last>Sis</artist_last>
+		<image-b>2001sis-b.jpg</image-b>
+		<image-m>2001sis-m.jpg</image-m>
+		<image-s>2001sis-s.jpg</image-s>
+		<availability>Y</availability>
+		<itemnum>11042</itemnum>
+	</card>
+
+	<card>
+		<year>2000</year>
+		<artist_first>Owen</artist_first>
+		<artist_last>Smith</artist_last>
+		<image-b>2000smith-b.jpg</image-b>
+		<image-m>2000smith-m.jpg</image-m>
+		<image-s>2000smith-s.jpg</image-s>
+		<availability>N</availability>
+		<itemnum></itemnum>
+	</card>
+
+</carcards>

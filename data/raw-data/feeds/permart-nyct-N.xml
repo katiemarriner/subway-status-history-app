@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<permart>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Queensboro Plaza</station_name>
+		<line>7,N,W</line>
+		<art1_artist-first>Sidney</art1_artist-first>
+		<art1_artist-last>Cash</art1_artist-last>
+		<art1_title>Columns</art1_title>
+		<art1_date>2000</art1_date>
+		<art1_material>Silkscreened glass panels on track wall</art1_material>
+		<art1_description>In describing his work and intent in creating the silkscreened glass panels, Sidney Cash says,  "As  viewers walks along the platform, they are able to watch the panels' imagery transform as patterns appear and disappear in response to their movement ...The patterns on the panels have been designed to relate to the style of embellishment of Arts and Crafts-influenced architecture.  As parts of the building are enhanced by diamond-shaped tiles, so are the patterns on the optical panels based upon the diamond shape. The vibrancy of movement and the patterns in the panels create a visual dialogue between the Arts and Crafts style, the motion of the trains, and the high-tech world of today....  For the people who take the time to look, this installation becomes a moving exhibition."</art1_description>
+		<art1_image1-b>cash1-b.jpg</art1_image1-b>
+		<art1_image1-m>cash1-m.jpg</art1_image1-m>
+		<art1_image1-s>cash1-s.jpg</art1_image1-s>
+		<art1_image2-b>cash2-b.jpg</art1_image2-b>
+		<art1_image2-m>cash2-m.jpg</art1_image2-m>
+		<art1_image2-s>cash2-s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Fifth Avenue/59th Street</station_name>
+		<line>N,R,W</line>
+		<art1_artist-first>Ann</art1_artist-first>
+		<art1_artist-last>Schaumburger</art1_artist-last>
+		<art1_title>Urban Oasis</art1_title>
+		<art1_date>1997</art1_date>
+		<art1_material>Glass mosaic on station fa&ccedil;ade and throughout station</art1_material>
+		<art1_description>A menagerie of animals and birds from Central Park, rendered in glass mosaic, can be seen throughout the subway station and its facade.  "As a painter and teacher," says the artist, "I wanted this piece to appeal to children and to the child in the adult.  I'm happy that the work is accessible and touchable."  Ann Schaumburger's playful creatures crawl, swim, leap, and fly from floor to ceiling throughout the station in a series of friezes.  To prepare her designs, she photographed animals and animal statues in the Central Park Zoo.  The result is a series of beguiling animal families grouped by habitat:  a tropical rain forest, a polar landscape, and a park environment.  "We chose glass rather than ceramic for the mosaics because of its greater translucency and color gradation," says Schaumburger.  "And I selected a color palette that echoes the colors in the station's original historic tile work, much of which has been retained."</art1_description>
+		<art1_image1-b>Schaumberger1b.jpg</art1_image1-b>
+		<art1_image1-m>Schaumberger1m.jpg</art1_image1-m>
+		<art1_image1-s>Schaumberger1s.jpg</art1_image1-s>
+		<art1_image2-b>Schaumberger2b.jpg</art1_image2-b>
+		<art1_image2-m>Schaumberger2m.jpg</art1_image2-m>
+		<art1_image2-s>Schaumberger2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>59th Street/Lexington Avenue-59th Street</station_name>
+		<line>4,5,6,N,R,W</line>
+		<art1_artist-first>Elizabeth</art1_artist-first>
+		<art1_artist-last>Murray</art1_artist-last>
+		<art1_title>Blooming</art1_title>
+		<art1_date>1996</art1_date>
+		<art1_material>Glass mosaic wall on mezzanine walls connecting the 4, 5, 6, and the N, R, W; medallions on 4, 5 express platform</art1_material>
+		<art1_description>Riders at this station are treated to the joyous burst of color and shapes that is {Blooming}.   The mosaics defy the corners of the space as the imagery wraps around corners, down steps, and through doorways. *{Blooming} takes its title from Bloomingdale's, located above the station upstairs.  The artist views the subway as a "dreamy underworld" and also a place to wake up, and her pink trees, red shoes and yellow mugs with steaming coffee succeed in gaining the viewers' attention.  Murray says, "I added the stepping shoes and steaming coffee cups, part of the ritual of every morning or evening subway trip."  The images are intended to  "stimulate thoughts about passage, as does the poetry"  that is incorporated into the mural, lines from William Butler Yeats's, "In dreams begin responsibility,"  Gwendolyn Brooks's "Conduct your blooming in the noise and whip of the whirlwind."</art1_description>
+		<art1_image1-b>Murray-L1b.jpg</art1_image1-b>
+		<art1_image1-m>Murray-L1m.jpg</art1_image1-m>
+		<art1_image1-s>Murray-L1s.jpg</art1_image1-s>
+		<art1_image2-b>Murray-L2b.jpg</art1_image2-b>
+		<art1_image2-m>Murray-L2m.jpg</art1_image2-m>
+		<art1_image2-s>Murray-L2s.jpg</art1_image2-s>
+		<art1_image3-b>Murray-L3b.jpg</art1_image3-b>
+		<art1_image3-m>Murray-L3m.jpg</art1_image3-m>
+		<art1_image3-s>Murray-L3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>57th Street-7th Avenue</station_name>
+		<line>N,Q,R,W</line>
+		<art1_artist-first>Josh</art1_artist-first>
+		<art1_artist-last>Scharf</art1_artist-last>
+		<art1_title>Carnegie Hall Montage</art1_title>
+		<art1_date>1994</art1_date>
+		<art1_material>Ceramic tiles on north and south mezzanine walls; porcelain enamel on north mezzanine wa</art1_material>
+		<art1_description>{Carnegie Hall Montage} is a colorful arrangement of images in porcelain on steel that shows the range of artists who have performed on the world-renowned stage.  Some depict Carnegie Hall's classical pedigree, such as Leonard Bernstein and Marian Anderson, for example, while others portray the Beatles, Martin Luther King, Jr., and Eleanor Roosevelt, as testament to the importance of the stage.  Nearby, hundreds of white tiles with text commemorate the names, professions, and appearance date of notables who graced Carnegie's stage.  In the words of Carnegie Hall activist Gino Francesconi:  "I have always felt that the subway station directly below Carnegie Hall should reflect the history of the building just as the subways of Moscow and Paris do their own cultural institutions ... It reminds one of the connection between the city and its art."</art1_description>
+		<art1_image1-b>Scharf1b.jpg</art1_image1-b>
+		<art1_image1-m>Scharf1m.jpg</art1_image1-m>
+		<art1_image1-s>Scharf1s.jpg</art1_image1-s>
+		<art1_image2-b>Scharf2b.jpg</art1_image2-b>
+		<art1_image2-m>Scharf2m.jpg</art1_image2-m>
+		<art1_image2-s>Scharf2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Times Square-46th Street</station_name>
+		<line>A,C,E,N,Q,R,S,W,1,2,3,7</line>
+		<art1_artist-first>Max</art1_artist-first>
+		<art1_artist-last>Neuhaus</art1_artist-last>
+		<art1_title>Times Square</art1_title>
+		<art1_date>1977-1992, 2002-present</art1_date>
+		<art1_description>The work of art, {Times Square} is an invisible, deliberately unmarked area of sound at the north end of the pedestrian island at Broadway between 46th and 45th Streets. Conceived and originally installed by artist Max Neuhaus, it provides a rich harmonic sound texture that emerges from a large underground vault covered by a grating. *Commenting on artwork, Neuhaus has said, "For those who find and accept the work's anomaly, the island becomes a different place, separate, but including its surroundings. People, having no way of knowing that it has been deliberately made, usually claim the work as a place of their own discovering." *Installed by the artist in 1977, the artwork remained active until 1992, when Neuhaus moved abroad. In 2002 it was reinstated with the help of the Times Square Business Improvement District, MTA Arts for Transit, and the Dia Art Foundation, which will assume responsibility for its upkeep.</art1_description>
+		<art1_image1-b>neuhaus1b.jpg</art1_image1-b>
+		<art1_image1-m>neuhaus1m.jpg</art1_image1-m>
+		<art1_image1-s>neuhaus1s.jpg</art1_image1-s>
+		<art1_image2-b>neuhaus2b.jpg</art1_image2-b>
+		<art1_image2-m>neuhaus2m.jpg</art1_image2-m>
+		<art1_image2-s>neuhaus2s.jpg</art1_image2-s>
+		<art1_image3-b>neuhaus3b.jpg</art1_image3-b>
+		<art1_image3-m>neuhaus3m.jpg</art1_image3-m>
+		<art1_image3-s>neuhaus3s.jpg</art1_image3-s>
+		<art1_image4-b>neuhaus4b.jpg</art1_image4-b>
+		<art1_image4-m>neuhaus4m.jpg</art1_image4-m>
+		<art1_image4-s>neuhaus4s.jpg</art1_image4-s>        
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Times Square-42nd Street</station_name>
+		<line>A,C,E,N,Q,R,S,W,1,2,3,7</line>
+		<art1_artist-first>Roy</art1_artist-first>
+		<art1_artist-last>Lichtenstein</art1_artist-last>
+		<art1_title>Times Square Mural</art1_title>
+		<art1_date>2002 (Collage 1990, fabricated 1994)</art1_date>
+		<art1_material>Porcelain enamel on wall of N, Q, R, S, W, 1, 2, 3 mezzanine</art1_material>
+		<art1_description>{Times Square Mural} captures the spirit of the subway, its linear movement and dynamic energy.  With a nod to both the past and the future- its central image is a futuristic bullet shaped car zipping through an underground station.  And not just any station, this is Times Square, in the heart of New York City. *Lichtenstein was born in New York in 1923 and spent his last years here.  {Times Square Mural} reflects his career, with references to, and variations on, his earlier works.  Lichtenstein also freely appropriated and incorporated images from the works of other artists and designers in his work.  For instance, the hooded figure at the right of the mural is from the old Buck Rogers comic strips and the iconic 42 image is from a series of drawings of the architectural detail of the subway.  It is a signature work that honors its creator and the place in which it is located.</art1_description>
+		<art1_image1-b>Lichtenstein1b.jpg</art1_image1-b>
+		<art1_image1-m>Lichtenstein1m.jpg</art1_image1-m>
+		<art1_image1-s>Lichtenstein1s.jpg</art1_image1-s>
+		<art1_image2-b>Lichtenstein2b.jpg</art1_image2-b>
+		<art1_image2-m>Lichtenstein2m.jpg</art1_image2-m>
+		<art1_image2-s>Lichtenstein2s.jpg</art1_image2-s>
+		<art1_image3-b>Lichtenstein3b.jpg</art1_image3-b>
+		<art1_image3-m>Lichtenstein3m.jpg</art1_image3-m>
+		<art1_image3-s>Lichtenstein3s.jpg</art1_image3-s>
+		<art1_podcast>true</art1_podcast>
+		<art2_artist-first>Jack</art2_artist-first>
+		<art2_artist-last>Beal</art2_artist-last>
+		<art2_title>The Return of Spring/The Onset of Winter</art2_title>
+		<art2_date>2001/2005</art2_date>
+		<art2_material>Glass mosaic on wall of 41st Street/7th Avenue mezzanine</art2_material>
+		<art2_description>Jack Beal uses classical mythology to comment on the relationship between what is above and below the surface - an apt metaphor for the subway.  The work consists of two large mosaic panels that illustrate the mythological character Persephone.  Instead of fasting, she ate a pomegranate and as punishment, is banished underground for six months of the year.  However, she is permitted to spend six months above ground on earth with her mother.  In mythology, the periods above and below ground were the beginning of seasons, which Beal uses in his titles.  Beal finds universality in the myth and brings it to life in a place filled with movement and purpose, bringing beauty underground.</art2_description>
+		<art2_image1-b>Beal1b.jpg</art2_image1-b>
+		<art2_image1-m>Beal1m.jpg</art2_image1-m>
+		<art2_image1-s>Beal1s.jpg</art2_image1-s>
+		<art2_image2-b>Beal2b.jpg</art2_image2-b>
+		<art2_image2-m>Beal2m.jpg</art2_image2-m>
+		<art2_image2-s>Beal2s.jpg</art2_image2-s>
+		<art2_image3-b>Beal3b.jpg</art2_image3-b>
+		<art2_image3-m>Beal3m.jpg</art2_image3-m>
+		<art2_image3-s>Beal3s.jpg</art2_image3-s>
+		<art2_image4-b>Beal4b.jpg</art2_image4-b>
+		<art2_image4-m>Beal4m.jpg</art2_image4-m>
+		<art2_image4-s>Beal4s.jpg</art2_image4-s>
+		<art2_podcast>true</art2_podcast>
+		<art3_artist-first>Toby</art3_artist-first>
+		<art3_artist-last>Buonagurio</art3_artist-last>
+		<art3_title>Times Square Times: 35 Times</art3_title>
+		<art3_date>2005</art3_date>
+		<art3_material>Ceramic plaques inset in glass block passageway</art3_material>
+		<art3_description>Think of Times Square and a variety of images, sights, sounds, and scents come to mind.  Whatever they are, chances are you will find it in {Times Square: 35 Times}, a series of artworks encased within glass blocks and set into the walls of the station.  Toby Buonagurio conceived the work around three themes emblematic of the energetic vibrancy of midtown Manhattan: performing arts, fashion, and street life - all recognizable to the everyday passerby and to the thousands of tourists who visit the city.  The ceramics are installed in illuminated shadowboxes throughout the Times Square subway station complex.</art3_description>
+		<art3_image1-b>Buonagurio1b.jpg</art3_image1-b>
+		<art3_image1-m>Buonagurio1m.jpg</art3_image1-m>
+		<art3_image1-s>Buonagurio1s.jpg</art3_image1-s>
+		<art3_image2-b>Buonagurio2b.jpg</art3_image2-b>
+		<art3_image2-m>Buonagurio2m.jpg</art3_image2-m>
+		<art3_image2-s>Buonagurio2s.jpg</art3_image2-s>
+		<art3_image3-b>Buonagurio3b.jpg</art3_image3-b>
+		<art3_image3-m>Buonagurio3m.jpg</art3_image3-m>
+		<art3_image3-s>Buonagurio3s.jpg</art3_image3-s>
+		<art3_image4-b>Buonagurio4b.jpg</art3_image4-b>
+		<art3_image4-m>Buonagurio4m.jpg</art3_image4-m>
+		<art3_image4-s>Buonagurio4s.jpg</art3_image4-s>
+		<art3_podcast>true</art3_podcast>
+		<art4_artist-first>Jacob</art4_artist-first>
+		<art4_artist-last>Lawrence</art4_artist-last>
+		<art4_title>New York in Transit</art4_title>
+		<art4_date>2001</art4_date>
+		<art4_material>Glass mosaics on stairway wall between N, Q, W, R and S mezzanines</art4_material>
+		<art4_description>The enormous mosaic mural is the focal point of the mezzanine in the Times Square subway complex.  Its shimmering and detailed surface pays tribute to the diversity and strength of New York City - its neighborhoods, cultural life, recreational pleasures, love of sports and, of course, its subway system.  {New York in Transit} was Jacob Lawrence's last public work.  In it he evokes city life seen from an elevated train and the sensitive and loving portrait shows a slice of city life and is a parting gift to New York City, seen by millions of people who live and visit here.</art4_description>
+		<art4_image1-b>Lawrence1b.jpg</art4_image1-b>
+		<art4_image1-m>Lawrence1m.jpg</art4_image1-m>
+		<art4_image1-s>Lawrence1s.jpg</art4_image1-s>
+		<art4_image2-b>Lawrence2b.jpg</art4_image2-b>
+		<art4_image2-m>Lawrence2m.jpg</art4_image2-m>
+		<art4_image2-s>Lawrence2s.jpg</art4_image2-s>
+		<art4_image3-b>Lawrence3b.jpg</art4_image3-b>
+		<art4_image3-m>Lawrence3m.jpg</art4_image3-m>
+		<art4_image3-s>Lawrence3s.jpg</art4_image3-s>
+		<art4_image4-b>Lawrence4b.jpg</art4_image4-b>
+		<art4_image4-m>Lawrence4m.jpg</art4_image4-m>
+		<art4_image4-s>Lawrence4s.jpg</art4_image4-s>
+		<art4_podcast>true</art4_podcast>
+		<art5_artist-first>Jane</art5_artist-first>
+		<art5_artist-last>Dickson</art5_artist-last>
+		<art5_title>The Revelers</art5_title>
+		<art5_date>2008</art5_date>
+		<art5_material>Glass mosaic in lower mezzanine and 41st Street passageway between Port Authority and Times Square</art5_material>
+		<art5_description>It's been said that if you stand long enough in Times Square, you will meet everyone you've ever known. Long known as the crossroads of the world, Times Square is famous for many things, but mostly for its crowds, particularly the spirited celebration each New Year's Eve when hundreds of thousands of New Yorkers and visitors-joined by television viewers around the world, gather to watch the ball drop to usher in the New Year. Sharing hopes for the future, the huge crowds are televised against a neon background.  *In {The Revelers}, Jane Dickson celebrates this age-old impulse to gather. Her mosaic artwork consists of approximately 70 expressive life-size figures. Each is in motion, walking, gesturing, linking arms, or dancing; all enjoying themselves and each other's company. The central frieze of figures are presaged by a scattering of figures in groups of two or three walking in both directions along the corridors that lead to the central open space of the station complex, near the stairs to the 1, 2, 3 lines. These smaller groups share the space with commuters traveling through the passageways that connect the subway stations at Seventh and Eighth Avenues.</art5_description>
+		<art5_image1-b>dickson1b.jpg</art5_image1-b>
+		<art5_image1-m>dickson1m.jpg</art5_image1-m>
+		<art5_image1-s>dickson1s.jpg</art5_image1-s>
+		<art5_image2-b>dickson2b.jpg</art5_image2-b>
+		<art5_image2-m>dickson2m.jpg</art5_image2-m>
+		<art5_image2-s>dickson2s.jpg</art5_image2-s>
+		<art5_image3-b>dickson3b.jpg</art5_image3-b>
+		<art5_image3-m>dickson3m.jpg</art5_image3-m>
+		<art5_image3-s>dickson3s.jpg</art5_image3-s>
+		<art5_image4-b>dickson4b.jpg</art5_image4-b>
+		<art5_image4-m>dickson4m.jpg</art5_image4-m>
+		<art5_image4-s>dickson4s.jpg</art5_image4-s>
+		<art5_movie>dickson2.wmv</art5_movie>
+		<art5_movie_width>720</art5_movie_width>
+		<art5_movie_height>480</art5_movie_height>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>34th Street-Herald Square</station_name>
+		<line>B,D,F,N,Q,R,V,W</line>
+		<art1_artist-first>Michele Oka</art1_artist-first>
+		<art1_artist-last>Doner</art1_artist-last>
+		<art1_title>Radiant Site</art1_title>
+		<art1_date>1991</art1_date>
+		<art1_material>Handmade bronze-colored tiles at north end of mezzanine</art1_material>
+		<art1_description>Michele Oka Doner's {Radiant Site}, at the busy 34th Street-Herald Square subway station, fills a rectilinear floor-to-ceiling passage with golden light.  The midsection of the corridor is the brightest, glazed in copper-toned tiles; the tiles grow darker and reflect less light along the top and bottom of the passageway.  The result is a gently glowing surface.  The artist made the 11,000 tiles one-by-one by hand on a century-old foot-press at the venerable Pewabic Pottery in Detroit.  Their slightly irregular shapes and uneven surfaces were then hand-glazed, varying the recipe in tiny increments so as to achieve the desired luminosity.  Doner says that she considers not only the physical and chemical properties of the materials she will use but also "their psychic and cosmic qualities."</art1_description>
+		<art1_image1-b>Doner1b.jpg</art1_image1-b>
+		<art1_image1-m>Doner1m.jpg</art1_image1-m>
+		<art1_image1-s>Doner1s.jpg</art1_image1-s>
+		<art1_image2-b>Doner2b.jpg</art1_image2-b>
+		<art1_image2-m>Doner2m.jpg</art1_image2-m>
+		<art1_image2-s>Doner2s.jpg</art1_image2-s>
+		<art2_artist-first>Christopher</art2_artist-first>
+		<art2_artist-last>Janney</art2_artist-last>
+		<art2_title>Reach New York, An Urban Musical Instrument</art2_title>
+		<art2_date>1996</art2_date>
+		<art2_description>A green painted rectangular structure is suspended from the subway platform and engages travelers with its ability to produce sounds.  Travelers place their hands in front of the box-like apparatus on the subway platform and a burst of musical notes are released on the opposite side, playing to the person on the other side.  The hand motions elicit an outpouring of sounds that evoke urban life and bring about duets between strangers waiting for their respective trains.  Artist Christopher Janney creates sound sculptures and public art that use sound and motion.  This work brings about interaction and pleased participants, serving in Janney's words, as "a foil for getting total strangers to interact with each other."</art2_description>
+		<art2_image1-b>Janney1b.jpg</art2_image1-b>
+		<art2_image1-m>Janney1m.jpg</art2_image1-m>
+		<art2_image1-s>Janney1s.jpg</art2_image1-s>
+		<art2_image2-b>Janney2b.jpg</art2_image2-b>
+		<art2_image2-m>Janney2m.jpg</art2_image2-m>
+		<art2_image2-s>Janney2s.jpg</art2_image2-s>
+		<art3_artist-first>Nicholas</art3_artist-first>
+		<art3_artist-last>Pearson</art3_artist-last>
+		<art3_title>Halo</art3_title>
+		<art3_date>1991</art3_date>
+		<art3_material>Hand-coiled aluminum spheres in atrium space at south end of station</art3_material>
+		<art3_description>In the 34th Street-Herald Square subway station riders are met by large, luminous orbs that seem to hover in space.  Made of coiled aluminum rods - formed in a manner similar to the way in which ceramicists build pots from clay - the spheres are suspended on a framework of small beams from the larger steel structural components of the station.  {Halo} contrasts the aesthetic with the utilitarian and the result is "an unexpected serenity."  The artist say, "It was my aim to create an enigmatic distribution of objects that would stand in sharp contrast to the rectilinear nature of the site, and in doing so, to establish an oasis of visual language amid an otherwise functional environment."</art3_description>
+		<art3_image1-b>Pearson1b.jpg</art3_image1-b>
+		<art3_image1-m>Pearson1m.jpg</art3_image1-m>
+		<art3_image1-s>Pearson1s.jpg</art3_image1-s>
+		<art3_image2-b>Pearson2b.jpg</art3_image2-b>
+		<art3_image2-m>Pearson2m.jpg</art3_image2-m>
+		<art3_image2-s>Pearson2s.jpg</art3_image2-s>
+		<art4_artist-first>David</art4_artist-first>
+		<art4_artist-last>Provan</art4_artist-last>
+		<art4_title>Yab-Yum</art4_title>
+		<art4_date>1992</art4_date>
+		<art4_material>Kinetic aluminum sculpture at north end of station</art4_material>
+		<art4_description>A series of red wind paddles, each 12 long, hangs between the east wall of the station and each of the 14 columns that run the length of the wall.  The artist's concept was for the delicately balanced paddles to spin and flutter in the wind generated by approaching and departing trains.  From the artist's proposal:  "As every veteran subway rider knows - whether actively or intuitively - the approach of a train is preceded by a gust of wind funneling down the track. It's my interest to build and install a series of subway 'wind paddles' that will utilize and make visible these subterranean breezes.  The varying amounts of wind will set the brightly colored paddles floating, tilting, and spinning in descriptive patterns."</art4_description>
+		<art4_image1-b>Provan1b.jpg</art4_image1-b>
+		<art4_image1-m>Provan1m.jpg</art4_image1-m>
+		<art4_image1-s>Provan1s.jpg</art4_image1-s>
+		<art4_image2-b>Provan2b.jpg</art4_image2-b>
+		<art4_image2-m>Provan2m.jpg</art4_image2-m>
+		<art4_image2-s>Provan2s.jpg</art4_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>28th Street</station_name>
+		<line>N,R,W</line>
+		<art1_artist-first>Mark</art1_artist-first>
+		<art1_artist-last>Hadjipateras</art1_artist-last>
+		<art1_title>City Dwellers (for Costas and Maro)</art1_title>
+		<art1_date>2002</art1_date>
+		<art1_material>Glass mosaic on platform walls</art1_material>
+		<art1_description>The Toy Center and the Flatiron Building are located near the subway station at 28th Street and Broadway, as are the flower, fur, and garment districts. Each of these areas inspired artist Mark Hadjipateras, whose glass mosaics are rendered in a playful cartoon-like style. {City Dwellers} animates the walls of the station with a series of robot-like creatures. The figures are joyous and fanciful, but closer examination reveals universal symbols and forms that reflect  the neighborhood and its history - technology, toys, and commerce.  These inventions invite riders to guess at their meanings; while they may seem familiar, the artist holds the key. In his proposal, Hadjipateras cited some of his plentiful sources: plants and flowers, patterns based on national flags, Greek ethnic garb, a family, New York taxis, radio broadcast waves, etc.   Filtered through the artist's sensibility, the result is a unique and compelling station environment.</art1_description>
+		<art1_image1-b>Hadjipteras1b.jpg</art1_image1-b>
+		<art1_image1-m>Hadjipteras1m.jpg</art1_image1-m>
+		<art1_image1-s>Hadjipteras1s.jpg</art1_image1-s>
+		<art1_image2-b>Hadjipteras2b.jpg</art1_image2-b>
+		<art1_image2-m>Hadjipteras2m.jpg</art1_image2-m>
+		<art1_image2-s>Hadjipteras2s.jpg</art1_image2-s>
+		<art1_image3-b>Hadjipteras3b.jpg</art1_image3-b>
+		<art1_image3-m>Hadjipteras3m.jpg</art1_image3-m>
+		<art1_image3-s>Hadjipteras3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>23rd Street</station_name>
+		<line>N,R,W</line>
+		<art1_artist-first>Keith</art1_artist-first>
+		<art1_artist-last>Godard</art1_artist-last>
+		<art1_title>Memories of Twenty-Third Street</art1_title>
+		<art1_date>2002</art1_date>
+		<art1_material>Glass mosaic on platform walls</art1_material>
+		<art1_description>From the 1880s through the 1920s, 23rd Street was a major vaudeville, entertainment, and cultural district, and "Ladies Mile," the fashion and department store haven of the time, was located nearby.  In his mosaic {Memories of 23rd Street}, Keith Godard represents area through the various hats they might have worn.  The celebrities he had in mind include Jim Brady, Oscar Wilde, Sara Bernhardt, Mark Twain, and Lillian Russell.  Godard says, "In addition to bringing back memories of the specific time period and people and appealing to the viewers on a more common level as fascinating hats, this design can also serve as an interactive, playful, and witty landmark.  As a diversion, passengers waiting for the subway train might try to picture people on the opposite platform "wearing" the hats they are standing beneath!"</art1_description>
+		<art1_image1-b>Godard1b.jpg</art1_image1-b>
+		<art1_image1-m>Godard1m.jpg</art1_image1-m>
+		<art1_image1-s>Godard1s.jpg</art1_image1-s>
+		<art1_image2-b>Godard2b.jpg</art1_image2-b>
+		<art1_image2-m>Godard2m.jpg</art1_image2-m>
+		<art1_image2-s>Godard2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>14th Street-Union Square</station_name>
+		<line>L,N,Q,R,W,4,5</line>
+		<art1_artist-first>Mary</art1_artist-first>
+		<art1_artist-last>Miss</art1_artist-last>
+		<artistextra>in collaboration with Lee Harris Pomeroy Architects</artistextra>
+		<art1_title>Framing Union Square</art1_title>
+		<art1_date>1998</art1_date>
+		<art1_material>Glass, enameled steel, and aluminum frames highlighting historic and architectural elements throughout station complex</art1_material>
+		<art1_description>Mary Miss worked with architect Lee Harris Pomeroy to use the rehabilitation of Union Square station as an opportunity to uncover hidden structural elements, cables, and conduits - some still functional and others replaced by new improvements.  Old decorative work reappeared during construction, such as mosaics, pilasters, name plaques, and six terra cotta eagles from the 1904 station, once presumed lost. *Miss brings these treasures to the surface though a network of frames, windows, apertures, and mirrors. The bright red frames stand out; what they frame is more subtle - a bolt, a fragment of ancient-looking mosaic, a piece of rusted steel cable.  Other frames call attention to the station's historic name plaques.   "I'm inviting the public to look below the surface, to see a 'slice' of the station, its structure, its history, says the artist.  In this most public of places, the apertures offer an intimate engagement.  Looking in, you will see the station's workings - sometimes you will see layers of words and reflected images, including your own!"</art1_description>
+		<art1_image1-b>Miss1b.jpg</art1_image1-b>
+		<art1_image1-m>Miss1m.jpg</art1_image1-m>
+		<art1_image1-s>Miss1s.jpg</art1_image1-s>
+		<art1_image2-b>Miss2b.jpg</art1_image2-b>
+		<art1_image2-m>Miss2m.jpg</art1_image2-m>
+		<art1_image2-s>Miss2s.jpg</art1_image2-s>
+		<art1_image3-b>Miss3b.jpg</art1_image3-b>
+		<art1_image3-m>Miss3m.jpg</art1_image3-m>
+		<art1_image3-s>Miss3s.jpg</art1_image3-s>
+		<art1_image4-b>Miss4b.jpg</art1_image4-b>
+		<art1_image4-m>Miss4m.jpg</art1_image4-m>
+		<art1_image4-s>Miss4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>8th Street-NYU</station_name>
+		<line>N,R,W</line>
+		<art1_artist-first>Timothy</art1_artist-first>
+		<art1_artist-last>Snell</art1_artist-last>
+		<art1_title>Broadway Diary</art1_title>
+		<art1_date>2002</art1_date>
+		<art1_material>Glass mosaic on platform walls</art1_material>
+		<art1_description>Commenting on his work, artist Timothy Snell says, "The mosaic is composed of 40 'portholes' that depict scenes and historic sites of the neighborhood (Grace Church, Washington Arch, Cooper Union, Astor Place, the vista of Broadway). ... The loose gestural rendering and free use of color with simplified imagery injects a light moment in the hectic schedule of the commuter passing through the station. ... Spreading the elements around the station in an architectural format ... integrates the artwork with the space ... This provides moments of diversion at various locations for people waiting and small surprises for repeat travelers in transit through this station. The repeat of elements like the cyclist through a series of panels in a loose use of line and color was a device to add motion and allow more abstract considerations to enter into the work with the hook of recognizable subject matter."</art1_description>
+		<art1_image1-b>Snell1b.jpg</art1_image1-b>
+		<art1_image1-m>Snell1m.jpg</art1_image1-m>
+		<art1_image1-s>Snell1s.jpg</art1_image1-s>
+		<art1_image2-b>Snell2b.jpg</art1_image2-b>
+		<art1_image2-m>Snell2m.jpg</art1_image2-m>
+		<art1_image2-s>Snell2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Prince Street</station_name>
+		<line>N,R,W</line>
+		<art1_artist-first>Janet</art1_artist-first>
+		<art1_artist-last>Zweig and Edward del Rosario</art1_artist-last>
+		<art1_title>Carrying On</art1_title>
+		<art1_date>2004</art1_date>
+		<art1_material>Steel, marble, and slate frieze on platform walls</art1_material>
+		<art1_description>{Carrying On} is composed of almost two hundred silhouettes of people hauling "stuff" with them as they walk the city streets.  The artist team worked from photographs of individuals moving around the city and in and out of the subway.  According to the artists, the title of {Carrying On} can be read in a variety of ways.  "People on the streets of New York are almost always carrying something, sometimes something huge and outlandish.  After the 9/11 tragedy, New Yorkers felt that they must carry on with their lives.  Finally, New Yorkers are notoriously opinionated and lively; they really do 'carry on.'"  The result is a linear narrative work of miniature figures, each of whom has a story it is up to the viewer to discern.  It is an engaging work that represents the community and updates the materials used on subway station walls, with its waterjet-cut steel and marble, that achieves both precision and a modern take on the traditional frieze.</art1_description>
+		<art1_image1-b>Zweig1b.jpg</art1_image1-b>
+		<art1_image1-m>Zweig1m.jpg</art1_image1-m>
+		<art1_image1-s>Zweig1s.jpg</art1_image1-s>
+		<art1_image2-b>Zweig2b.jpg</art1_image2-b>
+		<art1_image2-m>Zweig2m.jpg</art1_image2-m>
+		<art1_image2-s>Zweig2s.jpg</art1_image2-s>
+		<art1_image3-b>Zweig3b.jpg</art1_image3-b>
+		<art1_image3-m>Zweig3m.jpg</art1_image3-m>
+		<art1_image3-s>Zweig3s.jpg</art1_image3-s>
+		<art1_image4-b>Zweig4b.jpg</art1_image4-b>
+		<art1_image4-m>Zweig4m.jpg</art1_image4-m>
+		<art1_image4-s>Zweig4s.jpg</art1_image4-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Canal Street</station_name>
+		<line>J,M,N,Q,R,W,Z,6</line>
+		<art1_artist-first>Bing</art1_artist-first>
+		<art1_artist-last>Lee</art1_artist-last>
+		<art1_title>Empress Voyage 2.22.1794</art1_title>
+		<art1_date>1998</art1_date>
+		<art1_material>Ceramic tiles and mosaic banding on platform walls and connecting passageway</art1_material>
+		<art1_description>Bing Lee's {Empress Voyage} commemorates the pioneering expedition of the American merchant ship, Empress of China, which in 1794 returned to New York harbor filled with silk, tea, and porcelain (commonly called china, due to its origin).  Through the artist's lighthearted use of Chinese-derived icons, the tiles illustrate aspects of the then-new trade with Asia and celebrates today's Chinatown.  On the platforms, interlocking teapots incorporate the Chinese symbol for "good life."  Other symbols, on the station's upper level, are variations on the symbols for "Asia," "quality," and "cycle."  As trains arrive, debarking passengers are given a choice of reading "Canal Street" in English or the Chinese characters for "Chinatown." "I want to give the viewers art that reminds them of history, but also speaks directly to them," says Lee, "something meaningful but also playful."</art1_description>
+		<art1_image1-b>Lee1b.jpg</art1_image1-b>
+		<art1_image1-m>Lee1m.jpg</art1_image1-m>
+		<art1_image1-s>Lee1s.jpg</art1_image1-s>
+		<art1_image2-b>Lee2b.jpg</art1_image2-b>
+		<art1_image2-m>Lee2m.jpg</art1_image2-m>
+		<art1_image2-s>Lee2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Cortlandt Street</station_name>
+		<line>N,R,W</line>
+		<art1_artist-first>Margie</art1_artist-first>
+		<art1_artist-last>Hughto</art1_artist-last>
+		<art1_title>Trade, Treasure and Travel</art1_title>
+		<art1_date>1997</art1_date>
+		<art1_material>Handmade ceramic relief tiles in passageway (closed for renovation until 2007)</art1_material>
+		<art1_description>The Cortlandt Street subway station is located beneath the site of the World Trade Center; destroyed on September 11, 2001.  Margie Hughto's ceramic relief tiles were undamaged and will be reinstalled in the new passageway connecting the station with the nearby Fulton Street Transit Center.  {Trade, Treasure and Travel} harks back to when Cortlandt Street ended at a ferry landing on the Hudson River, a main trade route in and out of the city.  The artist says, "I thought about all the different peoples, products, objects, and money that passed through the area, and I visualized a treasure vault filled with coins, gems, and artifacts - rich, golden, glowing, and somewhat mysterious."   Hughto created 12 related relief panels in ceramic tile in which she crafted objects relating to finance and trade - coins, compasses, boats, streetcars, keys, and ships.  Creatures connected with the sea and trade also appear.  A central image features Wall Street's bull and bear mascots, and a large old-fashioned compass and a chart of the stars complete the work's historic sweep.</art1_description>
+		<art1_image1-b>Hughto1b.jpg</art1_image1-b>
+		<art1_image1-m>Hughto1m.jpg</art1_image1-m>
+		<art1_image1-s>Hughto1s.jpg</art1_image1-s>
+		<art1_image2-b>Hughto2b.jpg</art1_image2-b>
+		<art1_image2-m>Hughto2m.jpg</art1_image2-m>
+		<art1_image2-s>Hughto2s.jpg</art1_image2-s>
+		<art1_image3-b>Hughto3b.jpg</art1_image3-b>
+		<art1_image3-m>Hughto3m.jpg</art1_image3-m>
+		<art1_image3-s>Hughto3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>DeKalb Avenue</station_name>
+		<line>B,M,Q,R</line>
+		<art1_artist-first>Stephen</art1_artist-first>
+		<art1_artist-last>Johnson</art1_artist-last>
+		<art1_title>DeKalb Improvisation</art1_title>
+		<art1_date>2005</art1_date>
+		<art1_material>Glass mosaic on mezzanine walls</art1_material>
+		<art1_description>Stephen Johnson describes his mosaic mural and his inspiration for the energy it conveys: "My idea for these murals is to convey a sense of joy through an exuberant juxtaposition of colors, shapes, and familiar images. ... On the surface, the variety of colors and shapes in the mosaics resemble collages and invite the traveler to consider the multiple layers of images found on city walls, particularly in the subway, where posters may tear, revealing previous images and forming exciting compositions....The glass is as diverse as the station's passengers, whose ethnic origins stem from Asia, Africa, and the Middle East. ... I wanted the abstract design to be balanced with realistic images that people can instantly get."  The work brings vibrancy and texture to the station environment.</art1_description>
+		<art1_image1-b>Johnson1b.jpg</art1_image1-b>
+		<art1_image1-m>Johnson1m.jpg</art1_image1-m>
+		<art1_image1-s>Johnson1s.jpg</art1_image1-s>
+		<art1_image2-b>Johnson2b.jpg</art1_image2-b>
+		<art1_image2-m>Johnson2m.jpg</art1_image2-m>
+		<art1_image2-s>Johnson2s.jpg</art1_image2-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>Atlantic Avenue-Pacific Street</station_name>
+		<line>B,D,M,N,Q,R,2,3,4,5</line>
+		<art1_artist-first>George</art1_artist-first>
+		<art1_artist-last>Trakas</art1_artist-last>
+		<artistextra>in collaboration with di Domenico + Partners</artistextra>
+		<art1_title>Hook (Archean Reach), Line (Sea House), and Sinker (Mined Swell)</art1_title>
+		<art1_date>2004</art1_date>
+		<art1_material>Polished granite, brushed steel, limestone, and Rockville granite throughout station</art1_material>
+		<art1_description>The array of subway and rail lines at the Atlantic Avenue-Pacific Street and LIRR's Terminal presented a perfect opportunity for an "architect/artist" collaboration to unify passages and stairways, creating a coherent and efficient space.  George Trakas  uses forms and materials that underscore the structure and beauty of the cavernous space. *Trakas selected the stone pavers and bollards for the plaza area.  The architects designed a skylight for the historic station kiosk and Trakas added a small peephole equipped with a lens that provides a view from the street to the light-filled space below.  The viewer spies a boat-shaped gantry of stainless steel and mesh beneath the skylight.  A granite "wave" runs along the walls and crests at the point where the two stations, Atlantic Avenue and Pacific Street, meet - linking the passageways.  Referencing the names {Atlantic} and {Pacific}, the overarching concept is a place of landing and departure - functions shared by train stations and seaports.</art1_description>
+		<art1_image1-b>Trakas1b.jpg</art1_image1-b>
+		<art1_image1-m>Trakas1m.jpg</art1_image1-m>
+		<art1_image1-s>Trakas1s.jpg</art1_image1-s>
+		<art1_image2-b>Trakas2b.jpg</art1_image2-b>
+		<art1_image2-m>Trakas2m.jpg</art1_image2-m>
+		<art1_image2-s>Trakas2s.jpg</art1_image2-s>
+		<art1_image3-b>Trakas3b.jpg</art1_image3-b>
+		<art1_image3-m>Trakas3m.jpg</art1_image3-m>
+		<art1_image3-s>Trakas3s.jpg</art1_image3-s>
+	</station>
+
+	<station>
+		<abbr>NYCT</abbr>
+		<agency>New York City Transit</agency>
+		<station_name>36th Street</station_name>
+		<line>D,M,N,R</line>
+		<art1_artist-first>Owen</art1_artist-first>
+		<art1_artist-last>Smith</art1_artist-last>
+		<art1_title>An Underground Movement: Designers, Builders, Riders</art1_title>
+		<art1_date>1998</art1_date>
+		<art1_material>Ceramic mosaic on mezzanine walls; ceramic mosaic medallions on stairway walls</art1_material>
+		<art1_description>Owen Smith designed this brilliantly colored mosaic work with Brooklyn riders in mind, as "a celebration of the working people who have made the subway what it is today."  The  subject matter is the subway's creation and importance.  Smith said, "The west wall depicts the designers and engineers who achieved this great engineering feat.  The north wall pays tribute to the workers who dug the tunnels and laid the 680 miles of track.  And the third panel represents the people who use the subway every day and whose lives are improved by it."  Smith highlights popular pastimes and haunts in the murals; on the Manhattan-bound side the Rockettes are seen kicking their heels, and on the Brooklyn-bound platform Smith depicts a brownstone with Coney Island in the background.  Smith cites Diego Rivera and other WPA era muralists as influences, and designed his murals in their spirit.</art1_description>
+		<art1_image1-b>Smitho1b.jpg</art1_image1-b>
+		<art1_image1-m>Smitho1m.jpg</art1_image1-m>
+		<art1_image1-s>Smitho1s.jpg</art1_image1-s>
+		<art1_image2-b>Smitho2b.jpg</art1_image2-b>
+		<art1_image2-m>Smitho2m.jpg</art1_image2-m>
+		<art1_image2-s>Smitho2s.jpg</art1_image2-s>
+		<art1_image3-b>Smitho3b.jpg</art1_image3-b>
+		<art1_image3-m>Smitho3m.jpg</art1_image3-m>
+		<art1_image3-s>Smitho3s.jpg</art1_image3-s>
+		<art1_image4-b>Smitho4b.jpg</art1_image4-b>
+		<art1_image4-m>Smitho4m.jpg</art1_image4-m>
+		<art1_image4-s>Smitho4s.jpg</art1_image4-s>
+	</station>
+
+</permart>

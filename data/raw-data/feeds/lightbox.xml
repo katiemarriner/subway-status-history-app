@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lightboxes>
+
+	<columns>
+		<header>stationname</header>
+		<header>line</header>
+		<header>artist-first</header>
+		<header>artist-last</header>
+		<header>title</header>
+		<header>description</header>
+		<header>image1-b</header>
+		<header>image1-m</header>
+		<header>image1-s</header>
+		<header>image2-b</header>
+		<header>image2-m</header>
+		<header>image2-s</header>
+		<header>image3-b</header>
+		<header>image3-m</header>
+		<header>image3-s</header>
+		<header>image4-b</header>
+		<header>image4-m</header>
+		<header>image4-s</header>
+		<header>image5-b</header>
+		<header>image5-m</header>
+		<header>image5-s</header>
+		<header>image6-b</header>
+		<header>image6-m</header>
+		<header>image6-s</header>
+	</columns>
+
+	<box>
+		<stationname>42nd Street-6th Avenue</stationname>
+		<line>B,D,F</line>
+		<artist-first>Travis</artist-first>
+		<artist-last>Ruse</artist-last>
+		<title>Underground Exposure</title>
+		<description><![CDATA[
+		Travis Ruse is a chronicler of his daily subway commute, using his camera to record a daily journal of images: the people and scenes from his Brooklyn to Manhattan commute.  For more than two years Ruse used the opportunity provided by his 45-minute commute via three train lines to create a series of vivid photographs.  His lens captures those at rest, reading, waiting anxiously, workers traveling in groups, or hurriedly racing to the train - all the scenes of the subway captured through the eye of an artist who uses the available light in a split second, to isolate the humanity - and even the joy - in being part of the masses in mass transit.  His images also capture the calm at the end of a day's work or the moments of solitude that can be found in a sun-filled subway car.*On a daily basis for two-and-a-half years Ruse, who is photography Director at Inc. magazine and had been involved in special photography projects, posted his images on his photoblog (travisruse.com).which became extremely popular.  He was awarded the Photoblog of the Year award in 2007 and was profiled in the {New York Times}.  His work was been posted on websites of the {New York Times}, {New York magazine}, and {National Public Radio}.*Ruse's work is being exhibited in two lightbox locations, 42nd Street-Bryant Park (B, D, F, V) and Atlantic Avenue-Pacific Street (2, 3, 4, 5, B, D, M, N, R, Q). The work will remain on display through 2009.*Duratrans generously provided by Modernage and Fuji Film.
+		]]></description>
+		<image1-b>ruse-bryant1b.jpg</image1-b>
+		<image1-m>ruse-bryant1m.jpg</image1-m>
+		<image1-s>ruse-bryant1s.jpg</image1-s>
+		<image2-b>ruse-bryant2b.jpg</image2-b>
+		<image2-m>ruse-bryant2m.jpg</image2-m>
+		<image2-s>ruse-bryant2s.jpg</image2-s>
+		<image3-b>ruse-bryant3b.jpg</image3-b>
+		<image3-m>ruse-bryant3m.jpg</image3-m>
+		<image3-s>ruse-bryant3s.jpg</image3-s>
+		<image4-b>ruse-bryant4b.jpg</image4-b>
+		<image4-m>ruse-bryant4m.jpg</image4-m>
+		<image4-s>ruse-bryant4s.jpg</image4-s>
+		<image5-b>ruse-bryant5b.jpg</image5-b>
+		<image5-m>ruse-bryant5m.jpg</image5-m>
+		<image5-s>ruse-bryant5s.jpg</image5-s>
+	</box>
+
+	<box>
+		<stationname>Bowling Green</stationname>
+		<line>4,5</line>
+		<artist-first>Zach</artist-first>
+		<artist-last>DeSart</artist-last>
+		<title>A Way to Go</title>
+		<description><![CDATA[
+		A new photography lightbox series at the Bowling Green station (4, 5) showcases the work of New York City photographer Zach DeSart. *{A Way to Go} features seven large-scale photographs that depict modes of travel and motion through landscapes ranging from urban to rural and from desert to glacial.  A close-up reveals a tire track on a dirt road, a muted countryside is viewed from an air balloon, or a commuter is seen in the subway waiting in a highly decorative station in Istanbul.  DeSarts meditations on travel are an exploration of place and experience, with each image related to movement and ways to go: the distances we travel and the ways to get there.  The poetic images serve as counterpoint to the commuters and tourists passing by, in transit, as all are engaged in the move from one place to another. *DeSart received a BFA in photography from Savannah College of Art and Design.  {A Way to Go} is generously sponsored by Digitalplus.
+		]]></description>
+		<image1-b>desart1b.jpg</image1-b>
+		<image1-m>desart1m.jpg</image1-m>
+		<image1-s>desart1s.jpg</image1-s>
+		<image2-b>desart2b.jpg</image2-b>
+		<image2-m>desart2m.jpg</image2-m>
+		<image2-s>desart2s.jpg</image2-s>
+		<image3-b>desart3b.jpg</image3-b>
+		<image3-m>desart3m.jpg</image3-m>
+		<image3-s>desart3s.jpg</image3-s>
+		<image4-b>desart4b.jpg</image4-b>
+		<image4-m>desart4m.jpg</image4-m>
+		<image4-s>desart4s.jpg</image4-s>
+		<image5-b>desart5b.jpg</image5-b>
+		<image5-m>desart5m.jpg</image5-m>
+		<image5-s>desart5s.jpg</image5-s>
+	</box>
+
+	<box>
+		<stationname>Grand Central Terminal</stationname>
+		<line></line>
+		<artist-first>Sophie T.</artist-first>
+		<artist-last>Lvoff, Charlotte Brown</artist-last>
+		<title>North of the City</title>
+		<description><![CDATA[
+            Two photographers, children of the suburbs, aim their cameras at the pastoral scenery found north of the City, communities served by Metro-North Railroad.*Lvoffs photographs of the landscaped lawns and yards of Westchester County and Connecticut reveal a layer of mystery and intrigue behind the hedges and trees. Her use of evocative night light and arresting composition deepens the visual interest of her work. She studied photography at Tisch School of the Arts, New York University.*Brown focuses on local places of escape, including the New York Botanic Gardens in the Bronx, where respite from the bustling city and the calming influence of nature is exposed. Brown's photos contrast winter's quiet stillness with summer's profuse growth. She studied photography at the School of Visual Arts.*Combined, the exhibition of their images transforms the Grand Central Terminal Dining Concourse into a journey north, through fantastical landscape lush with leafy gardens, solitary lakes and still nights. *Fujitrans was generously provided by the exhibition sponsors, Modernage and Fuji Film.]]></description>
+		<image1-b>brown1b.jpg</image1-b>
+		<image1-m>brown1m.jpg</image1-m>
+		<image1-s>brown1s.jpg</image1-s>
+		<image2-b>brown2b.jpg</image2-b>
+		<image2-m>brown2m.jpg</image2-m>
+		<image2-s>brown2s.jpg</image2-s>
+		<image3-b>lvoff1b.jpg</image3-b>
+		<image3-m>lvoff1m.jpg</image3-m>
+		<image3-s>lvoff1s.jpg</image3-s>
+		<image4-b>lvoff2b.jpg</image4-b>
+		<image4-m>lvoff2m.jpg</image4-m>
+		<image4-s>lvoff2s.jpg</image4-s>
+		<image5-b>lvoff3b.jpg</image5-b>
+		<image5-m>lvoff3m.jpg</image5-m>
+		<image5-s>lvoff3s.jpg</image5-s>
+		<image6-b></image6-b>
+		<image6-m></image6-m>
+		<image6-s></image6-s>
+	</box>
+
+	<box>
+		<stationname>Atlantic Avenue</stationname>
+		<line>B,Q,2,3,4,5</line>
+		<artist-first>Travis</artist-first>
+		<artist-last>Ruse</artist-last>
+		<title>Underground Exposure</title>
+		<description><![CDATA[
+		Travis Ruse is a chronicler of his daily subway commute, using his camera to record a daily journal of images: the people and scenes from his Brooklyn to Manhattan commute.  For more than two years Ruse used the opportunity provided by his 45-minute commute via three train lines to create a series of vivid photographs.  His lens captures those at rest, reading, waiting anxiously, workers traveling in groups, or hurriedly racing to the train - all the scenes of the subway captured through the eye of an artist who uses the available light in a split second, to isolate the humanity - and even the joy - in being part of the masses in mass transit.  His images also capture the calm at the end of a day's work or the moments of solitude that can be found in a sun-filled subway car.*On a daily basis for two-and-a-half years Ruse, who is photography Director at Inc. magazine and had been involved in special photography projects, posted his images on his photoblog (travisruse.com).which became extremely popular.  He was awarded the Photoblog of the Year award in 2007 and was profiled in the {New York Times}.  His work was been posted on websites of the {New York Times}, {New York magazine}, and {National Public Radio}.*Ruse's work is being exhibited in two lightbox locations, 42nd Street-Bryant Park (B, D, F, V) and Atlantic Avenue-Pacific Street (2, 3, 4, 5, B, D, M, N, R, Q). The work will remain on display through 2009.*Duratrans generously provided by Modernage and Fuji Film.
+		]]></description>
+		<image1-b>ruse-atlantic1b.jpg</image1-b>
+		<image1-m>ruse-atlantic1m.jpg</image1-m>
+		<image1-s>ruse-atlantic1s.jpg</image1-s>
+		<image2-b>ruse-atlantic2b.jpg</image2-b>
+		<image2-m>ruse-atlantic2m.jpg</image2-m>
+		<image2-s>ruse-atlantic2s.jpg</image2-s>
+		<image3-b>ruse-atlantic3b.jpg</image3-b>
+		<image3-m>ruse-atlantic3m.jpg</image3-m>
+		<image3-s>ruse-atlantic3s.jpg</image3-s>
+		<image4-b>ruse-atlantic4b.jpg</image4-b>
+		<image4-m>ruse-atlantic4m.jpg</image4-m>
+		<image4-s>ruse-atlantic4s.jpg</image4-s>
+		<image5-b>ruse-atlantic5b.jpg</image5-b>
+		<image5-m>ruse-atlantic5m.jpg</image5-m>
+		<image5-s>ruse-atlantic5s.jpg</image5-s>
+	</box>
+
+	<box>
+		<stationname>42nd Street-6th Avenue</stationname>
+		<line>B,D,F</line>
+		<artist-first>Joshua</artist-first>
+		<artist-last>Spodek, Submedia, Eyal Ohana, Molly Schwartz, Igal Nassima, Brett Murphy</artist-last>
+		<title>Bryant Park in Motion</title>
+		<description><![CDATA[
+		Bryant Park in Motion showcases creative work from the Interactive Telecommunications Program at New York University's Tisch School of the Arts, on display March 2010 at the Bryant Park/42nd Street station, beneath the southeast corner of the 42nd Street and Sixth Avenue (Bryant Park). *The digital animations are activated by the eyes of viewers walking past the display, similar to zoetropes, which are early animation devices that produce an illusion of action from a rapid succession of static pictures. <a href="/mta/aft/permanentart/permart.html?agency=nyct&line=Q&artist=2&station=7)">{Masstransiscope}</a>, in the subway tunnel north of DeKalb Avenue uses a similar principal, with the train providing the motion. As with Samm Kunce's nearby permanent artwork, <a href="/mta/aft/permanentart/permart.html?agency=nyct&line=V&artist=1&station=8">{Under Bryant Park}</a>, each animation is inspired by a facet of Bryant Park. The images portray the park from below the surface to above the skyline; from nature to fashion, recreation, and the famed carousel. The short animations run as a continuous loop with intermittent pauses. They are designed to provide visual interest and a surprise to commuters and visitors passing through the subway mezzanine. *NYU Tisch School of the Arts Interactive Telecommunications Program (ITP) is the first graduate education program in alternative media. It has become a community of technology, theorists, engineers, designers, and artists exploring new boundaries of interactivity. For more information, visit: http://itp.nyu.edu/. *Joshua Spodek has been working with, and exhibiting images animated by the viewer's motion for years. He holds a PhD in Physics and an MBA from Columbia University. *Submedia creates animated displays for transit systems and generously provided equipment and support to the participating artists for this presentation. *Participating Students/Artists from ITP *-Eyal Ohana is a Graduate of Bezalel Academy of Art and Design, Israel where he studied visual communication, focusing on graphic design, animation, and film making. *-Molly Schwartz graduated with a BFA in Painting from the School of the Art Institute of Chicago. Her artwork combines painting, drawing, photography, stop-motion and computer animation. *-Igal Nassima is a programmer whose work with data led to interest in the media of sound, text and graphics. He runs 319 Scholes Performance space in Bushwick, Brooklyn. *-Brett Murphy animation artist, also contributed images for the project.
+		]]></description>
+		<image1-b>bpmotion1b.jpg</image1-b>
+		<image1-m>bpmotion1m.jpg</image1-m>
+		<image1-s>bpmotion1s.jpg</image1-s>
+		<image2-b>bpmotion2b.jpg</image2-b>
+		<image2-m>bpmotion2m.jpg</image2-m>
+		<image2-s>bpmotion2s.jpg</image2-s>
+		<image3-b>bpmotion3b.jpg</image3-b>
+		<image3-m>bpmotion3m.jpg</image3-m>
+		<image3-s>bpmotion3s.jpg</image3-s>
+		<image4-b>bpmotion4b.jpg</image4-b>
+		<image4-m>bpmotion4m.jpg</image4-m>
+		<image4-s>bpmotion4s.jpg</image4-s>
+		<image5-b>bpmotion5b.jpg</image5-b>
+		<image5-m>bpmotion5m.jpg</image5-m>
+		<image5-s>bpmotion5s.jpg</image5-s>
+	</box>
+
+</lightboxes>
