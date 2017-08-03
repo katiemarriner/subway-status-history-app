@@ -1,0 +1,16 @@
+.trainList-container {
+  display: table;
+}
+
+.trainList-routeId {
+  width: 30px;
+  height: 30px;
+  background-color: #eee;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.trainList-active {
+  font-weight: 900;
+  background-color: red;
+}
