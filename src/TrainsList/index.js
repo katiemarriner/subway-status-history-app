@@ -24,15 +24,19 @@ class TrainsList extends Component {
     // });
     return (
       <BrowserRouter>
-        <div className="trainList-container">
-          {trains.map((train) => {
-            const link = `/${train.route_id}`;
-            return (
-              <NavLink activeClassName="trainList-active" className="trainList-routeId" key={train.route_id} to={link}>
-                {train.route_id}
-              </NavLink> 
-            );
-          })}
+        <div className="container">
+          <div className="trainList-container">
+            {trains.map((train) => {
+              const link = `/${train.route_id}`;
+              return (
+                <NavLink activeClassName="trainList-active" className="trainList-routeId" key={train.route_id} to={link}>
+                  {train.route_id}
+                </NavLink> 
+              );
+            })}
+          </div>
+
+          <Route path="/:id" component={TrainPage} />
         </div>
       </BrowserRouter>
     );
