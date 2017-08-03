@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+data/venv_subway-agony
 
 # testing
 /coverage
