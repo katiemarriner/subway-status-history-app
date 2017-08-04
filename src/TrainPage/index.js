@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
+import trains from './routeDetail.json';
+import './index.css';
 
 class TrainPage extends Component {
   render() {
@@ -6,9 +9,17 @@ class TrainPage extends Component {
     // const t = this.state.trains.map(() => {
     //   return 
     // });
-    console.log(this);
+    const train = trains[this.props.match.params.id];
+    console.log(train);
     return (
-     <div>{this.props.match.params.id}</div>
+      <div className="container">
+        <div className="trainPage-id">
+          {train.route_short_name}: {train.route_long_name}
+        </div>
+        <div className="">
+
+        </div>
+      </div>
     );
   }
 }

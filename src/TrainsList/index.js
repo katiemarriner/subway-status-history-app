@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Route, Link, NavLink } from 'react-router-dom';
-import trains from './routeIds.json';
+import { BrowserRouter, Route, Link, NavLink, Switch } from 'react-router-dom';
 import TrainPage from './../TrainPage';
+import trains from './routeIds.json';
 import './index.css';
 
 class TrainsList extends Component {
@@ -11,11 +11,6 @@ class TrainsList extends Component {
     this.state = {
 
     };
-
-    this.viewDetail = this.viewDetail.bind(this);
-  }
-  viewDetail(train_id) {
-    console.log(train_id);
   }
   render() {
     // console.log(this.state);
@@ -23,30 +18,21 @@ class TrainsList extends Component {
     //   return 
     // });
     return (
-      <BrowserRouter>
-        <div className="container">
-          <div className="trainList-container">
-            {trains.map((train) => {
-              const link = `/${train.route_id}`;
-              return (
-                <NavLink activeClassName="trainList-active" className="trainList-routeId" key={train.route_id} to={link}>
-                  {train.route_id}
-                </NavLink> 
-              );
-            })}
-          </div>
-
-          <Route path="/:id" component={TrainPage} />
+      <div className="container">
+        <div className="trainList-container">
+          {trains.map((train) => {
+            console.log(train);
+            const link = `/${train}`;
+            return (
+              <NavLink activeClassName="trainList-active" className="trainList-routeId" key={train} to={link}>
+                {train}
+              </NavLink> 
+            );
+          })}
         </div>
-      </BrowserRouter>
+      </div>
     );
   }
 }
-
-const Child = ({ match }) => (
-  <div>
-    <h3>ID: {match.params.id}</h3>
-  </div>
-)
 
 export default TrainsList;
