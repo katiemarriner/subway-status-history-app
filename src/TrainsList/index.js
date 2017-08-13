@@ -17,21 +17,22 @@ class TrainsList extends Component {
     // const t = this.state.trains.map(() => {
     //   return 
     // });
-    return (
-      <div className="container">
-        <div className="trainList-container">
-          {trains.map((train) => {
-            console.log(train);
-            const link = `/${train}`;
-            return (
-              <NavLink activeClassName="trainList-active" className="trainList-routeId" key={train} to={link}>
-                {train}
-              </NavLink> 
-            );
-          })}
-        </div>
-      </div>
-    );
+    return <div class="loaded">Loaded</div>
+    // return (
+    //   <div className="container">
+    //     <div className="trainList-container">
+    //       {trains.map((train) => {
+    //         console.log(train);
+    //         const link = `/${train}`;
+    //         return (
+    //           <NavLink activeClassName="trainList-active" className="trainList-routeId" key={train} to={link}>
+    //             {train}
+    //           </NavLink> 
+    //         );
+    //       })}
+    //     </div>
+    //   </div>
+    // );
   }
 }
 

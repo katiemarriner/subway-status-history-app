@@ -21,7 +21,6 @@ class App extends Component {
           <Switch>
             <Route path="/about" component={About} />
             <Route exact path="/" component={TrainsList} />
-            <Route path="/:id" component={TrainPage} />
             <Route render={function () {
               return <p>Not found</p>
             }} />
@@ -34,3 +33,5 @@ class App extends Component {
 }
 
 export default App;
+
+// <Route path="/:id" component={TrainPage} />
