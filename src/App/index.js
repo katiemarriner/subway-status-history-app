@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Route, Link, Switch, NavLink } from 'react-router-dom';
 import './style.css';
-import trains from './routeIds.json';
+import trains from './../assets/routeIds.json';
 import TrainsList from './../TrainsList';
 import TrainPage from './../TrainPage';
 import About from './../About';
@@ -21,6 +21,7 @@ class App extends Component {
           <Switch>
             <Route path="/about" component={About} />
             <Route exact path="/" component={TrainsList} />
+            <Route exact path="/:id" component={TrainPage} />
             <Route render={function () {
               return <p>Not found</p>
             }} />
