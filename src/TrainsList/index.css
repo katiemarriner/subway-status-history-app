@@ -1,13 +1,13 @@
 .trainList-container {
-  display: table;
+  /*display: table;*/
 }
 
 .trainList-routeId {
-  width: 30px;
+  /*width: 30px;
   height: 30px;
   background-color: #eee;
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: middle;*/
 }
 
 .trainList-active {
