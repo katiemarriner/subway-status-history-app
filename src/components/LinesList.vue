@@ -1,6 +1,6 @@
 <template>
-  <div class="container">
-    <div class="trainList-container">
+  <div class="half">
+    <div class="trainList-container half">
       <div
         v-for="train in trains"
         class="trainList-row"
@@ -12,6 +12,9 @@
         </router-link>
       </div>
     </div>
+    <div class="half">
+      <SubwayMap :colors="detail" />
+    </div>
     <div class="trainDetail-container">
       <router-view
         :detail="detail">
@@ -21,6 +24,8 @@
 </template>
 
 <script>
+import SubwayMap from './SubwayMap';
+
 export default {
   name: 'LinesList',
   props: ['trains', 'detail'],
@@ -28,6 +33,9 @@ export default {
     return {
 
     };
+  },
+  components: {
+    SubwayMap,
   },
 };
 </script>

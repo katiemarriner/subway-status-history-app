@@ -2,6 +2,7 @@ import Vue from 'vue';
 import Router from 'vue-router';
 import LinesList from '@/components/LinesList';
 import LineDetail from '@/components/LineDetail';
+import './../css/scaffold.css';
 
 Vue.use(Router);
 

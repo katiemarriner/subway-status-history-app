@@ -9,17 +9,20 @@ import * as spam from 'spamjs';
 
 export default {
   name: 'SubwayMap',
-
+  props: ['colors'],
   created() {
-    d3.json('./src/assets/mapSubway.json', function(error, mapSubway) {
-      console.log(spam);
+    d3.json('./src/assets/mapSubway.json', (error, mapSubway) => {
       var map = new spam.StaticCanvasMap({
         element: '.subway-map',
         data: [{
           features: topojson.feature(mapSubway, mapSubway.objects.mapSubway),
           static: {
-            paintfeature: function(parameters, mapSubway) {
-              parameters.context.stroke()
+            paintfeature: (parameters, mapSubway) => {
+              const name = mapSubway.properties.name.substring(0, 1);
+              const color = this.colors[name] ? this.colors[name].route_color : '000';
+
+              parameters.context.strokeStyle = `#${color}`;
+              parameters.context.stroke();
             }
           }
         }]

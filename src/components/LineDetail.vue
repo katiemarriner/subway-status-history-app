@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="half">
     <table>
       <tr>
         <td>
@@ -8,15 +8,24 @@
         </td>
         <td class="name">{{ train.route_long_name }}</td>
       </tr>
+      <tr>
+        <td colspan="2">
+          <p class="description">Here's a place for a possible description</p>
+        </td>
+      </tr>
     </table>
-    <p class="description">Here's a place for a possible description</p>
-    <SubwayMap />
   </div>
 </template>
 
-<script>
-import SubwayMap from './SubwayMap';
+<style>
+.half {
+  width: 50%;
+  display: inline-block;
+  float: left;
+}
+</style>
 
+<script>
 export default {
   name: 'LineDetail',
   props: ['detail'],
@@ -31,9 +40,6 @@ export default {
         'background-color': `#${color}`,
       };
     },
-  },
-  components: {
-    SubwayMap,
   },
 };
 </script>

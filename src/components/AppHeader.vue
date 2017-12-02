@@ -1,6 +1,8 @@
 <template>
   <div class="header">
-    Here's the header
+    <div class="header-content">
+      Subway Agony
+    </div>
   </div>
 </template>
 
@@ -13,11 +15,13 @@ export default {
 
 <style>
   .header {
-    padding: 4px 8px;
     background-color: #000;
     width: 100%;
     color: #fff;
     font-size: 18px;
     font-weight: 600;
+  }
+  .header-content {
+    padding: 5px 10px;
   }
 </style>
