@@ -1,5 +1,5 @@
 <template>
-  <div class="half">
+  <div class="">
     <div class="trainList-container">
       <table-component
           table-class="trainList-table"
@@ -41,7 +41,8 @@
     </div> -->
     <div class="trainDetail-container">
       <router-view
-        :detail="detail">
+        :detail="detail"
+      >
       </router-view>
     </div>
   </div>
@@ -73,7 +74,7 @@ export default {
     },
     setStyle(color) {
       return {
-        backgroundColor: `#${color}`,
+        backgroundColor: color !== null ? `#${color}` : '#6D6E71',
       };
     },
   },
