@@ -1,13 +1,13 @@
 <template>
-  <div class="half">
+  <div class="">
     <span
       class="listDetail-back"
       v-html="getArrow()"
       @click="goBack">
     </span>
-    <table>
+    <table class="">
       <tr>
-        <td>
+        <td class="route-symbol-td">
           <span class="route-symbol"
                 :style="routeColor(train.route_color)">{{ $route.params.id }}</span>
         </td>
@@ -19,6 +19,9 @@
         </td>
       </tr>
     </table>
+    <OntimeChart
+      :detail="detail">
+    </OntimeChart>
   </div>
 </template>
 
@@ -49,6 +52,9 @@ export default {
       };
     },
   },
+  components: {
+    OntimeChart: () => import('./OntimeChart'),
+  },
 };
 </script>
 
@@ -77,11 +83,20 @@ td {
 
 .listDetail-back {
   cursor: pointer;
+  display: block;
+}
+
+.listDetail-back:hover {
+  font-weight: bold;
 }
 
 .name {
   font-size: 20px;
   font-weight: 700;
   line-height: 26px;
+}
+
+.route-symbol-td {
+  width: 35px;
 }
 </style>
