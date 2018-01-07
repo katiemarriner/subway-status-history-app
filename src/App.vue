@@ -22,16 +22,13 @@ export default {
       detail,
     };
   },
-  mounted() {
-    // bus.$emit('id-selected', 1);
-  },
   components: {
     AppHeader,
   },
 };
 </script>
 
-<style>
+<style lang="scss">
 body {
   margin: 0;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -42,5 +39,35 @@ body {
 
 #app {
   margin: 8px;
+}
+
+.half {
+  display: inline-block;
+  width: 50%;
+  float: left;
+  @media(max-width: 550px){
+    width: 100%;
+  }
+}
+
+.route-symbol {
+  border-radius: 100px;
+  color: #fff;
+  display: block;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 900;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  width: 25px;
+}
+
+.small {
+  font-size: 14px;
+}
+
+.trainList-table tr {
+  cursor: pointer;
 }
 </style>
