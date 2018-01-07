@@ -1,4 +1,4 @@
-# vue_subway-status-history-app
+# Subway Status History
 
 > A history of the status of the NYC subway
 
