@@ -22,6 +22,9 @@ export default {
       detail,
     };
   },
+  mounted() {
+    // bus.$emit('id-selected', 1);
+  },
   components: {
     AppHeader,
   },
