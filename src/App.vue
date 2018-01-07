@@ -39,6 +39,7 @@ body {
 
 #app {
   margin: 8px;
+  max-width: 600px;
 }
 
 .half {
@@ -69,5 +70,9 @@ body {
 
 .trainList-table tr {
   cursor: pointer;
+}
+
+.trainList-table tr:hover {
+  font-weight: 900;
 }
 </style>
