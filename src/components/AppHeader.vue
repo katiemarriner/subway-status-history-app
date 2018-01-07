@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="header-content">
-      Subway Agony
+      Subway Status History
     </div>
   </div>
 </template>
@@ -9,8 +9,7 @@
 <script>
 export default {
   name: 'AppHeader',
-
-}
+};
 </script>
 
 <style>
