@@ -14,10 +14,13 @@
   },
   "dependencies": {
     "d3": "^4.11.0",
+    "glyphicons": "^0.2.0",
+    "moment": "^2.20.1",
     "spamjs": "^1.1.0",
     "topojson-client": "^3.0.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vue-table-component": "^1.8.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
