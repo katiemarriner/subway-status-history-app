@@ -6,6 +6,7 @@
         :trains="trains"
         :detail="detail" />
     </div>
+    <AppFooter />
   </div>
 </template>
 
@@ -13,6 +14,7 @@
 import trains from './assets/routeMeta.json';
 import detail from './assets/routeDetail.json';
 import AppHeader from './components/AppHeader';
+import AppFooter from './components/AppFooter';
 
 export default {
   name: 'app',
@@ -24,6 +26,7 @@ export default {
   },
   components: {
     AppHeader,
+    AppFooter,
   },
 };
 </script>
