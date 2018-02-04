@@ -1,5 +1,29 @@
 <template>
-  <div id="ontimeChart" class="ontimeChart-container"></div>
+  <div>
+    <h4>On-time performance</h4>
+    <div class="ontimeChart-legend">
+      <div>On-time performance target (% on-time) compared to actual</div>
+      <div>
+        <div>
+          <svg width="10" height="10">
+            <rect width="5" height="1" stroke-width="1" x="5" y="5" class="lineTarget-legend"></rect>
+          </svg>
+          Target
+        </div>
+        <div>
+          <svg width="10" height="10">
+            <circle r="3" cx="5" cy="5" class="lineActual-legend" fill="red"></circle>
+          </svg>
+          Below target
+          <svg width="10" height="10">
+            <circle r="3" cx="5" cy="5" class="lineActual-legend" fill="green"></circle>
+          </svg>
+          Above target
+        </div>
+      </div>
+    </div>
+    <div id="ontimeChart" class="ontimeChart-container"></div>
+  </div>
 </template>
 
 <script>
@@ -76,7 +100,13 @@ export default {
       this.yAxis = this.svg
         .append('g')
         .attr('transform', `translate(${this.padding.left + this.width}, ${this.padding.top})`)
-        .call(d3.axisRight(this.y));
+        .call(d3.axisRight(this.y))
+      .append('text')
+        .attr('class', 'label')
+        .attr('x', 15)
+        .attr('y', -6)
+        .style('text-anchor', 'end')
+        .text('(%)');
       
       callback();
     },
@@ -93,8 +123,8 @@ export default {
         .attr('y', (d) => {
           return this.y(d.y);
         })
-        .attr('width', 0.2)
-        .attr('height', 0.2);
+        .attr('width', 3)
+        .attr('height', 0.1);
     },
     renderCircles(data, gElement, className) {
       gElement
@@ -128,10 +158,19 @@ export default {
 .ontimeChart-container {
   max-width: 350px;
 }
-
-.lineTarget {
+h4 {
+  margin: 5px 0;
+}
+.ontimeChart-legend {
+  font-size: 11px;
+  margin: 15px 0;
+}
+.lineTarget, .lineTarget-legend {
   fill: none;
   stroke: #000;
   stroke-width: 1;
+}
+.label {
+  fill: #000;
 }
 </style>
