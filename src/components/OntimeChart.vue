@@ -118,12 +118,12 @@ export default {
         .append('rect')
         .attr('class', className)
         .attr('x', (d) => {
-          return this.x(this.parseTime(d.x));
+          return this.x(this.parseTime(d.x)) - 1.5;
         })
         .attr('y', (d) => {
           return this.y(d.y);
         })
-        .attr('width', 3)
+        .attr('width', 2)
         .attr('height', 0.1);
     },
     renderCircles(data, gElement, className) {
