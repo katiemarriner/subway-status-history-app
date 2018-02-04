@@ -19,9 +19,9 @@
         </td>
       </tr>
     </table>
-    <!-- <ontime-chart
+    <ontime-chart
       :ontime="ontime">
-    </ontime-chart> -->
+    </ontime-chart>
     <ontime-table
       :detail="detail"
       :ontime="ontime">
@@ -120,6 +120,8 @@ td {
 .listDetail-back {
   cursor: pointer;
   display: block;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .listDetail-back:hover {

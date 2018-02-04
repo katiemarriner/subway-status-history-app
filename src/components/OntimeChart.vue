@@ -1,90 +1,137 @@
 <template>
-    <div id="ontimeChart-container"></div>
+  <div id="ontimeChart" class="ontimeChart-container"></div>
 </template>
 
 <script>
-// import * as d3 from 'd3';
-const d3 = Object.assign({}, require('d3-selection'), require('d3-time-format'), require('d3-scale'), require('d3-shape'), require('d3-array'));
+const d3 = Object.assign({}, require('d3-axis'), require('d3-selection'), require('d3-time-format'), require('d3-scale'), require('d3-shape'), require('d3-array'));
 
 export default {
   name: 'OntimeChart',
   props: ['ontime'],
   data() {
-      return {
-          container: '#ontimeChart-container'
-      }
+    return {
+      container: '#ontimeChart',
+    };
   },
   mounted() {
     this.renderLineChart();
   },
   methods: {
-    formatLineData: function (data, x, y) {
-        return data.map((d) => {
-            return {
-                x: d[x],
-                y: d[y],
-            }
-        }).reverse();
+    formatLineData(data, x, y) {
+      return data.map(d => ({ x: d[x], y: d[y], data: d })).reverse();
     },
-    renderLineChart: function () {
-        this.width = this.getContainerWidth(this.container.slice(1));
-        this.height = this.width / 1.5;
+    renderLineChart() {
+      this.padding = {
+        top: 15,
+        right: 30,
+        bottom: 30,
+        left: 15,
+      };
+      this.width = this.getContainerWidth(this.container.slice(1))
+                  - this.padding.left 
+                  - this.padding.right;
+      this.height = (this.width / 1.5)
+                  - this.padding.top
+                  - this.padding.bottom;
 
-        this.svg = d3.select(this.container)
-            .append('svg')
-            .attr('width', this.width)
-            .attr('height', this.height);
-        
-        this.lineActual = this.svg
-            .append('g');
-        
-        this.lineTarget = this.svg
-            .append('g');
+      this.svg = d3.select(this.container)
+        .append('svg')
+        .attr('width', this.width + this.padding.left + this.padding.right)
+        .attr('height', this.height + this.padding.top + this.padding.bottom);
 
-        this.renderLine(this.formatLineData(this.ontime, 'dateFormat', 'MONTHLY_ACTUAL'), this.lineActual);
-        this.renderLine(this.formatLineData(this.ontime, 'dateFormat', 'MONTHLY_TARGET'), this.lineTarget);
-                
+      this.offset = `translate(${this.padding.left}, ${this.padding.top})`;
+
+      this.lineActual = this.svg
+        .append('g')
+        .attr('transform', this.offset);
+
+      this.lineTarget = this.svg
+        .append('g')
+        .attr('transform', this.offset);
+
+      this.calculateScale(this.ontime, () => {
+        this.renderCircles(this.formatLineData(this.ontime, 'dateFormat', 'MONTHLY_ACTUAL'), this.lineActual, 'lineActual');
+        this.renderTicks(this.formatLineData(this.ontime, 'dateFormat', 'MONTHLY_TARGET'), this.lineTarget, 'lineTarget');
+      });
     },
-    renderLine: function (data, gElement) {
-        const parseTime = d3.timeParse('%-m-%Y');
-        
-        this.x = d3.scaleTime()
-            .rangeRound([0, this.width]);
-        
-        this.y = d3.scaleLinear()
-            .rangeRound([this.height, 0]);
-        
-        this.line = d3.line()
-            .x((d) => {
-                return this.x(parseTime(d.x));
-            })
-            .y((d) => {
-                return this.y(d.y);
-            });
-        
-        this.x.domain(d3.extent(data, (d) => {
-            return parseTime(d.x);
-        }));
+    calculateScale(raw, callback) {
+      const data = this.formatLineData(raw, 'dateFormat', 'MONTHLY_ACTUAL');
+      
+      this.parseTime = d3.timeParse('%-m-%Y');
+      
+      this.x = d3.scaleTime()
+        .rangeRound([0, this.width]);
 
-        this.y.domain([50, d3.max(data, (d) => {
-            return d.y;
-        })]);
+      this.y = d3.scaleLinear()
+        .rangeRound([this.height, 0]);
+      
+      this.x.domain(d3.extent(data, d => this.parseTime(d.x)));
+      this.y.domain([50, d3.max(data, d => d.y)]);
 
-        console.log(data);
-
-        gElement.append('path')
-            .datum(data)
-            .attr("fill", "none")
-            .attr("stroke", "steelblue")
-            .attr("stroke-linejoin", "round")
-            .attr("stroke-linecap", "round")
-            .attr("stroke-width", 1.5)
-            .attr("d", this.line);
+      this.xAxis = this.svg
+        .append('g')
+        .attr('transform', `translate(${this.padding.left}, ${this.padding.top + this.height})`)
+        .call(d3.axisBottom(this.x));
+      
+      this.yAxis = this.svg
+        .append('g')
+        .attr('transform', `translate(${this.padding.left + this.width}, ${this.padding.top})`)
+        .call(d3.axisRight(this.y));
+      
+      callback();
     },
-    getContainerWidth: function (containerID) {
-        return document.getElementById(containerID).clientWidth;
+    renderTicks(data, gElement, className) {
+      gElement
+        .selectAll(`.${className}`)
+        .data(data)
+        .enter()
+        .append('rect')
+        .attr('class', className)
+        .attr('x', (d) => {
+          return this.x(this.parseTime(d.x));
+        })
+        .attr('y', (d) => {
+          return this.y(d.y);
+        })
+        .attr('width', 0.2)
+        .attr('height', 0.2);
     },
+    renderCircles(data, gElement, className) {
+      gElement
+        .selectAll(`.${className}`)
+        .data(data)
+        .enter()
+        .append('circle')
+        .attr('fill', (d) => {
+          if (d.data.MONTHLY_ACTUAL > d.data.MONTHLY_TARGET) {
+            return 'green';
+          } else if (d.data.MONTHLY_ACTUAL < d.data.MONTHLY_TARGET) {
+            return 'red';
+          }
+          return '#aaa';
+        })
+        .attr('class', className)
+        .attr('cx', (d) => {
+          return this.x(this.parseTime(d.x));
+        })
+        .attr('cy', (d) => {
+          return this.y(d.y);
+        })
+        .attr('r', 2);
+    },
+    getContainerWidth: containerID => document.getElementById(containerID).clientWidth,
   },
 };
 </script>
 
+<style lang="scss">
+.ontimeChart-container {
+  max-width: 350px;
+}
+
+.lineTarget {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1;
+}
+</style>
