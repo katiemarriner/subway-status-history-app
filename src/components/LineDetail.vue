@@ -19,9 +19,9 @@
         </td>
       </tr>
     </table>
-    <OntimeChart
+    <ontime-table
       :detail="detail">
-    </OntimeChart>
+    </ontime-table>
   </div>
 </template>
 
@@ -53,7 +53,7 @@ export default {
     },
   },
   components: {
-    OntimeChart: () => import('./OntimeChart'),
+    OntimeTable: () => import('./OntimeTable'),
   },
 };
 </script>

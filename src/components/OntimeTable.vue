@@ -108,20 +108,30 @@ export default {
 <style>
 .date {
   text-align: left;
+  text-transform: uppercase;
+  font-size: 13.5px;
 }
 .negative {
   color: red;
 }
 .number {
   text-align: right;
+  font-size: 13.5px;
 }
 .ontimeChart-table {
   clear: both;
+  max-width: 350px;
 }
 .ontimeChart-table td {
-  width: 70px;
+  width: 25%;
 }
 .positive {
   color: green;
+}
+.table-component__th {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.25px;
+  text-align: center;
 }
 </style>

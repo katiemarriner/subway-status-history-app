@@ -25,16 +25,6 @@
           show="route_long_name"
           label=""></table-column>
      </table-component>
-      <!-- <div
-        v-for="train in trains"
-        class="trainList-row"
-        :key="train.route_id">
-        <router-link
-          class="trainList-routeId"
-          :to="{ name: 'line', params: { id: train.route_id }}">
-          <LinesListRow></LinesListRow>
-        </router-link>
-      </div> -->
     </div>
     <!-- <div class="half">
       <subway-map :colors="detail" />
