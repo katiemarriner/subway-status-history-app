@@ -5,7 +5,7 @@
     :show-filter="false"
     sort-order="desc"
     :show-caption="false"
-    table-class="ontimeChart-table">
+    table-class="ontimeTable-table">
     <table-column
       :formatter="formatDate"
       label="Month"
@@ -42,45 +42,20 @@
 
 <script>
 export default {
-  name: 'OntimeChart',
+  name: 'OntimeTable',
+  props: ['ontime'],
   data() {
     return {
 
     };
   },
   computed: {
-    ontime() {
-      return this.formatData(require(`./../assets/waitTimes/${this.$route.params.id}.json`));
-    },
+    
   },
   mounted() {
 
   },
   methods: {
-    formatData(data) {
-      const dataFiltered = data.filter((datum) => {
-        return datum.PERIOD_YEAR !== 2009 && datum.PERIOD_YEAR !== 2010;
-      });
-
-      return dataFiltered.sort((a, b) => {
-        const aYear = a.PERIOD_YEAR;
-        const bYear = b.PERIOD_YEAR;
-        const aMonth = a.PERIOD_MONTH;
-        const bMonth = b.PERIOD_MONTH;
-
-        if (bYear < aYear) {
-          return -1;
-        } else if (bYear > aYear) {
-          return 1;
-        } else if (bMonth < aMonth) {
-          return -1;
-        } else if (bMonth > aMonth) {
-          return 1;
-        } else {
-          return 0;
-        }
-      });
-    },
     formatDate(obj) {
       const months = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
       return `${months[obj.PERIOD_MONTH - 1]} ${obj.PERIOD_YEAR}`;
@@ -118,11 +93,11 @@ export default {
   text-align: right;
   font-size: 13.5px;
 }
-.ontimeChart-table {
+.ontimeTable-table {
   clear: both;
   max-width: 350px;
 }
-.ontimeChart-table td {
+.ontimeTable-table td {
   width: 25%;
 }
 .positive {
