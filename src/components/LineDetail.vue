@@ -9,7 +9,7 @@
       <tr>
         <td class="route-symbol-td">
           <span class="route-symbol"
-                :style="routeColor(train.route_color)">{{ $route.params.id }}</span>
+                :style="routeColor(train.route_color)">{{ train.route_short_name }}</span>
         </td>
         <td class="name">{{ train.route_long_name }}</td>
       </tr>
@@ -87,7 +87,7 @@ export default {
     },
     routeColor(color) {
       return {
-        'background-color': `#${color}`,
+        backgroundColor: color !== null  ? `#${color}` : '#6D6E71',
       };
     },
   },

@@ -2,26 +2,27 @@
   <div class="">
     <div class="trainList-container">
       <table-component
-          table-class="trainList-table"
-         :data="trains"
-         sort-by="route_short_name"
-         sort-order="asc"
-         :show-caption="false"
-         :show-filter="false"
-         @rowClick="getTrain"
-         >
-         <table-column
+        table-class="trainList-table"
+        :data="trains"
+        sort-by="route_short_name"
+        sort-order="asc"
+        :show-caption="false"
+        :show-filter="false"
+        @rowClick="getTrain"
+        >
+        <table-column
           show="route_short_name"
           label="Route"
           :formatter="formatter">
             <template slot-scope="obj">
               <span
                 class="route-symbol"
-                :style="setStyle(obj.route_color)">{{ obj.route_short_name }}
+                :style="setStyle(obj.route_color)">
+                {{ obj.route_short_name }}
               </span>
             </template>
           </table-column>
-         <table-column
+        <table-column
           show="route_long_name"
           label=""></table-column>
      </table-component>
@@ -64,7 +65,7 @@ export default {
     },
     setStyle(color) {
       return {
-        backgroundColor: color !== null ? `#${color}` : '#6D6E71',
+        backgroundColor: color !== null  ? `#${color}` : '#6D6E71',
       };
     },
   },
