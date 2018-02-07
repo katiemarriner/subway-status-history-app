@@ -20,12 +20,15 @@
       </tr>
     </table>
     <ontime-chart
+      v-if="exists"
       :ontime="ontime">
     </ontime-chart>
     <ontime-table
+      v-if="exists"
       :detail="detail"
       :ontime="ontime">
     </ontime-table>
+    <div v-else>No data available</div>
   </div>
 </template>
 
@@ -41,12 +44,19 @@ export default {
     };
   },
   computed: {
+    exists: function () {
+      return this.train.exists === 'true';
+    },
     ontime() {
-      return this.formatData(require(`./../assets/waitTimes/${this.$route.params.id}.json`));
+      if (this.exists) {
+        return this.formatData(require(`./../assets/waitTimes/${this.$route.params.id}.json`));
+      } else {
+        return '';
+      }
     },
   },
   mounted() {
-
+    
   },
   methods: {
     formatData(data) {
