@@ -3,7 +3,8 @@
     <span
       class="listDetail-back"
       v-html="getArrow()"
-      @click="goBack">
+      @click="goBack"
+      v-if="this.$route.name === 'mobile'">
     </span>
     <table class="">
       <tr>
@@ -37,10 +38,10 @@ import icons from 'glyphicons';
 
 export default {
   name: 'LineDetail',
-  props: ['detail'],
+  props: ['detail', 'routeId'],
   data() {
     return {
-      train: this.detail[this.$route.params.id],
+
     };
   },
   computed: {
@@ -48,12 +49,27 @@ export default {
       return this.train.exists === 'true';
     },
     ontime() {
+      console.log(this.$route.params.id)
+      let rId = this.routeId;
+      if (this.$route.params.id) {
+        rId = this.$route.params.id
+      } else if (!this.routeId && !this.$route.params.id) {
+        return;
+      }
+
       if (this.exists) {
-        return this.formatData(require(`./../assets/waitTimes/${this.$route.params.id}.json`));
+        return this.formatData(require(`./../assets/waitTimes/${rId}.json`));
       } else {
         return '';
       }
     },
+    train: function () {
+      if (this.routeId) {
+        return this.detail[this.routeId]
+      } else {
+        return this.detail[this.$route.params.id];
+      }
+    }
   },
   mounted() {
     

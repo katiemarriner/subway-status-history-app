@@ -16,6 +16,12 @@ export default new Router({
     {
       path: '/line/:id',
       name: 'line',
+      component: LinesList,
+      props: true,
+    },
+    {
+      path: '/line/mobile/:id',
+      name: 'mobile',
       component: LineDetail,
       props: true,
     },

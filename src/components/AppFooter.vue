@@ -18,6 +18,7 @@ export default {
 <style>
 .appFooter-container {
   margin: 8px;
+  width: 100%;
 }
 .appFooter-text {
   font-size: 12px;

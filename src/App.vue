@@ -42,13 +42,12 @@ body {
 
 #app {
   margin: 8px;
-  max-width: 600px;
+  // max-width: 600px;
 }
 
 .half {
   display: inline-block;
   width: 50%;
-  float: left;
   @media(max-width: 550px){
     width: 100%;
   }

@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <div class="trainList-container">
+    <div class="trainList-container half">
       <table-component
         table-class="trainList-table"
         :data="trains"
@@ -30,11 +30,21 @@
     <!-- <div class="half">
       <subway-map :colors="detail" />
     </div> -->
-    <div class="trainDetail-container">
-      <router-view
-        :detail="detail"
-      >
-      </router-view>
+    <div class="trainDetail-container half">
+        <router-view
+          :detail="detail"
+          v-if="mobile()"
+        >
+        </router-view>
+        <div
+          class="trainDetail_desktop"
+          v-else
+        >
+        <line-detail
+          :detail="detail"
+          >
+        </line-detail>
+        </div>
     </div>
   </div>
 </template>
@@ -42,6 +52,7 @@
 <script>
 import LinesListRow from './LinesListRow';
 import SubwayMap from './SubwayMap';
+import LineDetail from './LineDetail';
 
 export default {
   name: 'LinesList',
@@ -51,7 +62,16 @@ export default {
       columns: [{
         name: 'route_id',
       }],
+      mobileBreakpoint: 700,
     };
+  },
+  computed: {
+    
+  },
+  ready() {
+    window.addEventListener('resize', () => {
+      this.mobile();
+    })
   },
   mounted() {
 
@@ -61,7 +81,15 @@ export default {
       return routeId;
     },
     getTrain(e) {
-      this.$router.push({ path: `/line/${e.data.route_id}` });
+      if (this.mobile()) {
+        this.$router.push({ path: `/line/mobile/${e.data.route_id}` });
+      } else {
+        this.$router.push({ path: `/line/${e.data.route_id}` });
+      }
+      
+    },
+    mobile: function () {
+      return window.innerWidth < this.mobileBreakpoint;
     },
     setStyle(color) {
       return {
@@ -70,6 +98,7 @@ export default {
     },
   },
   components: {
+    LineDetail,
     LinesListRow,
     SubwayMap,
   },
@@ -91,4 +120,10 @@ li {
 a {
   color: #42b983;
 }
+@media(max-width:700px) {
+  .trainDetail_desktop {
+    display: none;
+  }
+}
+
 </style>
