@@ -49,7 +49,6 @@ export default {
       return this.train.exists === 'true';
     },
     ontime() {
-      console.log(this.$route.params.id)
       let rId = this.routeId;
       if (this.$route.params.id) {
         rId = this.$route.params.id
@@ -70,9 +69,6 @@ export default {
         return this.detail[this.$route.params.id];
       }
     }
-  },
-  mounted() {
-    
   },
   methods: {
     formatData(data) {

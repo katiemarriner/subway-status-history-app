@@ -48,6 +48,7 @@ body {
 .half {
   display: inline-block;
   width: 50%;
+  float: left;
   @media(max-width: 550px){
     width: 100%;
   }

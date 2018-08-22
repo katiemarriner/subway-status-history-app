@@ -22,7 +22,7 @@
         </div>
       </div>
     </div>
-    <div id="ontimeChart" class="ontimeChart-container"></div>
+    <div id="ontimeChart" class="ontimeChart-container"><svg></svg></div>
   </div>
 </template>
 
@@ -39,6 +39,9 @@ export default {
   },
   mounted() {
     this.renderLineChart();
+  },
+  watch: {
+    'ontime': 'renderLineChart',
   },
   methods: {
     formatLineData(data, x, y) {
@@ -58,8 +61,9 @@ export default {
                   - this.padding.top
                   - this.padding.bottom;
 
-      this.svg = d3.select(this.container)
-        .append('svg')
+      this.svg = d3.select(`${this.container} svg`);
+      this.svg.selectAll('svg > *').remove();
+      this.svg
         .attr('width', this.width + this.padding.left + this.padding.right)
         .attr('height', this.height + this.padding.top + this.padding.bottom);
 
