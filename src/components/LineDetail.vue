@@ -24,11 +24,11 @@
       v-if="exists"
       :ontime="ontime">
     </ontime-chart>
-    <ontime-table
+    <!-- <ontime-table
       v-if="exists"
       :detail="detail"
       :ontime="ontime">
-    </ontime-table>
+    </ontime-table> -->
     <div v-else>No data available</div>
   </div>
 </template>

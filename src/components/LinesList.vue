@@ -1,8 +1,7 @@
 <template lang="pug">
   div
     div.trainList-container.half
-      table-component(
-        table.trainList-table
+      table-component.trainList-table(
         :data="trains"
         sort-by="route_short_name"
         sort-order="asc"
@@ -71,7 +70,6 @@ export default {
       } else {
         this.$router.push({ path: `/line/${e.data.route_id}` });
       }
-      
     },
     mobile: function () {
       return window.innerWidth < this.mobileBreakpoint;
@@ -101,6 +99,9 @@ ul {
 li {
   display: inline-block;
   margin: 0 10px;
+}
+.trainList-table tr {
+  cursor: pointer;
 }
 a {
   color: #42b983;
